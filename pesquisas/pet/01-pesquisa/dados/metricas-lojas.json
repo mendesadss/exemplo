@@ -1,0 +1,357 @@
+{
+ "doyobest": {
+  "dominio": "doyobest.com",
+  "n": 24,
+  "unicos": 7,
+  "dup": 3.43,
+  "maxDias": 363,
+  "medDias": 33,
+  "janelaDias": 356,
+  "fmt": {
+   "VIDEO": 9,
+   "IMAGE": 14,
+   "DCO": 1
+  },
+  "ctas": {
+   "Shop now": 24
+  },
+  "plat": {
+   "FACEBOOK": 24,
+   "INSTAGRAM": 24,
+   "AUDIENCE_NETWORK": 24,
+   "WHATSAPP": 16,
+   "THREADS": 24,
+   "MESSENGER": 13
+  },
+  "top": [
+   {
+    "id": "1384242609792377",
+    "dias": 363,
+    "fmt": "VIDEO",
+    "title": "❤️‍🩹 A Metal Car Hanger that will accompany you",
+    "body": "🥹Let an angel accompany you on every journey. Pet Memorial Metal Car Hanger\n👇🏻👇🏻Order Now 👇🏻👇🏻\nhttps://doyobest.com/products/10080565035325\n\n#doyobest ",
+    "url": "https://www.doyobest.com/products/10080565035325",
+    "var": 2
+   },
+   {
+    "id": "988491613538701",
+    "dias": 160,
+    "fmt": "DCO",
+    "title": "{{product.name}}",
+    "body": "{{product.brand}}",
+    "url": "https://doyobest.com/products/10080565035325",
+    "var": 1
+   },
+   {
+    "id": "3278918908975499",
+    "dias": 61,
+    "fmt": "IMAGE",
+    "title": "🐾 Your Pet, Your Welcome",
+    "body": "🐾 Turn your pet’s favorite photo into a custom doormat just for your home. A sweet welcome featuring the furry friend you love most. ❤️ Customize Yours 👉 http",
+    "url": "https://doyobest.com/products/10458086768957",
+    "var": 5
+   },
+   {
+    "id": "2345689386242741",
+    "dias": 50,
+    "fmt": "IMAGE",
+    "title": "🐾 Custom Pet Doormat for Dog Lovers",
+    "body": "🐾 A custom pet doormat for dog lovers who want a warmer welcome. Upload their pup’s photo and brighten every doorstep with a special memory. 👉 https://doyobes",
+    "url": "https://doyobest.com/products/10458086768957",
+    "var": 1
+   },
+   {
+    "id": "1880049099968692",
+    "dias": 50,
+    "fmt": "IMAGE",
+    "title": "🐾 Custom Pet Doormat for Dog Lovers",
+    "body": "🐾 A custom pet doormat for dog lovers who want a warmer welcome. Upload their pup’s photo and brighten every doorstep with a special memory. 👉 https://doyobes",
+    "url": "https://doyobest.com/products/10458086768957",
+    "var": 2
+   }
+  ]
+ },
+ "turnmeroyal": {
+  "dominio": "turnmeroyal.com",
+  "n": 35,
+  "unicos": 10,
+  "dup": 3.5,
+  "maxDias": 174,
+  "medDias": 22,
+  "janelaDias": 170,
+  "fmt": {
+   "IMAGE": 19,
+   "VIDEO": 16
+  },
+  "ctas": {
+   "Shop now": 32,
+   "Learn more": 3
+  },
+  "plat": {
+   "FACEBOOK": 35,
+   "INSTAGRAM": 35,
+   "AUDIENCE_NETWORK": 35,
+   "MESSENGER": 9,
+   "THREADS": 35
+  },
+  "top": [
+   {
+    "id": "980833691012729",
+    "dias": 174,
+    "fmt": "IMAGE",
+    "title": "Your family's wild west legend, painted forever. 🔥",
+    "body": "Turn anyone you love — family, friends, kids, pets — into cowboys in a Western-style oil portrait.\n\nUpload one photo or several. Watch them ride into a hand-sty",
+    "url": "https://turnmeroyal.com/product/cowboy",
+    "var": 1
+   },
+   {
+    "id": "1820238798782834",
+    "dias": 80,
+    "fmt": "IMAGE",
+    "title": "The eternal portrait of your family's love ❤️",
+    "body": "Turn your loved ones — and their pets — into legends, rendered exactly as they are.\n\nUpload your favorite photos and receive a custom oil painting that immortal",
+    "url": "https://turnmeroyal.com/product/the-oath",
+    "var": 1
+   },
+   {
+    "id": "1596857225216568",
+    "dias": 43,
+    "fmt": "IMAGE",
+    "title": "The eternal portrait of your family's love ❤️",
+    "body": "Turn your loved ones — and their pets — into a timeless portrait, captured exactly as they are.\n\nUpload your favorite photos and receive a custom oil painting t",
+    "url": "https://turnmeroyal.com/best-sellers",
+    "var": 1
+   },
+   {
+    "id": "1753102749352020",
+    "dias": 43,
+    "fmt": "IMAGE",
+    "title": "The eternal portrait of your family's love ❤️",
+    "body": "Turn your loved ones — and their pets — into a timeless portrait, captured exactly as they are.\n\nUpload your favorite photos and receive a custom oil painting t",
+    "url": "https://turnmeroyal.com/product/the-saloon",
+    "var": 1
+   },
+   {
+    "id": "2084687182160708",
+    "dias": 43,
+    "fmt": "IMAGE",
+    "title": "The eternal portrait of your family's love ❤️",
+    "body": "Turn your loved ones — and their pets — into a timeless portrait, captured exactly as they are.\n\nUpload your favorite photos and receive a custom oil painting t",
+    "url": "https://turnmeroyal.com/product/the-saloon",
+    "var": 1
+   }
+  ]
+ },
+ "companionarchive": {
+  "dominio": "companionarchive.com",
+  "n": 18,
+  "unicos": 11,
+  "dup": 1.64,
+  "maxDias": 123,
+  "medDias": 40,
+  "janelaDias": 119,
+  "fmt": {
+   "IMAGE": 15,
+   "DCO": 3
+  },
+  "ctas": {
+   "Shop now": 18
+  },
+  "plat": {
+   "FACEBOOK": 18,
+   "INSTAGRAM": 18,
+   "MESSENGER": 9,
+   "THREADS": 18
+  },
+  "top": [
+   {
+    "id": "3952775641695828",
+    "dias": 123,
+    "fmt": "IMAGE",
+    "title": "See It Before You Buy It",
+    "body": "Upload one photo of your pet.\n\nSee their portrait in minutes — before you pay a cent.\n\nDon't love it? Try another photo until it's perfect.\n\nYou only order what",
+    "url": "https://companionarchive.com/upload/old-soul",
+    "var": null
+   },
+   {
+    "id": "859563133791044",
+    "dias": 51,
+    "fmt": "IMAGE",
+    "title": "Nose, Eyes, Paw",
+    "body": "The nose you boop. \nThe eye that watches you cook. \nThe paw that lands on your arm when you've been on the phone too long.\n\nThree Little Things — three studies ",
+    "url": "https://companionarchive.com/upload/three-little-things",
+    "var": null
+   },
+   {
+    "id": "2244374676416463",
+    "dias": 50,
+    "fmt": "IMAGE",
+    "title": "Nose, Eyes, Paw",
+    "body": "The nose you boop. \nThe eye that watches you cook. \nThe paw that lands on your arm when you've been on the phone too long.\n\nThree Little Things — three studies ",
+    "url": "https://companionarchive.com/upload/three-little-things",
+    "var": null
+   },
+   {
+    "id": "1872089060825730",
+    "dias": 49,
+    "fmt": "IMAGE",
+    "title": "Quietly Beautiful Pet Portraits",
+    "body": "You spent years getting the living room right. The pet portrait shouldn't be the thing that ruins it.\n\nThese are built for considered homes. Dark grounds, clean",
+    "url": "https://companionarchive.com/upload/adoration",
+    "var": null
+   },
+   {
+    "id": "1410159774512829",
+    "dias": 47,
+    "fmt": "IMAGE",
+    "title": "Quietly Beautiful Pet Portraits",
+    "body": "You spent years getting the living room right. The pet portrait shouldn't be the thing that ruins it.\n\nThese are built for considered homes. Dark grounds, clean",
+    "url": "https://companionarchive.com/upload/the-noir",
+    "var": null
+   }
+  ]
+ },
+ "milagift": {
+  "dominio": "milagift.com",
+  "n": 53,
+  "unicos": 7,
+  "dup": 7.57,
+  "maxDias": 63,
+  "medDias": 2,
+  "janelaDias": 62,
+  "fmt": {
+   "VIDEO": 13,
+   "DPA": 2,
+   "IMAGE": 38
+  },
+  "ctas": {
+   "Shop now": 53
+  },
+  "plat": {
+   "FACEBOOK": 53,
+   "INSTAGRAM": 53,
+   "AUDIENCE_NETWORK": 53,
+   "WHATSAPP": 15,
+   "THREADS": 53,
+   "MESSENGER": 5
+  },
+  "top": [
+   {
+    "id": "1553536622651645",
+    "dias": 63,
+    "fmt": "VIDEO",
+    "title": "Turn Your Pet Photo into Art🎁 A personalized blanket made for pet lov",
+    "body": "🐾Turn your favorite pet photo into a beautiful piece of art. Upload a photo of your furry companion and create a personalized blanket featuring an artistic oil",
+    "url": "https://www.milagift.com/products/personalized-pet-photo-impasto-oil-paint-texture-soft-throw-blanket-with-name-home-decor-birthday-pet-memorial-gift-for-pet-lovers",
+    "var": 7
+   },
+   {
+    "id": "1543262300230882",
+    "dias": 56,
+    "fmt": "VIDEO",
+    "title": "Personalized Pet Paw Photo Soft Throw Blanket with Name Room Decor Bir",
+    "body": "🐾 Your pet. Your blanket. Your favorite cuddle.🤍\nCustomize it with your pet's photo and name to create a cozy keepsake you'll love every day. 🛋️",
+    "url": "https://www.milagift.com/products/personalized-pet-paw-photo-soft-throw-blanket-with-name-room-decor-birthday-anniversary-gift-for-pet-lovers",
+    "var": 4
+   },
+   {
+    "id": "1791496828543603",
+    "dias": 42,
+    "fmt": "VIDEO",
+    "title": "Turn Your Pet Photo into Art🎁 A personalized blanket made for pet lov",
+    "body": "🐾Turn your favorite pet photo into a beautiful piece of art. Upload a photo of your furry companion and create a personalized blanket featuring an artistic oil",
+    "url": "https://www.milagift.com/products/personalized-pet-photo-impasto-oil-paint-texture-soft-throw-blanket-with-name-home-decor-birthday-pet-memorial-gift-for-pet-lovers",
+    "var": 7
+   },
+   {
+    "id": "1656851502672515",
+    "dias": 42,
+    "fmt": "VIDEO",
+    "title": "Turn Your Pet Photo into Art🎁 A personalized blanket made for pet lov",
+    "body": "🐾Turn your favorite pet photo into a beautiful piece of art. Upload a photo of your furry companion and create a personalized blanket featuring an artistic oil",
+    "url": "https://www.milagift.com/products/personalized-pet-photo-impasto-oil-paint-texture-soft-throw-blanket-with-name-home-decor-birthday-pet-memorial-gift-for-pet-lovers",
+    "var": 7
+   },
+   {
+    "id": "1748472569793518",
+    "dias": 42,
+    "fmt": "VIDEO",
+    "title": "Turn Your Pet Photo into Art🎁 A personalized blanket made for pet lov",
+    "body": "🐾Turn your favorite pet photo into a beautiful piece of art. Upload a photo of your furry companion and create a personalized blanket featuring an artistic oil",
+    "url": "https://www.milagift.com/products/personalized-pet-photo-impasto-oil-paint-texture-soft-throw-blanket-with-name-home-decor-birthday-pet-memorial-gift-for-pet-lovers",
+    "var": 7
+   }
+  ]
+ },
+ "petloverscustom": {
+  "dominio": "petloverscustom.com",
+  "n": 28,
+  "unicos": 13,
+  "dup": 2.15,
+  "maxDias": 73,
+  "medDias": 33,
+  "janelaDias": 64,
+  "fmt": {
+   "IMAGE": 1,
+   "VIDEO": 27
+  },
+  "ctas": {
+   "Shop now": 28
+  },
+  "plat": {
+   "FACEBOOK": 28,
+   "INSTAGRAM": 28,
+   "AUDIENCE_NETWORK": 28,
+   "MESSENGER": 12,
+   "WHATSAPP": 28,
+   "THREADS": 28
+  },
+  "top": [
+   {
+    "id": "1121518964002620",
+    "dias": 73,
+    "fmt": "IMAGE",
+    "title": "Custom Varsity Jacket with Your Pet's Portrait",
+    "body": "Turn your favorite pet photo into a classic Varsity Jacket you'll wear for years. 🐶🧵\n\nYour pet's portrait is carefully embroidered on the back, paired with th",
+    "url": "https://www.petloverscustom.com/products/personalized-pet-embroidery-varsity-jacket-custom-dog-portrait-baseball-jacket-with-pet-name-and-est-year-unique-back-embroidered-jacket-for-dog-lovers",
+    "var": 1
+   },
+   {
+    "id": "993734750309408",
+    "dias": 68,
+    "fmt": "VIDEO",
+    "title": "Because They're Family, Not Just Pets. 🐾",
+    "body": "🐶 They'll never know how much they mean to us... but we do. ❤️\n\nTurn your favorite photo into a custom embroidered keepsake with your pet's portrait, name, and",
+    "url": "https://www.petloverscustom.com/products/custom-pet-portrait-floral-applique-embroidered-t-shirt-sweatshirt-personalized-gift-for-pet-lovers-with-est-year",
+    "var": 3
+   },
+   {
+    "id": "1054610893818551",
+    "dias": 58,
+    "fmt": "VIDEO",
+    "title": "📣🎉For Pet Lovers",
+    "body": "This Christmas, make your pet the star of the season. Our personalized embroidered sweatshirt can feature up to 5 pet portraits with a custom name, turning your",
+    "url": "https://www.petloverscustom.com/products/personalized-embroidered-sweatshirt-with-pets-portrait-and-name",
+    "var": 2
+   },
+   {
+    "id": "1481755850637961",
+    "dias": 57,
+    "fmt": "VIDEO",
+    "title": "📣🎉For Pet Lovers",
+    "body": "This Christmas, make your pet the star of the season. Our personalized embroidered sweatshirt can feature up to 5 pet portraits with a custom name, turning your",
+    "url": "https://www.petloverscustom.com/products/personalized-embroidered-sweatshirt-with-pets-portrait-and-name",
+    "var": null
+   },
+   {
+    "id": "28278825041728916",
+    "dias": 55,
+    "fmt": "VIDEO",
+    "title": "🐾 Turn Your Pet Into a Sweatshirt You’ll Love",
+    "body": "🐾 Wear Your Best Friend Everywhere\nTurn your favorite pet photo into a custom embroidered sweatshirt made just for you. 💖\n\n📸 Personalized with your pet’s por",
+    "url": "https://www.petloverscustom.com/products/personalized-embroidered-sweatshirt-with-pets-portrait-and-name",
+    "var": 1
+   }
+  ]
+ }
+}

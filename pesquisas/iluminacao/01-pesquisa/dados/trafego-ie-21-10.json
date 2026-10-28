@@ -1,0 +1,67 @@
+{
+  "creative.lighting": {
+    "status": "OK",
+    "dominio": "creative.lighting",
+    "visitas": "370.8K",
+    "rankGlobal": "142,485",
+    "rankPais": "18,248",
+    "rankCategoria": "117",
+    "bounce": "64.81%",
+    "pagesPerVisit": "2.16",
+    "duracao": "00:01:00",
+    "rank3mAtras": "155,195",
+    "rankAtual": "142,485",
+    "paises": [
+      {
+        "pais": "United States",
+        "pct": "31.7%"
+      },
+      {
+        "pais": "Germany",
+        "pct": "14.13%"
+      },
+      {
+        "pais": "Italy",
+        "pct": "7.12%"
+      },
+      {
+        "pais": "United Kingdom",
+        "pct": "6.85%"
+      },
+      {
+        "pais": "Spain",
+        "pct": "6.36%"
+      },
+      {
+        "pais": "Others",
+        "pct": "33.83%"
+      }
+    ],
+    "pctMasculino": "54.33%",
+    "pctFeminino": "54.33%",
+    "faixaEtaria": "55 - 64",
+    "print": "prints/sw-creative_lighting.jpg"
+  },
+  "lightscordless.com": {
+    "visitas": "27.4K",
+    "rankGlobal": "1,055,345",
+    "rankPais": "266,044",
+    "rankCategoria": null,
+    "bounce": "64.29%",
+    "pagesPerVisit": "1.74",
+    "duracao": "00:03:56",
+    "paises": [
+      {
+        "pais": "United States",
+        "pct": "89.42%"
+      },
+      {
+        "pais": "Canada",
+        "pct": "10.58%"
+      }
+    ],
+    "status": "OK",
+    "print": "prints/sw-lightscordless_com.jpg",
+    "dominio": "lightscordless.com"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "product_handle": "flameless-led-candle-set",
+  "competitor": "Popular Lighting",
+  "competitor_product_title": "Flameless LED Candle (Pack of Three)",
+  "competitor_page": "https://popular.lighting/products/flameless-led-candle-pack-of-three",
+  "competitor_json": "https://popular.lighting/products/flameless-led-candle-pack-of-three.js",
+  "real_carousel_count": 7,
+  "downloaded_carousel_count": 7,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle1.webp?v=1730539683",
+      "alt": null,
+      "bytes": 70846
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle.webp?v=1730539682",
+      "alt": null,
+      "bytes": 61775
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle2.webp?v=1730539683",
+      "alt": null,
+      "bytes": 52039
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle3.webp?v=1730539683",
+      "alt": null,
+      "bytes": 53583
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle5.webp?v=1730539683",
+      "alt": null,
+      "bytes": 33301
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle6.webp?v=1730539682",
+      "alt": null,
+      "bytes": 32196
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle7.webp?v=1730539683",
+      "alt": null,
+      "bytes": 30515
+    }
+  ]
+}

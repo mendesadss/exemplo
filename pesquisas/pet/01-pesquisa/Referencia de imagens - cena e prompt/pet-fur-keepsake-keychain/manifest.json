@@ -1,0 +1,76 @@
+{
+  "product_handle": "pet-fur-keepsake-keychain",
+  "competitor": "Doyobest",
+  "competitor_product_title": "Leather Pet Fur Keepsake Keychain, Personalized Once by My Side Memorial, Creative Sympathy Gift for Pet Owners",
+  "competitor_page": "https://doyobest.com/products/15402071687485",
+  "competitor_json": "https://doyobest.com/products/15402071687485.js",
+  "real_carousel_count": 8,
+  "downloaded_carousel_count": 8,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/8-1_08909255-8f3c-4b75-b19b-2b339ff14f57.webp?v=1792491531",
+      "alt": null,
+      "bytes": 789510
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e6804133f30001725100e0c18182a2c6a75692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+      "alt": null,
+      "bytes": 170695
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e687f1d77001708132e723d18182a2c6a74692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+      "alt": null,
+      "bytes": 254816
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e683d320837311d163f743218182a2c6a73692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+      "alt": null,
+      "bytes": 250467
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e682a2e2a130f052130721218182a2c6a72692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+      "alt": null,
+      "bytes": 223445
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e68260577722b3d017f1e2318182a2c6a3522312e2230692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+      "alt": null,
+      "bytes": 140689
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d652a28242c32373468290b2e2b2c2a1731336a7f7277230b701522356a212121212121692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657.webp?v=1790760876",
+      "alt": null,
+      "bytes": 159561
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d652a28242c32373468290b2e2b2c2a1731336a267715722e2b2b090f6a212121212121692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657.webp?v=1790760876",
+      "alt": null,
+      "bytes": 145832
+    }
+  ]
+}

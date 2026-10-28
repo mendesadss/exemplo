@@ -1,0 +1,94 @@
+{
+  "data": "2026-10-20",
+  "decisao": {
+    "nivel": "Aprovado",
+    "badge": "APROVADO: SIGA AS RECOMENDAÇÕES"
+  },
+  "lojas": [
+    {
+      "loja": "MilaGift",
+      "modelo": "DROPSHIP PURO",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "score": 9,
+      "scorecard": [
+        1,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "defensabilidade": "ARBITRAGEM",
+      "momentum": "crescendo"
+    },
+    {
+      "loja": "Doyobest",
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "score": 7,
+      "scorecard": [
+        1,
+        1,
+        2,
+        2,
+        0,
+        1
+      ],
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "estável"
+    },
+    {
+      "loja": "Turn Me Royal",
+      "modelo": "MARCA",
+      "veredito": "OBSERVAR",
+      "nivel": "AVANÇADO",
+      "score": 4,
+      "scorecard": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "estável"
+    },
+    {
+      "loja": "Companion Archive",
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "OBSERVAR",
+      "nivel": "MÉDIO",
+      "score": 7,
+      "scorecard": [
+        0,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "defensabilidade": "ARBITRAGEM",
+      "momentum": "estável"
+    },
+    {
+      "loja": "Pet Lovers Custom",
+      "modelo": "DROPSHIP PURO",
+      "veredito": "OBSERVAR",
+      "nivel": "MÉDIO",
+      "score": 7,
+      "scorecard": [
+        0,
+        1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "defensabilidade": "ARBITRAGEM",
+      "momentum": "estável"
+    }
+  ]
+}

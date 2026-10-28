@@ -1,0 +1,35 @@
+{
+  "data": "2026-10-20",
+  "produtos": [
+    {
+      "produto": "watercolor-pet-portrait-throw-blanket",
+      "concorrente": "Doyobest",
+      "carrossel_real": 7,
+      "baixadas": 7
+    },
+    {
+      "produto": "pet-memorial-acrylic-ornament",
+      "concorrente": "Doyobest",
+      "carrossel_real": 5,
+      "baixadas": 5
+    },
+    {
+      "produto": "pet-memorial-ceramic-planter",
+      "concorrente": "Macorner",
+      "carrossel_real": 7,
+      "baixadas": 7
+    },
+    {
+      "produto": "pet-fur-keepsake-keychain",
+      "concorrente": "Doyobest",
+      "carrossel_real": 8,
+      "baixadas": 8
+    },
+    {
+      "produto": "remembrance-gift-set",
+      "concorrente": "Doyobest",
+      "carrossel_real": 7,
+      "baixadas": 7
+    }
+  ]
+}

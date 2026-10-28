@@ -1,0 +1,350 @@
+{
+ "macorner.co": {
+  "visitas": "1.1M",
+  "rankGlobal": "50,906",
+  "rankPais": "13,541",
+  "rankCategoria": "234",
+  "bounce": "59.56%",
+  "pagesPerVisit": "2.60",
+  "duracao": "00:02:02",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "75.59%"
+   },
+   {
+    "pais": "Vietnam",
+    "pct": "11.21%"
+   },
+   {
+    "pais": "Italy",
+    "pct": "3.72%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "2.53%"
+   },
+   {
+    "pais": "Australia",
+    "pct": "1.87%"
+   },
+   {
+    "pais": "Others",
+    "pct": "5.07%"
+   }
+  ],
+  "pctMasculino": "34.24%",
+  "pctFeminino": "34.24%",
+  "faixaEtaria": "45 - 54",
+  "status": "OK",
+  "print": "prints/sw-macorner_co.jpg",
+  "dominio": "macorner.co"
+ },
+ "pawfecthouse.com": {
+  "visitas": "1.1M",
+  "rankGlobal": null,
+  "rankPais": null,
+  "rankCategoria": null,
+  "bounce": "48.52%",
+  "pagesPerVisit": "3.08",
+  "duracao": "00:01:37",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "87.22%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "5.26%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "3.78%"
+   },
+   {
+    "pais": "Vietnam",
+    "pct": "2.5%"
+   },
+   {
+    "pais": "Thailand",
+    "pct": "0.53%"
+   },
+   {
+    "pais": "Others",
+    "pct": "0.71%"
+   }
+  ],
+  "pctMasculino": "48.32%",
+  "pctFeminino": "48.32%",
+  "faixaEtaria": "45 - 54",
+  "status": "OK",
+  "print": "prints/sw-pawfecthouse_com.jpg",
+  "dominio": "pawfecthouse.com"
+ },
+ "milagift.com": {
+  "visitas": "20K",
+  "rankGlobal": "1,433,613",
+  "rankPais": "517,250",
+  "rankCategoria": null,
+  "bounce": "44.67%",
+  "pagesPerVisit": "2.89",
+  "duracao": "00:00:13",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "68.82%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "12.67%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "11.69%"
+   },
+   {
+    "pais": "Australia",
+    "pct": "6.82%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-milagift_com.jpg",
+  "dominio": "milagift.com"
+ },
+ "petfiestas.com": {
+  "visitas": "27.3K",
+  "rankGlobal": "997,034",
+  "rankPais": "341,335",
+  "rankCategoria": "8,220",
+  "bounce": "65.19%",
+  "pagesPerVisit": "2.04",
+  "duracao": "00:00:34",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "87.05%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "12.95%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-petfiestas_com.jpg",
+  "dominio": "petfiestas.com"
+ },
+ "turnmeroyal.com": {
+  "visitas": "119.1K",
+  "rankGlobal": null,
+  "rankPais": null,
+  "rankCategoria": null,
+  "bounce": "41.32%",
+  "pagesPerVisit": "4.98",
+  "duracao": "00:03:11",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "92.26%"
+   },
+   {
+    "pais": "Vietnam",
+    "pct": "2.68%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "1.61%"
+   },
+   {
+    "pais": "India",
+    "pct": "1.04%"
+   },
+   {
+    "pais": "Germany",
+    "pct": "1%"
+   },
+   {
+    "pais": "Others",
+    "pct": "1.42%"
+   }
+  ],
+  "pctMasculino": "48.5%",
+  "pctFeminino": "48.5%",
+  "faixaEtaria": "55 - 64",
+  "status": "OK",
+  "print": "prints/sw-turnmeroyal_com.jpg",
+  "dominio": "turnmeroyal.com"
+ },
+ "rememberingollie.com": {
+  "visitas": "100K",
+  "rankGlobal": "4,320,004",
+  "rankPais": "1,373,240",
+  "rankCategoria": null,
+  "bounce": "43.38%",
+  "pagesPerVisit": "2.06",
+  "duracao": "00:07:29",
+  "status": "OK",
+  "print": "prints/sw-rememberingollie_com.jpg",
+  "dominio": "rememberingollie.com"
+ },
+ "wanderprints.com": {
+  "visitas": "1.6M",
+  "rankGlobal": "35,445",
+  "rankPais": "9,068",
+  "rankCategoria": "9",
+  "bounce": "55.6%",
+  "pagesPerVisit": "3.26",
+  "duracao": "00:02:08",
+  "rank3mAtras": "48,785",
+  "rankAtual": "35,445",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "70.43%"
+   },
+   {
+    "pais": "Vietnam",
+    "pct": "12.45%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "6.24%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "3.46%"
+   },
+   {
+    "pais": "Australia",
+    "pct": "3.07%"
+   },
+   {
+    "pais": "Others",
+    "pct": "4.36%"
+   }
+  ],
+  "pctMasculino": "31.06%",
+  "pctFeminino": "31.06%",
+  "faixaEtaria": "45 - 54",
+  "status": "OK",
+  "print": "prints/sw-wanderprints_com.jpg",
+  "dominio": "wanderprints.com"
+ },
+ "callie.com": {
+  "visitas": "2.6M",
+  "rankGlobal": "22,001",
+  "rankPais": "8,688",
+  "rankCategoria": "13",
+  "bounce": "62.33%",
+  "pagesPerVisit": "2.85",
+  "duracao": "00:01:40",
+  "rank3mAtras": "25,552",
+  "rankAtual": "22,001",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "53.02%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "8.24%"
+   },
+   {
+    "pais": "France",
+    "pct": "6.93%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "6.45%"
+   },
+   {
+    "pais": "Australia",
+    "pct": "6.19%"
+   },
+   {
+    "pais": "Others",
+    "pct": "19.18%"
+   }
+  ],
+  "pctMasculino": "35.05%",
+  "pctFeminino": "35.05%",
+  "faixaEtaria": "45 - 54",
+  "status": "OK",
+  "print": "prints/sw-callie_com.jpg",
+  "dominio": "callie.com"
+ },
+ "doyobest.com": {
+  "visitas": "432K",
+  "rankGlobal": "131,599",
+  "rankPais": "33,551",
+  "rankCategoria": "155",
+  "bounce": "52.71%",
+  "pagesPerVisit": "2.26",
+  "duracao": "00:01:43",
+  "rank3mAtras": "161,874",
+  "rankAtual": "131,599",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "84.62%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "11.35%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "3.15%"
+   },
+   {
+    "pais": "Australia",
+    "pct": "0.66%"
+   },
+   {
+    "pais": "Chile",
+    "pct": "0.22%"
+   },
+   {
+    "pais": "Age Distribution",
+    "pct": "5.57%"
+   }
+  ],
+  "pctMasculino": "38.9%",
+  "pctFeminino": "38.9%",
+  "faixaEtaria": "45 - 54",
+  "status": "OK",
+  "print": "prints/sw-doyobest_com.jpg",
+  "dominio": "doyobest.com"
+ },
+ "petloverscustom.com": {
+  "visitas": "35.3K",
+  "rankGlobal": "1,445,591",
+  "rankPais": "89,611",
+  "rankCategoria": "136",
+  "bounce": "88.22%",
+  "pagesPerVisit": "1.17",
+  "duracao": "00:00:11",
+  "rank3mAtras": "2,429,137",
+  "rankAtual": "1,445,591",
+  "status": "OK",
+  "print": "prints/sw-petloverscustom_com.jpg",
+  "dominio": "petloverscustom.com"
+ },
+ "companionarchive.com": {
+  "visitas": "67.5K",
+  "rankGlobal": "368,542",
+  "rankPais": "149,796",
+  "rankCategoria": null,
+  "bounce": "44.38%",
+  "pagesPerVisit": "5.49",
+  "duracao": "00:02:01",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "100%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-companionarchive_com.jpg",
+  "dominio": "companionarchive.com"
+ }
+}

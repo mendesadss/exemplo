@@ -1,0 +1,176 @@
+{
+  "data": "2026-10-20",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "lojas": [
+    {
+      "loja": "MilaGift",
+      "dominio": "milagift.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "1020688937805215"
+      ],
+      "tentativas": [
+        "search_terms=milagift.com (casamento largo, descartado)",
+        "minerar.js --busca por termos de pet, filtrado por linkDomain=milagift.com",
+        "page_id lido do anúncio e consultado direto"
+      ],
+      "reportado": {
+        "ativos": 393,
+        "historico": 522
+      },
+      "biblioteca": {
+        "ativos": 393,
+        "historico": 522
+      },
+      "nota": "primeira leitura 524 ativos e 653 no histórico; segunda leitura 393 e 522 (queda de 25% em minutos): a Biblioteca oscila, vale a segunda e a ficha foi corrigida"
+    },
+    {
+      "loja": "Doyobest",
+      "dominio": "doyobest.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "113964598437122"
+      ],
+      "tentativas": [
+        "search_terms=doyobest.com (casamento largo, descartado)",
+        "minerar.js --busca por termos de pet, filtrado por linkDomain=doyobest.com",
+        "page_id lido do anúncio e consultado direto"
+      ],
+      "reportado": {
+        "ativos": 2026,
+        "historico": 38610
+      },
+      "biblioteca": {
+        "ativos": 2026,
+        "historico": 38610
+      },
+      "nota": "segunda consulta por page_id em 20/10/2026, sem divergência relevante"
+    },
+    {
+      "loja": "Turn Me Royal",
+      "dominio": "turnmeroyal.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "102803518094324",
+        "105681449108396"
+      ],
+      "tentativas": [
+        "search_terms=turnmeroyal.com (casamento largo, descartado)",
+        "minerar.js --busca por termos de pet, filtrado por linkDomain=turnmeroyal.com",
+        "page_id lido do anúncio e consultado direto"
+      ],
+      "reportado": {
+        "ativos": 170,
+        "historico": 332
+      },
+      "biblioteca": {
+        "ativos": 170,
+        "historico": 332
+      },
+      "nota": "segunda consulta por page_id em 20/10/2026, sem divergência relevante"
+    },
+    {
+      "loja": "Companion Archive",
+      "dominio": "companionarchive.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "101874514583283"
+      ],
+      "tentativas": [
+        "search_terms=companionarchive.com (casamento largo, descartado)",
+        "minerar.js --busca por termos de pet, filtrado por linkDomain=companionarchive.com",
+        "page_id lido do anúncio e consultado direto"
+      ],
+      "reportado": {
+        "ativos": 437,
+        "historico": 1905
+      },
+      "biblioteca": {
+        "ativos": 437,
+        "historico": 1905
+      },
+      "nota": "segunda consulta por page_id em 20/10/2026, sem divergência relevante"
+    },
+    {
+      "loja": "Pet Lovers Custom",
+      "dominio": "petloverscustom.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "476086808930513",
+        "513524551850041"
+      ],
+      "tentativas": [
+        "search_terms=petloverscustom.com (casamento largo, descartado)",
+        "minerar.js --busca por termos de pet, filtrado por linkDomain=petloverscustom.com",
+        "page_id lido do anúncio e consultado direto"
+      ],
+      "reportado": {
+        "ativos": 124,
+        "historico": 14643
+      },
+      "biblioteca": {
+        "ativos": 124,
+        "historico": 14643
+      },
+      "nota": "segunda consulta por page_id em 20/10/2026, sem divergência relevante"
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-10-21",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "MilaGift",
+        "dominio": "milagift.com",
+        "metodo": "dominio",
+        "reportado_ativos": 393,
+        "biblioteca_ativos": 393,
+        "biblioteca_historico": 522,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Doyobest",
+        "dominio": "doyobest.com",
+        "metodo": "dominio",
+        "reportado_ativos": 2026,
+        "biblioteca_ativos": 2026,
+        "biblioteca_historico": 38610,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Turn Me Royal",
+        "dominio": "turnmeroyal.com",
+        "metodo": "dominio",
+        "reportado_ativos": 170,
+        "biblioteca_ativos": 170,
+        "biblioteca_historico": 332,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Companion Archive",
+        "dominio": "companionarchive.com",
+        "metodo": "dominio",
+        "reportado_ativos": 437,
+        "biblioteca_ativos": 437,
+        "biblioteca_historico": 1905,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Pet Lovers Custom",
+        "dominio": "petloverscustom.com",
+        "metodo": "dominio",
+        "reportado_ativos": 124,
+        "biblioteca_ativos": 124,
+        "biblioteca_historico": 14643,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

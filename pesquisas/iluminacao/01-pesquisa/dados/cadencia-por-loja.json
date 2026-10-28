@@ -1,0 +1,197 @@
+{
+  "fonte": "mineracao-2026-10-23-01-24.json",
+  "calculadoEm": "2026-10-22",
+  "lojas": {
+    "lightsstockholm.com": {
+      "amostra": 50,
+      "janela": 463,
+      "unicos": 9,
+      "dup": 5.56,
+      "porDia": 0.11,
+      "mix": "estático 16 · vídeo 30 · catálogo (DPA) 4",
+      "top": [
+        {
+          "dias": 468,
+          "id": "1294841042301751",
+          "t": "catálogo dinâmico",
+          "body": "{{product.brand}}",
+          "link": "https://lightsstockholm.com/products/table-lamp-stockholm-buy1-get-1free",
+          "v": 4,
+          "video": true
+        },
+        {
+          "dias": 468,
+          "id": "1232745498642979",
+          "t": "Buy 1 Get 1 Free",
+          "body": "⭐Create a unique atmosphere in your home with our elegant table lamp from Lights Stockholm ✔️ Swedish and Danish design ✔️ Touch-technologi ✔️ Rechargeable & wi",
+          "link": "https://lightsstockholm.com/products/table-lamp-stockholm-buy1-get-1free",
+          "v": 2,
+          "video": true
+        },
+        {
+          "dias": 468,
+          "id": "2083079495520475",
+          "t": "⭐ ⭐ ⭐ ⭐ ⭐ 4.9/5 | 20.000+ clients",
+          "body": "✨Meet the lamp from Lights Stockholm The table lamp features a stylish Danish design, which means it will fit into any home. The lamp is also cordless and recha",
+          "link": "https://lightsstockholm.com/collections/table-lamp",
+          "v": 2,
+          "video": true
+        },
+        {
+          "dias": 468,
+          "id": "1242082857710462",
+          "t": "catálogo dinâmico",
+          "body": "{{product.brand}}",
+          "link": "https://lightsstockholm.com/products/table-lamp-stockholm-buy1-get-1free",
+          "v": 4,
+          "video": true
+        }
+      ],
+      "paginas": [
+        "101463322882949 Stockholm-Lights",
+        "480954971764670 Stockholm-Lights-Official"
+      ]
+    },
+    "kiyohome.com": {
+      "amostra": 50,
+      "janela": 77,
+      "unicos": 40,
+      "dup": 1.25,
+      "porDia": 0.65,
+      "mix": "vídeo 29 · estático 19 · catálogo (DPA) 1 · carrossel 1",
+      "top": [
+        {
+          "dias": 79,
+          "id": "1570311941257176",
+          "t": "Light Up Every Summer Evening",
+          "body": "Free shipping for a limited time plus your homes new seasonal favourites. Explore our new seasonal collections today, on sale!",
+          "link": "https://kiyohome.com/collections/outdoor-patio",
+          "v": 1,
+          "video": false
+        },
+        {
+          "dias": 79,
+          "id": "27918431644454770",
+          "t": "Light Up Every Summer Evening",
+          "body": "The best part of summer isn't the sunshine... It's those warm evenings spent outdoors. Create a backyard you'll never want to leave with beautifully designed so",
+          "link": "https://kiyohome.com/collections/outdoor-patio",
+          "v": 1,
+          "video": false
+        },
+        {
+          "dias": 79,
+          "id": "2267405044017900",
+          "t": "Kiyo Home",
+          "body": "The best part of summer isn't the sunshine... It's those warm evenings spent outdoors. Create a backyard you'll never want to leave with beautifully designed so",
+          "link": "https://kiyohome.com/collections/outdoor-patio",
+          "v": 1,
+          "video": false
+        },
+        {
+          "dias": 73,
+          "id": "1807425706941456",
+          "t": "One Lamp, Every Cozy Corner",
+          "body": "The nights are drawing in — and there's nothing cozier than a warm, low glow to come home to. Our cordless table lamps give you soft, dimmable light anywhere: n",
+          "link": "https://kiyohome.com/collections/all-lighting",
+          "v": 1,
+          "video": true
+        }
+      ],
+      "paginas": [
+        "274248202428835 Kiyo Home"
+      ]
+    },
+    "popular.lighting": {
+      "amostra": 3,
+      "janela": 43,
+      "unicos": 2,
+      "dup": 1.5,
+      "porDia": 0.07,
+      "mix": "vídeo 3",
+      "top": [
+        {
+          "dias": 50,
+          "id": "1772148830799445",
+          "t": "Buy 1, Get 1 Free",
+          "body": "Buy 1, Get 1 Free — the cordless lamp you can put anywhere. No cord, no outlet. Touch to dim, touch to change colour temperature. One charge lasts up to 12 hour",
+          "link": "https://popular.lighting/products/brilliance",
+          "v": 4,
+          "video": true
+        },
+        {
+          "dias": 33,
+          "id": "1121754184145656",
+          "t": "Buy 1, Get 1 Free",
+          "body": "Buy 1, Get 1 Free — the cordless lamp you can put anywhere. No cord, no outlet. Touch to dim, touch to change colour temperature. One charge lasts up to 12 hour",
+          "link": "https://popular.lighting/products/brilliance",
+          "v": 4,
+          "video": true
+        },
+        {
+          "dias": 7,
+          "id": "28584785644464845",
+          "t": "Buy 1, Get 1 Free.",
+          "body": "Buy 1, Get 1 Free. The cordless table lamp you can put anywhere. Warm, dimmable light on the dinner table, by the bed, or outside on the patio. No cord, no outl",
+          "link": "https://popular.lighting/products/brilliance",
+          "v": 3,
+          "video": true
+        }
+      ],
+      "paginas": [
+        "107996448740021 Popular Lighting"
+      ]
+    },
+    "creative.lighting": {
+      "amostra": 18,
+      "janela": 409,
+      "unicos": 4,
+      "dup": 4.5,
+      "porDia": 0.04,
+      "mix": "vídeo 9 · catálogo (DPA) 6 · estático 2 · carrossel 1",
+      "top": [
+        {
+          "dias": 433,
+          "id": "676817832110098",
+          "t": "catálogo dinâmico",
+          "body": "{{product.brand}}",
+          "link": "https://creative.lighting/products/spherical-garden-light",
+          "v": 1,
+          "video": false
+        },
+        {
+          "dias": 433,
+          "id": "1279218323815606",
+          "t": "catálogo dinâmico",
+          "body": "{{product.brand}}",
+          "link": "https://creative.lighting/products/spherical-garden-light",
+          "v": 1,
+          "video": false
+        },
+        {
+          "dias": 423,
+          "id": "1310724130397562",
+          "t": "catálogo dinâmico",
+          "body": "{{product.brand}}",
+          "link": "https://creative.lighting/products/spherical-garden-light",
+          "v": 1,
+          "video": false
+        },
+        {
+          "dias": 366,
+          "id": "1300086341915882",
+          "t": "catálogo dinâmico",
+          "body": "{{product.brand}}",
+          "link": "https://creative.lighting/products/velwave-wall-sconce",
+          "v": 1,
+          "video": false
+        }
+      ],
+      "paginas": [
+        "100881958976489 Creative.Lighting"
+      ]
+    },
+    "lightscordless.com": {
+      "amostra": 0
+    }
+  }
+}

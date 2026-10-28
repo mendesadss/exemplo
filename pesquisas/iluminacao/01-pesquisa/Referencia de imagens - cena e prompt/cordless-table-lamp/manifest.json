@@ -1,0 +1,76 @@
+{
+  "product_handle": "cordless-table-lamp",
+  "competitor": "Popular Lighting",
+  "competitor_product_title": "Brilliance  - Table Lamp",
+  "competitor_page": "https://popular.lighting/products/brilliance",
+  "competitor_json": "https://popular.lighting/products/brilliance.js",
+  "real_carousel_count": 23,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/rn-image_picker_lib_temp_a3ac36fc-6160-404d-931d-de8d13a46f61.webp?v=1786801880",
+      "alt": null,
+      "bytes": 143821
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/rn-image_picker_lib_temp_1b456b1c-0f94-455f-8bdb-c09bca0511fc.jpg?v=1786901572",
+      "alt": null,
+      "bytes": 1278631
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Brilliancelamp_popularlighting_product.webp?v=1778226813",
+      "alt": null,
+      "bytes": 73559
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/BrillianceTableLamp.PopularLighting.black_b5547d47-4155-466a-9020-a50dd5d956c5.png?v=1785831342",
+      "alt": null,
+      "bytes": 1128313
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 14,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Brilliance34.png?v=1776431243",
+      "alt": null,
+      "bytes": 1258794
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 17,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/8.png?v=1776431243",
+      "alt": null,
+      "bytes": 1861226
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 20,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Skarmbild_2025-11-29_181116.png?v=1776431243",
+      "alt": null,
+      "bytes": 886153
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 23,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Brilliancetablelampblack-square.webp?v=1778227152",
+      "alt": null,
+      "bytes": 54013
+    }
+  ]
+}

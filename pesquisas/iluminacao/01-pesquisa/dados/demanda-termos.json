@@ -1,0 +1,25 @@
+{
+  "fonte": "conector Meta Ads (ads_library_search, countries=[US], ACTIVE, limit=1 -> estimated_total_count)",
+  "medidoEm": "2026-10-22",
+  "pais": "US",
+  "termos": [
+    { "t": "home decor", "n": 58506, "confiavel": true },
+    { "t": "christmas gift for her", "n": 45046, "confiavel": true },
+    { "t": "wall art", "n": 23503, "confiavel": true },
+    { "t": "table lamp", "n": 10738, "confiavel": true },
+    { "t": "cozy home decor", "n": 10535, "confiavel": false, "nota": "1º resultado é anúncio de clínica dental: matching largo por 'home'" },
+    { "t": "rechargeable lamp", "n": 1989, "confiavel": true },
+    { "t": "housewarming gift", "n": 1870, "confiavel": true },
+    { "t": "led candles", "n": 1909, "confiavel": false, "nota": "1º resultado é app de lembrete: ruído alto" },
+    { "t": "bedside lamp", "n": 1643, "confiavel": true },
+    { "t": "cordless lamp", "n": 1093, "confiavel": true },
+    { "t": "aesthetic room decor", "n": 728, "confiavel": true },
+    { "t": "wall sconce", "n": 668, "confiavel": true },
+    { "t": "boho home decor", "n": 342, "confiavel": true },
+    { "t": "mushroom lamp", "n": 163, "confiavel": true },
+    { "t": "tulip lamp", "n": 75, "confiavel": true },
+    { "t": "battery operated lamp", "n": 44, "confiavel": false, "nota": "1º resultado é advertorial de saúde (Prevention Magazine)" },
+    { "t": "night light", "n": 204859, "confiavel": false, "nota": "dominado por anúncio de novela ('night'): contagem inútil" },
+    { "t": "kitchen counter lamp", "n": 3667, "confiavel": false, "nota": "1º resultado é anúncio de saúde hormonal: ruído" }
+  ]
+}

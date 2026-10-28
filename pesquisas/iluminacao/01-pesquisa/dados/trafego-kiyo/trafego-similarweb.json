@@ -1,0 +1,40 @@
+{
+ "kiyohome.com": {
+  "visitas": "14.8K",
+  "rankGlobal": "1,473,137",
+  "rankPais": "582,521",
+  "rankCategoria": null,
+  "bounce": "33.56%",
+  "pagesPerVisit": "2.47",
+  "duracao": "00:01:46",
+  "paises": [
+   {
+    "pais": "United States",
+    "pct": "57.68%"
+   },
+   {
+    "pais": "Canada",
+    "pct": "22.89%"
+   },
+   {
+    "pais": "United Kingdom",
+    "pct": "13.88%"
+   },
+   {
+    "pais": "Poland",
+    "pct": "3.13%"
+   },
+   {
+    "pais": "Brazil",
+    "pct": "2.11%"
+   },
+   {
+    "pais": "Others",
+    "pct": "0.31%"
+   }
+  ],
+  "status": "OK",
+  "print": "prints/sw-kiyohome_com.jpg",
+  "dominio": "kiyohome.com"
+ }
+}

@@ -1,0 +1,678 @@
+{
+  "fonte": "MCP (conector Meta Ads)",
+  "geradoEm": "2026-10-23T01:08:06.591Z",
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "home decor",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 58506
+    },
+    {
+      "id": 2,
+      "termo": "home decor",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 2249600
+    },
+    {
+      "id": 3,
+      "termo": "home decor",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 22524
+    },
+    {
+      "id": 4,
+      "termo": "home decor",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 1536505
+    },
+    {
+      "id": 5,
+      "termo": "home decor",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 17695
+    },
+    {
+      "id": 6,
+      "termo": "home decor",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 2569644
+    },
+    {
+      "id": 7,
+      "termo": "home decor",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 18974
+    },
+    {
+      "id": 8,
+      "termo": "home decor",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 1439631
+    },
+    {
+      "id": 9,
+      "termo": "home decor",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 7095
+    },
+    {
+      "id": 10,
+      "termo": "home decor",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 803449
+    },
+    {
+      "id": 11,
+      "termo": "home decor",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 8002
+    },
+    {
+      "id": 12,
+      "termo": "home decor",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 654788
+    },
+    {
+      "id": 13,
+      "termo": "home decor",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 5442
+    },
+    {
+      "id": 14,
+      "termo": "home decor",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 476767
+    },
+    {
+      "id": 15,
+      "termo": "home decor",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 7245
+    },
+    {
+      "id": 16,
+      "termo": "home decor",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 517544
+    },
+    {
+      "id": 17,
+      "termo": "wall art",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 23503
+    },
+    {
+      "id": 18,
+      "termo": "wall art",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 2265584
+    },
+    {
+      "id": 19,
+      "termo": "wall art",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 8990
+    },
+    {
+      "id": 20,
+      "termo": "wall art",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 1425007
+    },
+    {
+      "id": 21,
+      "termo": "wall art",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 9098
+    },
+    {
+      "id": 22,
+      "termo": "wall art",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 2077804
+    },
+    {
+      "id": 23,
+      "termo": "wall art",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 8681
+    },
+    {
+      "id": 24,
+      "termo": "wall art",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 1567779
+    },
+    {
+      "id": 25,
+      "termo": "wall art",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 4318
+    },
+    {
+      "id": 26,
+      "termo": "wall art",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 671472
+    },
+    {
+      "id": 27,
+      "termo": "wall art",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 3947
+    },
+    {
+      "id": 28,
+      "termo": "wall art",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 494160
+    },
+    {
+      "id": 29,
+      "termo": "wall art",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 3682
+    },
+    {
+      "id": 30,
+      "termo": "wall art",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 463393
+    },
+    {
+      "id": 31,
+      "termo": "wall art",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 3290
+    },
+    {
+      "id": 32,
+      "termo": "wall art",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 386261
+    },
+    {
+      "id": 33,
+      "termo": "aesthetic room decor",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 728
+    },
+    {
+      "id": 34,
+      "termo": "aesthetic room decor",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 35112
+    },
+    {
+      "id": 35,
+      "termo": "aesthetic room decor",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 314
+    },
+    {
+      "id": 36,
+      "termo": "aesthetic room decor",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 24365
+    },
+    {
+      "id": 37,
+      "termo": "aesthetic room decor",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 253
+    },
+    {
+      "id": 38,
+      "termo": "aesthetic room decor",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 34996
+    },
+    {
+      "id": 39,
+      "termo": "aesthetic room decor",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 291
+    },
+    {
+      "id": 40,
+      "termo": "aesthetic room decor",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 24933
+    },
+    {
+      "id": 41,
+      "termo": "aesthetic room decor",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 152
+    },
+    {
+      "id": 42,
+      "termo": "aesthetic room decor",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 13536
+    },
+    {
+      "id": 43,
+      "termo": "aesthetic room decor",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 169
+    },
+    {
+      "id": 44,
+      "termo": "aesthetic room decor",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 12173
+    },
+    {
+      "id": 45,
+      "termo": "aesthetic room decor",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 102
+    },
+    {
+      "id": 46,
+      "termo": "aesthetic room decor",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 6060
+    },
+    {
+      "id": 47,
+      "termo": "aesthetic room decor",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 174
+    },
+    {
+      "id": 48,
+      "termo": "aesthetic room decor",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 6367
+    },
+    {
+      "id": 49,
+      "termo": "cordless lamp",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 1093
+    },
+    {
+      "id": 50,
+      "termo": "cordless lamp",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 9535
+    },
+    {
+      "id": 51,
+      "termo": "cordless lamp",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 603
+    },
+    {
+      "id": 52,
+      "termo": "cordless lamp",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 8463
+    },
+    {
+      "id": 53,
+      "termo": "cordless lamp",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 639
+    },
+    {
+      "id": 54,
+      "termo": "cordless lamp",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 16638
+    },
+    {
+      "id": 55,
+      "termo": "cordless lamp",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 618
+    },
+    {
+      "id": 56,
+      "termo": "cordless lamp",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 7907
+    },
+    {
+      "id": 57,
+      "termo": "cordless lamp",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 243
+    },
+    {
+      "id": 58,
+      "termo": "cordless lamp",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 4322
+    },
+    {
+      "id": 59,
+      "termo": "cordless lamp",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 295
+    },
+    {
+      "id": 60,
+      "termo": "cordless lamp",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 4335
+    },
+    {
+      "id": 61,
+      "termo": "cordless lamp",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 246
+    },
+    {
+      "id": 62,
+      "termo": "cordless lamp",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 2966
+    },
+    {
+      "id": 63,
+      "termo": "cordless lamp",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 296
+    },
+    {
+      "id": 64,
+      "termo": "cordless lamp",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 4334
+    },
+    {
+      "id": 65,
+      "termo": "boho home decor",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 342
+    },
+    {
+      "id": 66,
+      "termo": "boho home decor",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 5764
+    },
+    {
+      "id": 67,
+      "termo": "boho home decor",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 166
+    },
+    {
+      "id": 68,
+      "termo": "boho home decor",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 4735
+    },
+    {
+      "id": 69,
+      "termo": "boho home decor",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 236
+    },
+    {
+      "id": 70,
+      "termo": "boho home decor",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 10132
+    },
+    {
+      "id": 71,
+      "termo": "boho home decor",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 191
+    },
+    {
+      "id": 72,
+      "termo": "boho home decor",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 4134
+    },
+    {
+      "id": 73,
+      "termo": "boho home decor",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 121
+    },
+    {
+      "id": 74,
+      "termo": "boho home decor",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 2486
+    },
+    {
+      "id": 75,
+      "termo": "boho home decor",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 136
+    },
+    {
+      "id": 76,
+      "termo": "boho home decor",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 2260
+    },
+    {
+      "id": 77,
+      "termo": "boho home decor",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 75
+    },
+    {
+      "id": 78,
+      "termo": "boho home decor",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 1336
+    },
+    {
+      "id": 79,
+      "termo": "boho home decor",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 144
+    },
+    {
+      "id": 80,
+      "termo": "boho home decor",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 1952
+    },
+    {
+      "id": 81,
+      "termo": "housewarming gift",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 1870
+    },
+    {
+      "id": 82,
+      "termo": "housewarming gift",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 125360
+    },
+    {
+      "id": 83,
+      "termo": "housewarming gift",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 948
+    },
+    {
+      "id": 84,
+      "termo": "housewarming gift",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 86214
+    },
+    {
+      "id": 85,
+      "termo": "housewarming gift",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 870
+    },
+    {
+      "id": 86,
+      "termo": "housewarming gift",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 122136
+    },
+    {
+      "id": 87,
+      "termo": "housewarming gift",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 871
+    },
+    {
+      "id": 88,
+      "termo": "housewarming gift",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 80468
+    },
+    {
+      "id": 89,
+      "termo": "housewarming gift",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 179
+    },
+    {
+      "id": 90,
+      "termo": "housewarming gift",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 37527
+    },
+    {
+      "id": 91,
+      "termo": "housewarming gift",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 201
+    },
+    {
+      "id": 92,
+      "termo": "housewarming gift",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 31851
+    },
+    {
+      "id": 93,
+      "termo": "housewarming gift",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 122
+    },
+    {
+      "id": 94,
+      "termo": "housewarming gift",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 23952
+    },
+    {
+      "id": 95,
+      "termo": "housewarming gift",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 153
+    },
+    {
+      "id": 96,
+      "termo": "housewarming gift",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 22035
+    }
+  ]
+}

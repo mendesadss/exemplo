@@ -1,0 +1,76 @@
+{
+  "product_handle": "cordless-lamp-2-pack",
+  "competitor": "Stockholm-Lights",
+  "competitor_product_title": "Stockholm | Buy 1 Get 1 Free",
+  "competitor_page": "https://lightsstockholm.com/products/table-lamp-stockholm-buy1-get-1free",
+  "competitor_json": "https://lightsstockholm.com/products/table-lamp-stockholm-buy1-get-1free.js",
+  "real_carousel_count": 10,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_8aecda79-8659-421e-bff0-40c92168b043.png?v=1775814134",
+      "alt": null,
+      "bytes": 114819
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_db536705-a795-45ad-9803-08da2295bdae.png?v=1775814134",
+      "alt": null,
+      "bytes": 117184
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_a19b145d-f11f-4a53-a34e-699e0cdb3e5c.png?v=1775814184",
+      "alt": null,
+      "bytes": 43820
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/black-dimmable-led-table-lamp-lights-stockholm.jpg?v=1775814184",
+      "alt": " Black rechargeable LED table lamp – Lights Stockholm (Svart oppladbar LED-bordlampe – Sort genopladelig LED-bordlampe)",
+      "bytes": 517215
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-05.gif",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/Modern_Wireless_Table_Lamp.gif?v=1775814184",
+      "alt": "Table lamp Stockholm - Lights Stockholm -Modern cordless LED table lamp with touch sensor – Lights Stockholm(Modern trådlös LED-bordslampa med touchsensor – Luminária de mesa LED sem fio moderna com sensor de toque – Moderni langaton LED-pöytälamppu kosketusanturilla – Moderne trådløs LED-bordlampe med berøringssensor – Moderne trådløs LED-bordlampe med touch-funktion – Moderna lámpara de mesa LED inalámbrica con sensor táctil – Moderne kabellose LED-Tischlampe mit Touch-Sensor)",
+      "bytes": 13056875
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/IMG_1993_8.jpg?v=1775814134",
+      "alt": null,
+      "bytes": 80000
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/2026-04-10_12.45.16.png?v=1775817948",
+      "alt": null,
+      "bytes": 2917202
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_Apr_10_2026_12_10_04_PM.png?v=1775815898",
+      "alt": null,
+      "bytes": 1149385
+    }
+  ]
+}

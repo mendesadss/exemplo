@@ -1,0 +1,68 @@
+{
+  "product_handle": "watercolor-pet-portrait-throw-blanket",
+  "competitor": "Doyobest",
+  "competitor_product_title": "Personalized Fleece Blanket with Oil Painted Sitting Dog Portrait, Creative Gift for Dog Lovers",
+  "competitor_page": "https://doyobest.com/products/15395671540029",
+  "competitor_json": "https://doyobest.com/products/15395671540029.js",
+  "real_carousel_count": 7,
+  "downloaded_carousel_count": 7,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/6_2f3997df-8dc2-4d62-91fa-2e6b5aa0f654.webp?v=1791880799",
+      "alt": null,
+      "bytes": 366474
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-DEFAULT.webp?v=1790494578",
+      "alt": null,
+      "bytes": 261349
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK1.webp?v=1790494578",
+      "alt": null,
+      "bytes": 138101
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK5.webp?v=1790494578",
+      "alt": null,
+      "bytes": 139776
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK3.webp?v=1790494578",
+      "alt": null,
+      "bytes": 133131
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK2.webp?v=1790494578",
+      "alt": null,
+      "bytes": 103853
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK4.webp?v=1790494578",
+      "alt": null,
+      "bytes": 146524
+    }
+  ]
+}

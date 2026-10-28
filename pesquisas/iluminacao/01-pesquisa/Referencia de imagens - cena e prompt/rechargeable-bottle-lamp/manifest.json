@@ -1,0 +1,76 @@
+{
+  "product_handle": "rechargeable-bottle-lamp",
+  "competitor": "Creative.Lighting",
+  "competitor_product_title": "BottleGlow™",
+  "competitor_page": "https://creative.lighting/products/bottleglow",
+  "competitor_json": "https://creative.lighting/products/bottleglow.js",
+  "real_carousel_count": 24,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/BottleGlow_1000x1000_no_text.webp?v=1791881617",
+      "alt": null,
+      "bytes": 131736
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/30_438cdabe-4419-483e-998e-03086d93bae6.webp?v=1776237653",
+      "alt": null,
+      "bytes": 164149
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/12_d565a49d-e885-467b-99be-a5261f12e2c7.webp?v=1778742462",
+      "alt": null,
+      "bytes": 92951
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/8_0e4b8d6c-28a3-4712-b4f2-dd37567ab594.webp?v=1778742359",
+      "alt": null,
+      "bytes": 120744
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 14,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/bottleglow-yellow.webp?v=1778748201",
+      "alt": null,
+      "bytes": 87931
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 17,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/21_8c30c8cd-2c98-4324-81af-7f7521048267.webp?v=1776237653",
+      "alt": null,
+      "bytes": 164907
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 21,
+      "file": "carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/35_bda18d5a-ade9-4524-aa42-df0f7dcd5300.webp?v=1776236655",
+      "alt": null,
+      "bytes": 81995
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 24,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/1000_x_1000_px.webp?v=1776237797",
+      "alt": null,
+      "bytes": 63406
+    }
+  ]
+}

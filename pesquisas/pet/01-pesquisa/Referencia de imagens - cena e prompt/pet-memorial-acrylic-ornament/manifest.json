@@ -1,0 +1,52 @@
+{
+  "product_handle": "pet-memorial-acrylic-ornament",
+  "competitor": "Doyobest",
+  "competitor_product_title": "Personalized Acrylic Ornament, Faceted Moon & Paw Memorial on an Evergreen, Unique Gift for Pet Owners",
+  "competitor_page": "https://doyobest.com/products/15438872379709",
+  "competitor_json": "https://doyobest.com/products/15438872379709.js",
+  "real_carousel_count": 5,
+  "downloaded_carousel_count": 5,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a7677680f1e762f337414300e2c181837282375757775717677777e7677737e183022256a76692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d3335322.webp?v=1792398569",
+      "alt": null,
+      "bytes": 215440
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a7677682305700f770d2c2e3232181837282375757775717677777e7677737e183022256a75692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d3335322.webp?v=1792398569",
+      "alt": null,
+      "bytes": 191077
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/38jySoIb3h__pod2202610091049_web-3.webp?v=1792398569",
+      "alt": null,
+      "bytes": 184365
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/iecLJG9ksW__pod2202610091049_web-4.webp?v=1792398569",
+      "alt": null,
+      "bytes": 64635
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/qS81TbP6vn__pod2202610091049_web-5.webp?v=1792398569",
+      "alt": null,
+      "bytes": 79461
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lightsstockholm.com": {
+    "dcl": 24730,
+    "load": 26006,
+    "recursos": 271,
+    "kb": 4600,
+    "scripts": 115,
+    "imagens": 43
+  },
+  "creative.lighting": {
+    "dcl": 1628,
+    "load": 3585,
+    "recursos": 305,
+    "kb": 2664,
+    "scripts": 116,
+    "imagens": 52
+  },
+  "kiyohome.com": {
+    "dcl": 1589,
+    "load": 2870,
+    "recursos": 240,
+    "kb": 3466,
+    "scripts": 86,
+    "imagens": 55
+  },
+  "popular.lighting": {
+    "dcl": 1057,
+    "load": 3271,
+    "recursos": 212,
+    "kb": 4546,
+    "scripts": 95,
+    "imagens": 24
+  }
+}

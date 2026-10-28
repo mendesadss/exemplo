@@ -1,0 +1,142 @@
+{
+  "product_handle": "wireless-wall-sconce-set",
+  "competitor": "Lightscordless",
+  "competitor_product_title": "Wireless Wall Sconces (2-Pack) + Free 2 Bulbs",
+  "competitor_page": "https://lightscordless.com/products/wireless-wall-sconces-2-pack-free-2-bulbs",
+  "competitor_json": "https://lightscordless.com/products/wireless-wall-sconces-2-pack-free-2-bulbs.js",
+  "real_carousel_count": 10,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Black.png?v=1768792741",
+      "alt": "wireless wall lamps sconces",
+      "bytes": 1544167
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/wireless_wall_sconces_66a_1.png?v=1769389740",
+      "alt": "Modern living room with a gray sofa, coffee table, and abstract art on a wooden wall.",
+      "bytes": 1518206
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Cordless_Wall_Sconces_111111.jpg?v=1769389740",
+      "alt": null,
+      "bytes": 116652
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconces_Set_Of_2_Reviews_1.png?v=1769389740",
+      "alt": "Modern living room with wall lights, framed art, and a sofa with pillows.",
+      "bytes": 1840759
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconce_Fit_Any_Wall_Sconces.png?v=1769389740",
+      "alt": "Collage of wall sconces in various indoor settings with text 'Transform Any Space Instantly'.",
+      "bytes": 1422114
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Af_bE.png?v=1769389740",
+      "alt": "rechargeable battery operated wall lighting",
+      "bytes": 1527758
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Gold.png?v=1769389740",
+      "alt": "Gold Modern Lighting",
+      "bytes": 1648718
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Silver_Wall_Sconces_1.png?v=1769389740",
+      "alt": "Pair of wall-mounted lamps with white shades on a brown wall.",
+      "bytes": 1268432
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 8",
+      "description": "Competitor carousel image 1 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Black.png?v=1768792741",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 1 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 8",
+      "description": "Competitor carousel image 2 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/wireless_wall_sconces_66a_1.png?v=1769389740",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 2 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 8",
+      "description": "Competitor carousel image 3 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Cordless_Wall_Sconces_111111.jpg?v=1769389740",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 3 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 8",
+      "description": "Competitor carousel image 4 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconces_Set_Of_2_Reviews_1.png?v=1769389740",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 4 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 8",
+      "description": "Competitor carousel image 5 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconce_Fit_Any_Wall_Sconces.png?v=1769389740",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 5 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "Competitor carousel image 6 of 8",
+      "description": "Competitor carousel image 6 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Af_bE.png?v=1769389740",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 6 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "Competitor carousel image 7 of 8",
+      "description": "Competitor carousel image 7 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Gold.png?v=1769389740",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 7 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 8,
+      "type": "Competitor carousel image 8 of 8",
+      "description": "Competitor carousel image 8 of 8, from the Lightscordless PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/wireless-wall-sconce-set/carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Silver_Wall_Sconces_1.png?v=1769389740",
+      "prompt": "Create one premium e-commerce PDP image for Softnook. This is image 8 of 8 in the Softnook Wireless Wall Sconces (Set of 2) carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Softnook Wireless Wall Sconces (Set of 2) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from Lightscordless). Build a premium, confident visual language for Softnook. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Softnook palette naturally: #3A2E2A as the primary brand color, #F7F2EB as a clean neutral background, #6B7F5E as a controlled accent (CTAs, highlights), #C9823A only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Softnook Wireless Wall Sconces (Set of 2) silhouette, materials, hardware, seams, colors and proportions shown in the separate Softnook Wireless Wall Sconces (Set of 2) Product Master photographs. Show The hotel-bedroom look, with zero wires and zero holes in the drywall you rent.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Softnook identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

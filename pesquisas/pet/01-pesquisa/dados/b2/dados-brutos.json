@@ -1,0 +1,356 @@
+{
+ "doyobest.com": {
+  "dominio": "doyobest.com",
+  "coletado_em": "2026-10-21T00:38:15",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "judge.me",
+    "pinterest",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/duoyou",
+    "https://www.instagram.com/doyobest_ins",
+    "https://www.tiktok.com/@doyobest"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 1081,
+   "preco_min": 16.99,
+   "preco_mediana": 29.99,
+   "preco_max": 102.99,
+   "primeiro_produto": "2026-10-12",
+   "ultimo_produto": "2026-10-20",
+   "vendors": [
+    "DoyoBest"
+   ],
+   "tipos": [
+    "Jewelry",
+    "Plaque",
+    "Ornament",
+    "Sign",
+    "Car Accessories",
+    "Plaything",
+    "Cup",
+    "Cloth",
+    "Car Hanger",
+    "Pillow or Blanket"
+   ],
+   "produtos": [
+    {
+     "titulo": "Personalized Jewelry Dish, Custom Watercolor Friends Taking a Selfie, Unique Gift for a Close Friend",
+     "handle": "15438902952253",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/Turn_Your_Photo_Into_Watercolor_Art_Best_BTches_Friendship_Gifts_Personalized_Jewelry_Dish_1.webp",
+     "tipo": "Jewelry"
+    },
+    {
+     "titulo": "Personalized Acrylic Light Box, Smiling Grandma and Little Snowmen Christmas Scene, Unique Gift for Grandma",
+     "handle": "15437490225469",
+     "preco": 27.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/a_1_72d001ca-853e-4f5e-a0d4-46de6fcf6817.webp",
+     "tipo": "Plaque"
+    },
+    {
+     "titulo": "Personalized Wooden Ornament, Postage Stamp Family Travel Photo, Unique Christmas Gift for Family",
+     "handle": "15437489144125",
+     "preco": 17.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/a_1_524dd911-d2ca-4969-922b-716bd375a12e.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Acrylic Ornament, Cartoon Girl Running Cross Country, Christmas Tree Keepsake, Unique Gift for Athletes",
+     "handle": "15440368730429",
+     "preco": 16.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_450f4006-4e27-47db-ba97-e21d46934b55.png",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Acrylic Snow Globe Ornament, Snowboarder Riding Through Snowy Evergreens, Unique Christmas Gift for Winter Sports Fans",
+     "handle": "15439036219709",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_4332847b-e345-4c0f-9142-d4c15bb18c85.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Rectangular Iron Sign, Vintage Muscle Car Garage Decor, Unique Gift for Car Enthusiasts",
+     "handle": "15440062185789",
+     "preco": 28.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_31b1391d-c953-4d28-9522-3da2aff750fd.webp",
+     "tipo": "Sign"
+    },
+    {
+     "titulo": "Personalized Car Door Projector Lights, Warm Gold Welcome Projection for Nighttime Entry, Creative Gift for Drivers",
+     "handle": "15440062513469",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_1ff7540d-edc2-4237-aabe-265437ee01b5.webp",
+     "tipo": "Car Accessories"
+    },
+    {
+     "titulo": "Personalized Dumpling Advent Calendar, Snowy Christmas Village Countdown, Unique Gift for Kids and Families",
+     "handle": "15441070948669",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/260926_ZlpcWjV7L7Yauw8e_large_312b0216-9cc8-41c7-b521-b5d084209125.webp",
+     "tipo": "Plaything"
+    },
+    {
+     "titulo": "Personalized Soccer Acrylic Ornament, Graduate Posing with Ball by a Lit Tree, Unique Gift for Son or Daughter",
+     "handle": "15424926613821",
+     "preco": 16.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e6800230b30362f22743373181830222576692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Full Color Mug with Birth Order Quotes, Siblings Holding Mugs, Unique Gift for Family Coffee Time",
+     "handle": "15414061367613",
+     "preco": 23.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e6811742a280670772d753618182a2c6a76692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp",
+     "tipo": "Cup"
+    },
+    {
+     "titulo": "Personalized Youth Tee with Colorful Squishy Friends Holding Hands, Unique Gift for Young Squishy Fans",
+     "handle": "15402060775741",
+     "preco": 24.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e68710c247e221e36172221181826292f6a242f26332037336a767018757318757f6a757f6a332f206a7e6a757775716a7069372920656b65302e23332f657d767777776b6532292e33657d653.webp",
+     "tipo": "Cloth"
+    },
+    {
+     "titulo": "Personalized Acrylic Ornament, It's You and Me Babe Couple Quote, Creative Christmas Gift for Husband or Wife",
+     "handle": "15401507029309",
+     "preco": 21.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e68773e372e15030032052518182a2c6a23222126322b33692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Growing Old Together Car Hanger, Playful Santa and Mrs Claus Scene, Personalized Unique Gift for a Partner",
+     "handle": "15435201872189",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/ScreenShot_2026-10-20_163419_229.webp",
+     "tipo": "Car Hanger"
+    },
+    {
+     "titulo": "Personalized Acrylic Ornament, Cartoon Sisters Holding Mugs, Red & Gold Unique Christmas Gift for Sisters",
+     "handle": "15419168129341",
+     "preco": 16.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e68340b1017000b10752b3e18183728237475777571777e7573767670751830222576692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Fleece Blanket, Custom Christmas Keepsake Held by Mother and Daughter, Unique Gift for Kids",
+     "handle": "15440063824189",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/dC4Nt6L39X__pod3202610091255_web.webp",
+     "tipo": "Pillow or Blanket"
+    },
+    {
+     "titulo": "Personalized Acrylic Ornament, Snowy Grandparents' House with Kids' Boots, Unique Christmas Gift",
+     "handle": "15401826156861",
+     "preco": 16.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e68343f35293d770337003718183728237475777571777e757376767076183022256a76692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d3335322.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Embroidered Wreath Sash, Striped Football Game Day Front Door Decor, Unique Gift for Sports Fans",
+     "handle": "15429906759997",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_91f8a1ae-9123-4b9f-bba4-7e3671daf727.png",
+     "tipo": "Home & Living"
+    },
+    {
+     "titulo": "Alloy Keepsake Coin, Sleeping Baby in Festive Christmas Design, Our Little Miracle Creative Gift for New Parents",
+     "handle": "15416980439357",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_5599ec74-e666-45b1-8149-705853cb8261.webp",
+     "tipo": "Novelty Coins"
+    },
+    {
+     "titulo": "Personalized Acrylic Ornament, Grandma and Grandkids Hugging on a Red and Gold Moon, Unique Christmas Gift",
+     "handle": "15440062382397",
+     "preco": 16.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a7677682229173e7e1122311034181837282374757775717677777f76757372183022256a76692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d3335322.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "First Christmas Acrylic Ornament, Personalized Kissing Couple at Their New Home, Creative Romantic Gift",
+     "handle": "15401826124093",
+     "preco": 16.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e68123f7f7370012113377618183728237575777571777e75727e7277183022256a76692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Leather Football with Flexing Player Art, Unique Gift for an American Football Player",
+     "handle": "15439038284093",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/image_2_8f327d52-b822-4e44-aaef-2d5b74b5d9ae.png",
+     "tipo": "Sports"
+    },
+    {
+     "titulo": "Personalized Shaped Metal Sign with Clinking Beer Mugs, Burgundy and Gold Bar Decor, Unique Gift for Bar Owner",
+     "handle": "15401506996541",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/custom-bar-sign-home-bar-decor-man-cave-personalized-metal-sign-1.webp",
+     "tipo": "Sign"
+    },
+    {
+     "titulo": "Freshman Christmas Acrylic Ornament, Personalized Santa Hat Student Keepsake, Creative Gift for College Student",
+     "handle": "15439037989181",
+     "preco": 16.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/image_1_e329d635-d375-4c74-a116-c3272de054e0.png",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized Acrylic Ornament, Chaotic Monkeys in a Festive Office, Unique Christmas Gift for Coworkers",
+     "handle": "15437494944061",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/a_1_735422d6-7ab9-4288-9eb9-e1f4af13590f.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Personalized LED Light Frame, Colorful Squishy Cartoon for a Boy's Room, Unique Gift for Kids",
+     "handle": "15401830547773",
+     "preco": 35.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/Just_A_Kid_Who_Loves_Squishies_Personalized_Night_Light_1.webp",
+     "tipo": "Plaque"
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "“The Love Between Brothers & Sisters Is Forever” Poster – Personalized Back View Wall Art in Vintage Wood Style, Perfect Gift for Christmas, Birthday or Family Reunion",
+     "handle": "9502442946877",
+     "preco": 17.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_60791a5c-1472-426b-ba5a-6e80ae10f1a1.webp"
+    },
+    {
+     "titulo": "Grandma's Garden Love Grows Here Beautiful Birth Month Flower Gift For Grandma Mom Personalized Poster or Canvas, Keychain, Plaque, Wallet Card, Pillow",
+     "handle": "9136645931325",
+     "preco": 17.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_a794b3a5-1e9f-4450-8cf6-1da4cb2d3cfe.webp"
+    },
+    {
+     "titulo": "2-Layer Wooden Plaque Hairdresser Cartoon With Scissors Salon Decor A Unique Creative Gift For Hairstylists",
+     "handle": "10208816136509",
+     "preco": 21.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/46_db44d216-7005-4d06-ae0c-6cd0621d0b9f.webp"
+    },
+    {
+     "titulo": "Beach Landscape Family Sitting Back View - Personalized Keychain or Poster or Plaque or Car Hanger or Pillow or Wallet or Wallet Card or Cap or Cup- Meaningful Gift for Loved Ones",
+     "handle": "9378376253757",
+     "preco": 17.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_0ad93db0-f4cb-41a0-8605-ea023f95adca.webp"
+    },
+    {
+     "titulo": "Butterfly I Am Always With You Memorial Personalized Poster or Plaque or Keychain or Ornament",
+     "handle": "9713578967357",
+     "preco": 17.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/2_49cf9638-6651-4af8-8a73-a26c0c3ef452.webp"
+    },
+    {
+     "titulo": "Custom Graduation Girl Character 2-Layer Wooden Plaque, Class Year Keepsake for Living Room Display, Thoughtful Gift",
+     "handle": "10223556428093",
+     "preco": 21.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/25_ef8f190d-3ce0-46a1-85ab-6722bf39a30e.webp"
+    },
+    {
+     "titulo": "\"You & Me and the Dogs – Customizable Couple Poster with Pets, Personalized Beach Scene\"",
+     "handle": "9960983920957",
+     "preco": 17.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/img_v3_02nb_4719de1a-6c64-48b0-a84c-e879e98cb9fg.webp"
+    },
+    {
+     "titulo": "Personalized Wooden Plaque for Sisters, Autumn Theme, Perfect Gift for Best Friends",
+     "handle": "10040489541949",
+     "preco": 16.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_6c7baa2f-fff1-4058-bef2-b612888061fd.webp"
+    },
+    {
+     "titulo": "You Me And The Dogs Beach Outline Personalized Poster or Canvas or Plaque or Pillow or Wallet Or Wallet Card or Cap or Cup",
+     "handle": "9535008047421",
+     "preco": 15.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/1_f9d90466-89f2-42bd-a156-80c3a197e7fc.webp"
+    },
+    {
+     "titulo": "Family Forever Beach Design - Personalized Poster, Keychain, Wallet Card, and Pillow, Unique Gift",
+     "handle": "9172164378941",
+     "preco": 17.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/6_eb411fa6-7d09-4e7d-a85c-b6f50b03bc96.webp"
+    },
+    {
+     "titulo": "Custom Couple Commemorative Poster | Beautiful Illustrated Poster - The Perfect Gift to Convey Love and Memories | A Heartwarming Decoration for Couples on Special Occasions",
+     "handle": "9743526789437",
+     "preco": 17.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/8_60c2e2a4-5ee8-42cd-9212-0defe8f52269.jpg"
+    },
+    {
+     "titulo": "Personalized 2-Layer Wooden Plaque Rocking Chair Couple, You & Me We Got This, Unique Romantic Gift for Husband or Wife",
+     "handle": "10191971811645",
+     "preco": 21.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/15_bbc2b7f2-ee6c-49d1-8ee5-236c0fdb34ec.webp"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2023-07-23",
+   "dias_arquivados": 34,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 343356,
+   "rank_antigo": 356633,
+   "dias": 37,
+   "variacao": 13277,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 19,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "doyobest_ins": {
+    "seguidores": "65K",
+    "posts": "313",
+    "raw": "65K Followers, 11 Following, 313 Posts - See Instagram photos and videos from DoyoBest (&#064;doyobest_ins)"
+   }
+  }
+ }
+}

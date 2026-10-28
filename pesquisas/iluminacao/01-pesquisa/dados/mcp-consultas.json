@@ -1,0 +1,1561 @@
+{
+  "geradoEm": "2026-10-23T01:03:47.130Z",
+  "termos": [
+    "home decor",
+    "wall art",
+    "aesthetic room decor",
+    "cordless lamp",
+    "boho home decor",
+    "housewarming gift"
+  ],
+  "paises": [
+    "US",
+    "CA",
+    "GB",
+    "AU",
+    "DE",
+    "FR",
+    "NL",
+    "ES"
+  ],
+  "pedido": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante",
+  "total": 96,
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "home decor",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": true,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 2,
+      "termo": "home decor",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 3,
+      "termo": "home decor",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 4,
+      "termo": "home decor",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 5,
+      "termo": "home decor",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 6,
+      "termo": "home decor",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 7,
+      "termo": "home decor",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 8,
+      "termo": "home decor",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 9,
+      "termo": "home decor",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 10,
+      "termo": "home decor",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 11,
+      "termo": "home decor",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 12,
+      "termo": "home decor",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 13,
+      "termo": "home decor",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 14,
+      "termo": "home decor",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 15,
+      "termo": "home decor",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 16,
+      "termo": "home decor",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "home decor",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 17,
+      "termo": "wall art",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 18,
+      "termo": "wall art",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 19,
+      "termo": "wall art",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 20,
+      "termo": "wall art",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 21,
+      "termo": "wall art",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 22,
+      "termo": "wall art",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 23,
+      "termo": "wall art",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 24,
+      "termo": "wall art",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 25,
+      "termo": "wall art",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 26,
+      "termo": "wall art",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 27,
+      "termo": "wall art",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 28,
+      "termo": "wall art",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 29,
+      "termo": "wall art",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 30,
+      "termo": "wall art",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 31,
+      "termo": "wall art",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 32,
+      "termo": "wall art",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "wall art",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 33,
+      "termo": "aesthetic room decor",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 34,
+      "termo": "aesthetic room decor",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 35,
+      "termo": "aesthetic room decor",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 36,
+      "termo": "aesthetic room decor",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 37,
+      "termo": "aesthetic room decor",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 38,
+      "termo": "aesthetic room decor",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 39,
+      "termo": "aesthetic room decor",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 40,
+      "termo": "aesthetic room decor",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 41,
+      "termo": "aesthetic room decor",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 42,
+      "termo": "aesthetic room decor",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 43,
+      "termo": "aesthetic room decor",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 44,
+      "termo": "aesthetic room decor",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 45,
+      "termo": "aesthetic room decor",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 46,
+      "termo": "aesthetic room decor",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 47,
+      "termo": "aesthetic room decor",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 48,
+      "termo": "aesthetic room decor",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "aesthetic room decor",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 49,
+      "termo": "cordless lamp",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 50,
+      "termo": "cordless lamp",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 51,
+      "termo": "cordless lamp",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 52,
+      "termo": "cordless lamp",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 53,
+      "termo": "cordless lamp",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 54,
+      "termo": "cordless lamp",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 55,
+      "termo": "cordless lamp",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 56,
+      "termo": "cordless lamp",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 57,
+      "termo": "cordless lamp",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 58,
+      "termo": "cordless lamp",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 59,
+      "termo": "cordless lamp",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 60,
+      "termo": "cordless lamp",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 61,
+      "termo": "cordless lamp",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 62,
+      "termo": "cordless lamp",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 63,
+      "termo": "cordless lamp",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 64,
+      "termo": "cordless lamp",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "cordless lamp",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 65,
+      "termo": "boho home decor",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 66,
+      "termo": "boho home decor",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 67,
+      "termo": "boho home decor",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 68,
+      "termo": "boho home decor",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 69,
+      "termo": "boho home decor",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 70,
+      "termo": "boho home decor",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 71,
+      "termo": "boho home decor",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 72,
+      "termo": "boho home decor",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 73,
+      "termo": "boho home decor",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 74,
+      "termo": "boho home decor",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 75,
+      "termo": "boho home decor",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 76,
+      "termo": "boho home decor",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 77,
+      "termo": "boho home decor",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 78,
+      "termo": "boho home decor",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 79,
+      "termo": "boho home decor",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 80,
+      "termo": "boho home decor",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "boho home decor",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 81,
+      "termo": "housewarming gift",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 82,
+      "termo": "housewarming gift",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 83,
+      "termo": "housewarming gift",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 84,
+      "termo": "housewarming gift",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 85,
+      "termo": "housewarming gift",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 86,
+      "termo": "housewarming gift",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 87,
+      "termo": "housewarming gift",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 88,
+      "termo": "housewarming gift",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 89,
+      "termo": "housewarming gift",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 90,
+      "termo": "housewarming gift",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 91,
+      "termo": "housewarming gift",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 92,
+      "termo": "housewarming gift",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 93,
+      "termo": "housewarming gift",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 94,
+      "termo": "housewarming gift",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 95,
+      "termo": "housewarming gift",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    },
+    {
+      "id": 96,
+      "termo": "housewarming gift",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "housewarming gift",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "use a skill raiox para analisar o nicho casa decoração no mercado eua iniciante"
+      }
+    }
+  ]
+}

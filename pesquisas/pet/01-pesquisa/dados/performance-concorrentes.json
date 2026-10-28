@@ -1,0 +1,107 @@
+{
+  "doyobest": {
+    "home_desktop": {
+      "ms": 6920,
+      "reqs": 334,
+      "bytes": 6704943,
+      "fails": 1
+    },
+    "pdp_desktop": {
+      "ms": 12327,
+      "reqs": 443,
+      "bytes": 9469726,
+      "fails": 1
+    },
+    "pdp_celular": {
+      "ms": 10896,
+      "reqs": 462,
+      "bytes": 7553549,
+      "fails": 1
+    },
+    "erros": []
+  },
+  "turnmeroyal": {
+    "home_desktop": {
+      "ms": 5768,
+      "reqs": 146,
+      "bytes": 3297887,
+      "fails": 0
+    },
+    "pdp_desktop": {
+      "ms": 5533,
+      "reqs": 156,
+      "bytes": 2581453,
+      "fails": 0
+    },
+    "pdp_celular": {
+      "ms": 4928,
+      "reqs": 144,
+      "bytes": 2578054,
+      "fails": 0
+    },
+    "erros": []
+  },
+  "companionarchive": {
+    "home_desktop": {
+      "ms": 7250,
+      "reqs": 81,
+      "bytes": 2129583,
+      "fails": 0
+    },
+    "pdp_desktop": {
+      "ms": 5066,
+      "reqs": 95,
+      "bytes": 3417692,
+      "fails": 0
+    },
+    "pdp_celular": {
+      "ms": 4713,
+      "reqs": 95,
+      "bytes": 3852774,
+      "fails": 0
+    },
+    "erros": []
+  },
+  "milagift": {
+    "home_desktop": {
+      "ms": 4977,
+      "reqs": 116,
+      "bytes": 1187460,
+      "fails": 0
+    },
+    "pdp_desktop": {
+      "ms": 6114,
+      "reqs": 134,
+      "bytes": 539953,
+      "fails": 0
+    },
+    "pdp_celular": {
+      "ms": 6101,
+      "reqs": 91,
+      "bytes": 296216,
+      "fails": 0
+    },
+    "erros": []
+  },
+  "petloverscustom": {
+    "home_desktop": {
+      "ms": 8045,
+      "reqs": 204,
+      "bytes": 15234077,
+      "fails": 6
+    },
+    "pdp_desktop": {
+      "ms": 9712,
+      "reqs": 408,
+      "bytes": 20182285,
+      "fails": 8
+    },
+    "pdp_celular": {
+      "ms": 9716,
+      "reqs": 401,
+      "bytes": 19204614,
+      "fails": 10
+    },
+    "erros": []
+  }
+}

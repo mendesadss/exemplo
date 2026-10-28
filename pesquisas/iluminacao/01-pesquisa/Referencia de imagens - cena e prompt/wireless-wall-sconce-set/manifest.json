@@ -1,0 +1,76 @@
+{
+  "product_handle": "wireless-wall-sconce-set",
+  "competitor": "Lightscordless",
+  "competitor_product_title": "Wireless Wall Sconces (2-Pack) + Free 2 Bulbs",
+  "competitor_page": "https://lightscordless.com/products/wireless-wall-sconces-2-pack-free-2-bulbs",
+  "competitor_json": "https://lightscordless.com/products/wireless-wall-sconces-2-pack-free-2-bulbs.js",
+  "real_carousel_count": 10,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Black.png?v=1768792741",
+      "alt": "wireless wall lamps sconces",
+      "bytes": 1544167
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/wireless_wall_sconces_66a_1.png?v=1769389740",
+      "alt": "Modern living room with a gray sofa, coffee table, and abstract art on a wooden wall.",
+      "bytes": 1518206
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Cordless_Wall_Sconces_111111.jpg?v=1769389740",
+      "alt": null,
+      "bytes": 116652
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconces_Set_Of_2_Reviews_1.png?v=1769389740",
+      "alt": "Modern living room with wall lights, framed art, and a sofa with pillows.",
+      "bytes": 1840759
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconce_Fit_Any_Wall_Sconces.png?v=1769389740",
+      "alt": "Collage of wall sconces in various indoor settings with text 'Transform Any Space Instantly'.",
+      "bytes": 1422114
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Af_bE.png?v=1769389740",
+      "alt": "rechargeable battery operated wall lighting",
+      "bytes": 1527758
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Gold.png?v=1769389740",
+      "alt": "Gold Modern Lighting",
+      "bytes": 1648718
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 10,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Silver_Wall_Sconces_1.png?v=1769389740",
+      "alt": "Pair of wall-mounted lamps with white shades on a brown wall.",
+      "bytes": 1268432
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "generated_at": "2026-10-21T00:51:22.822Z",
+  "rule": "Carrossel completo da PDP do concorrente campeão escolhido por produto. Se o carrossel real tiver mais que o teto (12, ou o \"cap\" declarado no build.json pra esse produto), a amostra é espaçada (primeiro + último inclusos), declarada em amostrado/total_real.",
+  "products": [
+    {
+      "product_handle": "watercolor-pet-portrait-throw-blanket",
+      "competitor": "Doyobest",
+      "competitor_product_title": "Personalized Fleece Blanket with Oil Painted Sitting Dog Portrait, Creative Gift for Dog Lovers",
+      "competitor_page": "https://doyobest.com/products/15395671540029",
+      "competitor_json": "https://doyobest.com/products/15395671540029.js",
+      "real_carousel_count": 7,
+      "downloaded_carousel_count": 7,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/6_2f3997df-8dc2-4d62-91fa-2e6b5aa0f654.webp?v=1791880799",
+          "alt": null,
+          "bytes": 366474
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-DEFAULT.webp?v=1790494578",
+          "alt": null,
+          "bytes": 261349
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK1.webp?v=1790494578",
+          "alt": null,
+          "bytes": 138101
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK5.webp?v=1790494578",
+          "alt": null,
+          "bytes": 139776
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK3.webp?v=1790494578",
+          "alt": null,
+          "bytes": 133131
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK2.webp?v=1790494578",
+          "alt": null,
+          "bytes": 103853
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK4.webp?v=1790494578",
+          "alt": null,
+          "bytes": 146524
+        }
+      ]
+    },
+    {
+      "product_handle": "pet-memorial-acrylic-ornament",
+      "competitor": "Doyobest",
+      "competitor_product_title": "Personalized Acrylic Ornament, Faceted Moon & Paw Memorial on an Evergreen, Unique Gift for Pet Owners",
+      "competitor_page": "https://doyobest.com/products/15438872379709",
+      "competitor_json": "https://doyobest.com/products/15438872379709.js",
+      "real_carousel_count": 5,
+      "downloaded_carousel_count": 5,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a7677680f1e762f337414300e2c181837282375757775717677777e7677737e183022256a76692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d3335322.webp?v=1792398569",
+          "alt": null,
+          "bytes": 215440
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a7677682305700f770d2c2e3232181837282375757775717677777e7677737e183022256a75692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d3335322.webp?v=1792398569",
+          "alt": null,
+          "bytes": 191077
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/38jySoIb3h__pod2202610091049_web-3.webp?v=1792398569",
+          "alt": null,
+          "bytes": 184365
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/iecLJG9ksW__pod2202610091049_web-4.webp?v=1792398569",
+          "alt": null,
+          "bytes": 64635
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/qS81TbP6vn__pod2202610091049_web-5.webp?v=1792398569",
+          "alt": null,
+          "bytes": 79461
+        }
+      ]
+    },
+    {
+      "product_handle": "pet-memorial-ceramic-planter",
+      "competitor": "Macorner",
+      "competitor_product_title": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot",
+      "competitor_page": "https://macorner.co/products/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-mar8p3w05",
+      "competitor_json": "https://macorner.co/products/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-mar8p3w05.js",
+      "real_carousel_count": 7,
+      "downloaded_carousel_count": 7,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-1.jpg?v=1789612246",
+          "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 1",
+          "bytes": 769645
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-2.jpg?v=1789612246",
+          "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 2",
+          "bytes": 465547
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Macorner-Remove-Background-Photo-Guidelines_d44bc3b3-7c24-4fee-8bf3-72a36cec65c5.png?v=1788017518",
+          "alt": null,
+          "bytes": 2589024
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-3.jpg?v=1789612246",
+          "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 3",
+          "bytes": 684660
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-4.jpg?v=1789612245",
+          "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 4",
+          "bytes": 484150
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-5.jpg?v=1789612246",
+          "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 5",
+          "bytes": 573705
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-6.jpg?v=1789612245",
+          "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 6",
+          "bytes": 154809
+        }
+      ]
+    },
+    {
+      "product_handle": "pet-fur-keepsake-keychain",
+      "competitor": "Doyobest",
+      "competitor_product_title": "Leather Pet Fur Keepsake Keychain, Personalized Once by My Side Memorial, Creative Sympathy Gift for Pet Owners",
+      "competitor_page": "https://doyobest.com/products/15402071687485",
+      "competitor_json": "https://doyobest.com/products/15402071687485.js",
+      "real_carousel_count": 8,
+      "downloaded_carousel_count": 8,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/8-1_08909255-8f3c-4b75-b19b-2b339ff14f57.webp?v=1792491531",
+          "alt": null,
+          "bytes": 789510
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e6804133f30001725100e0c18182a2c6a75692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+          "alt": null,
+          "bytes": 170695
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e687f1d77001708132e723d18182a2c6a74692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+          "alt": null,
+          "bytes": 254816
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e683d320837311d163f743218182a2c6a73692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+          "alt": null,
+          "bytes": 250467
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e682a2e2a130f052130721218182a2c6a72692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+          "alt": null,
+          "bytes": 223445
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d65757775716a777e68260577722b3d017f1e2318182a2c6a3522312e2230692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657d65653a.webp?v=1790760876",
+          "alt": null,
+          "bytes": 140689
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d652a28242c32373468290b2e2b2c2a1731336a7f7277230b701522356a212121212121692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657.webp?v=1790760876",
+          "alt": null,
+          "bytes": 159561
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/3c652c223e657d652a28242c32373468290b2e2b2c2a1731336a267715722e2b2b090f6a212121212121692d3720656b65302e23332f657d767777776b6532292e33657d65373f656b6530222537657d333532226b6533352e2a657.webp?v=1790760876",
+          "alt": null,
+          "bytes": 145832
+        }
+      ]
+    },
+    {
+      "product_handle": "remembrance-gift-set",
+      "competitor": "Doyobest",
+      "competitor_product_title": "Personalized Fleece Blanket with Oil Painted Sitting Dog Portrait, Creative Gift for Dog Lovers",
+      "competitor_page": "https://doyobest.com/products/15395671540029",
+      "competitor_json": "https://doyobest.com/products/15395671540029.js",
+      "real_carousel_count": 7,
+      "downloaded_carousel_count": 7,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/6_2f3997df-8dc2-4d62-91fa-2e6b5aa0f654.webp?v=1791880799",
+          "alt": null,
+          "bytes": 366474
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-DEFAULT.webp?v=1790494578",
+          "alt": null,
+          "bytes": 261349
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK1.webp?v=1790494578",
+          "alt": null,
+          "bytes": 138101
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK5.webp?v=1790494578",
+          "alt": null,
+          "bytes": 139776
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK3.webp?v=1790494578",
+          "alt": null,
+          "bytes": 133131
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK2.webp?v=1790494578",
+          "alt": null,
+          "bytes": 103853
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0741/1810/3357/files/CustomPhotoOilPaintingPetDogCatPortrait-PersonalizedFleeceBlanket_SherpaBlanket-NV1600-VKT1112-MK4.webp?v=1790494578",
+          "alt": null,
+          "bytes": 146524
+        }
+      ]
+    }
+  ]
+}

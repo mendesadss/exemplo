@@ -1,0 +1,454 @@
+{
+  "generated_at": "2026-10-23T01:30:00.408Z",
+  "rule": "Carrossel completo da PDP do concorrente campeão escolhido por produto. Se o carrossel real tiver mais que o teto (8, ou o \"cap\" declarado no build.json pra esse produto), a amostra é espaçada (primeiro + último inclusos), declarada em amostrado/total_real.",
+  "products": [
+    {
+      "product_handle": "cordless-table-lamp",
+      "competitor": "Popular Lighting",
+      "competitor_product_title": "Brilliance  - Table Lamp",
+      "competitor_page": "https://popular.lighting/products/brilliance",
+      "competitor_json": "https://popular.lighting/products/brilliance.js",
+      "real_carousel_count": 23,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/rn-image_picker_lib_temp_a3ac36fc-6160-404d-931d-de8d13a46f61.webp?v=1786801880",
+          "alt": null,
+          "bytes": 143821
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/rn-image_picker_lib_temp_1b456b1c-0f94-455f-8bdb-c09bca0511fc.jpg?v=1786901572",
+          "alt": null,
+          "bytes": 1278631
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Brilliancelamp_popularlighting_product.webp?v=1778226813",
+          "alt": null,
+          "bytes": 73559
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/BrillianceTableLamp.PopularLighting.black_b5547d47-4155-466a-9020-a50dd5d956c5.png?v=1785831342",
+          "alt": null,
+          "bytes": 1128313
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 14,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Brilliance34.png?v=1776431243",
+          "alt": null,
+          "bytes": 1258794
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 17,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/8.png?v=1776431243",
+          "alt": null,
+          "bytes": 1861226
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 20,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Skarmbild_2025-11-29_181116.png?v=1776431243",
+          "alt": null,
+          "bytes": 886153
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 23,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Brilliancetablelampblack-square.webp?v=1778227152",
+          "alt": null,
+          "bytes": 54013
+        }
+      ]
+    },
+    {
+      "product_handle": "cordless-lamp-2-pack",
+      "competitor": "Stockholm-Lights",
+      "competitor_product_title": "Stockholm | Buy 1 Get 1 Free",
+      "competitor_page": "https://lightsstockholm.com/products/table-lamp-stockholm-buy1-get-1free",
+      "competitor_json": "https://lightsstockholm.com/products/table-lamp-stockholm-buy1-get-1free.js",
+      "real_carousel_count": 10,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_8aecda79-8659-421e-bff0-40c92168b043.png?v=1775814134",
+          "alt": null,
+          "bytes": 114819
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_db536705-a795-45ad-9803-08da2295bdae.png?v=1775814134",
+          "alt": null,
+          "bytes": 117184
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/1_a19b145d-f11f-4a53-a34e-699e0cdb3e5c.png?v=1775814184",
+          "alt": null,
+          "bytes": 43820
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/black-dimmable-led-table-lamp-lights-stockholm.jpg?v=1775814184",
+          "alt": " Black rechargeable LED table lamp – Lights Stockholm (Svart oppladbar LED-bordlampe – Sort genopladelig LED-bordlampe)",
+          "bytes": 517215
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-05.gif",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/Modern_Wireless_Table_Lamp.gif?v=1775814184",
+          "alt": "Table lamp Stockholm - Lights Stockholm -Modern cordless LED table lamp with touch sensor – Lights Stockholm(Modern trådlös LED-bordslampa med touchsensor – Luminária de mesa LED sem fio moderna com sensor de toque – Moderni langaton LED-pöytälamppu kosketusanturilla – Moderne trådløs LED-bordlampe med berøringssensor – Moderne trådløs LED-bordlampe med touch-funktion – Moderna lámpara de mesa LED inalámbrica con sensor táctil – Moderne kabellose LED-Tischlampe mit Touch-Sensor)",
+          "bytes": 13056875
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-06.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/IMG_1993_8.jpg?v=1775814134",
+          "alt": null,
+          "bytes": 80000
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/2026-04-10_12.45.16.png?v=1775817948",
+          "alt": null,
+          "bytes": 2917202
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_Apr_10_2026_12_10_04_PM.png?v=1775815898",
+          "alt": null,
+          "bytes": 1149385
+        }
+      ]
+    },
+    {
+      "product_handle": "cordless-mushroom-lamp",
+      "competitor": "Kiyo Home",
+      "competitor_product_title": "Metallic Mushroom Table Lamp",
+      "competitor_page": "https://kiyohome.com/products/mushroom-led-lamp",
+      "competitor_json": "https://kiyohome.com/products/mushroom-led-lamp.js",
+      "real_carousel_count": 18,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_BedsideStyling.png?v=1772753770",
+          "alt": "Metallic mushroom table lamp in silver on bedside table in softly lit bedroom",
+          "bytes": 873853
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_SilverFinishDetail.png?v=1772753770",
+          "alt": "Metallic mushroom table lamp in silver on side table with books",
+          "bytes": 754000
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_ModernLivingRoomStyling.jpg?v=1771267667",
+          "alt": "Metallic mushroom table lamp in gold on side table in warm interior",
+          "bytes": 89916
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-04.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_GoldFinishDetail.jpg?v=1771267687",
+          "alt": "Close-up of metallic mushroom table lamp in gold",
+          "bytes": 77319
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/black-metallic-mushroom-lamp-desk-lighting.png?v=1778600399",
+          "alt": "Metallic mushroom table lamp in black on desk beside laptop",
+          "bytes": 872036
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 13,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/silver-metallic-mushroom-lamp-bedroom-styling.png?v=1778600425",
+          "alt": "Metallic mushroom table lamp in silver on bedside table with soft bedding",
+          "bytes": 943894
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 16,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/silver-metallic-mushroom-lamp.png?v=1778600459",
+          "alt": "Silver metallic mushroom table lamp on white background",
+          "bytes": 672704
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 18,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/black-metallic-mushroom-lamp_1.png?v=1778600468",
+          "alt": "Black metallic mushroom table lamp on white background",
+          "bytes": 641651
+        }
+      ]
+    },
+    {
+      "product_handle": "rechargeable-bottle-lamp",
+      "competitor": "Creative.Lighting",
+      "competitor_product_title": "BottleGlow™",
+      "competitor_page": "https://creative.lighting/products/bottleglow",
+      "competitor_json": "https://creative.lighting/products/bottleglow.js",
+      "real_carousel_count": 24,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/BottleGlow_1000x1000_no_text.webp?v=1791881617",
+          "alt": null,
+          "bytes": 131736
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/30_438cdabe-4419-483e-998e-03086d93bae6.webp?v=1776237653",
+          "alt": null,
+          "bytes": 164149
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/12_d565a49d-e885-467b-99be-a5261f12e2c7.webp?v=1778742462",
+          "alt": null,
+          "bytes": 92951
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 11,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/8_0e4b8d6c-28a3-4712-b4f2-dd37567ab594.webp?v=1778742359",
+          "alt": null,
+          "bytes": 120744
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 14,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/bottleglow-yellow.webp?v=1778748201",
+          "alt": null,
+          "bytes": 87931
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 17,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/21_8c30c8cd-2c98-4324-81af-7f7521048267.webp?v=1776237653",
+          "alt": null,
+          "bytes": 164907
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 21,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/35_bda18d5a-ade9-4524-aa42-df0f7dcd5300.webp?v=1776236655",
+          "alt": null,
+          "bytes": 81995
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 24,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/1000_x_1000_px.webp?v=1776237797",
+          "alt": null,
+          "bytes": 63406
+        }
+      ]
+    },
+    {
+      "product_handle": "wireless-wall-sconce-set",
+      "competitor": "Lightscordless",
+      "competitor_product_title": "Wireless Wall Sconces (2-Pack) + Free 2 Bulbs",
+      "competitor_page": "https://lightscordless.com/products/wireless-wall-sconces-2-pack-free-2-bulbs",
+      "competitor_json": "https://lightscordless.com/products/wireless-wall-sconces-2-pack-free-2-bulbs.js",
+      "real_carousel_count": 10,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Black.png?v=1768792741",
+          "alt": "wireless wall lamps sconces",
+          "bytes": 1544167
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/wireless_wall_sconces_66a_1.png?v=1769389740",
+          "alt": "Modern living room with a gray sofa, coffee table, and abstract art on a wooden wall.",
+          "bytes": 1518206
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Cordless_Wall_Sconces_111111.jpg?v=1769389740",
+          "alt": null,
+          "bytes": 116652
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconces_Set_Of_2_Reviews_1.png?v=1769389740",
+          "alt": "Modern living room with wall lights, framed art, and a sofa with pillows.",
+          "bytes": 1840759
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wall_Sconce_Fit_Any_Wall_Sconces.png?v=1769389740",
+          "alt": "Collage of wall sconces in various indoor settings with text 'Transform Any Space Instantly'.",
+          "bytes": 1422114
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-06.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Af_bE.png?v=1769389740",
+          "alt": "rechargeable battery operated wall lighting",
+          "bytes": 1527758
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-07.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Gold.png?v=1769389740",
+          "alt": "Gold Modern Lighting",
+          "bytes": 1648718
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 10,
+          "file": "carrossel-concorrente/referencia-08.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Silver_Wall_Sconces_1.png?v=1769389740",
+          "alt": "Pair of wall-mounted lamps with white shades on a brown wall.",
+          "bytes": 1268432
+        }
+      ]
+    },
+    {
+      "product_handle": "flameless-led-candle-set",
+      "competitor": "Popular Lighting",
+      "competitor_product_title": "Flameless LED Candle (Pack of Three)",
+      "competitor_page": "https://popular.lighting/products/flameless-led-candle-pack-of-three",
+      "competitor_json": "https://popular.lighting/products/flameless-led-candle-pack-of-three.js",
+      "real_carousel_count": 7,
+      "downloaded_carousel_count": 7,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle1.webp?v=1730539683",
+          "alt": null,
+          "bytes": 70846
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle.webp?v=1730539682",
+          "alt": null,
+          "bytes": 61775
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle2.webp?v=1730539683",
+          "alt": null,
+          "bytes": 52039
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle3.webp?v=1730539683",
+          "alt": null,
+          "bytes": 53583
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle5.webp?v=1730539683",
+          "alt": null,
+          "bytes": 33301
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle6.webp?v=1730539682",
+          "alt": null,
+          "bytes": 32196
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle7.webp?v=1730539683",
+          "alt": null,
+          "bytes": 30515
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "product_handle": "pet-memorial-ceramic-planter",
+  "competitor": "Macorner",
+  "competitor_product_title": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot",
+  "competitor_page": "https://macorner.co/products/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-mar8p3w05",
+  "competitor_json": "https://macorner.co/products/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-mar8p3w05.js",
+  "real_carousel_count": 7,
+  "downloaded_carousel_count": 7,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-1.jpg?v=1789612246",
+      "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 1",
+      "bytes": 769645
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-2.jpg?v=1789612246",
+      "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 2",
+      "bytes": 465547
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Macorner-Remove-Background-Photo-Guidelines_d44bc3b3-7c24-4fee-8bf3-72a36cec65c5.png?v=1788017518",
+      "alt": null,
+      "bytes": 2589024
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-3.jpg?v=1789612246",
+      "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 3",
+      "bytes": 684660
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-4.jpg?v=1789612245",
+      "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 4",
+      "bytes": 484150
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-5.jpg?v=1789612246",
+      "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 5",
+      "bytes": 573705
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-portrait-watercolor-art-planter-home-decor-pet-memorial-remembrance-personalized-plant-pot-6.jpg?v=1789612245",
+      "alt": "Custom Pet Portrait Watercolor Art Planter Home Decor, Pet Memorial Remembrance - Personalized Plant Pot 6",
+      "bytes": 154809
+    }
+  ]
+}

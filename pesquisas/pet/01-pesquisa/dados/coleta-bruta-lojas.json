@@ -1,0 +1,2485 @@
+{
+ "callie.com": {
+  "dominio": "callie.com",
+  "coletado_em": "2026-10-21T00:31:57",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "afterpay",
+    "bold",
+    "gtm",
+    "klarna",
+    "klaviyo",
+    "pinterest",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/callieforgifts",
+    "https://www.instagram.com/calliegifts",
+    "https://www.pinterest.com/calliegiftsideas",
+    "https://www.tiktok.com/@calliegifts"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2000-10-22",
+   "dias_arquivados": 244,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 45144,
+   "rank_antigo": 45473,
+   "dias": 37,
+   "variacao": 329,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 10,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "calliegifts": {
+    "seguidores": "455K",
+    "posts": "1,639",
+    "raw": "455K Followers, 141 Following, 1,639 Posts - See Instagram photos and videos from Callie Gifts (&#064;calliegifts)"
+   }
+  }
+ },
+ "wanderprints.com": {
+  "dominio": "wanderprints.com",
+  "coletado_em": "2026-10-21T00:32:10",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "judge.me",
+    "klaviyo",
+    "loox",
+    "pinterest",
+    "recharge",
+    "snap",
+    "tiktok",
+    "vitals"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/wanderprintsuniquegift",
+    "https://www.instagram.com/wanderprints.official",
+    "https://www.pinterest.com/wanderprints",
+    "https://www.tiktok.com/@wanderprints",
+    "https://www.youtube.com/channel/uc6b_tyi8a3sieecc11o1eog"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 2411,
+   "preco_min": 15.95,
+   "preco_mediana": 45.9,
+   "preco_max": 319.5,
+   "primeiro_produto": "2026-10-12",
+   "ultimo_produto": "2026-10-20",
+   "vendors": [
+    "Wander Prints",
+    "Dreamship",
+    "Drinkware"
+   ],
+   "tipos": [
+    "Ring Dish",
+    "Acrylic Ornament",
+    "Wooden Ornament",
+    "2-Layered Wooden Ornament",
+    "Ceramic Ornament",
+    "LED Tree Lights",
+    "Night Light",
+    "Mug",
+    "Tulip LED Night Light",
+    "Plate"
+   ],
+   "produtos": [
+    {
+     "titulo": "Gift For Sister - Personalized Custom Photo Vintage Ring Dish",
+     "handle": "gift-for-sister-personalized-custom-photo-vintage-ring-dish-pa077cin5026",
+     "preco": 29.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/PA077-CIN5026-DEF.webp",
+     "tipo": "Ring Dish"
+    },
+    {
+     "titulo": "Christian Memorial Christmas Gift - Personalized Custom Photo In Loving Memory Acrylic Ornament",
+     "handle": "christian-memorial-christmas-gift-personalized-custom-photo-in-loving-memory-acrylic-ornament-an141dsr1698",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/AN141-DSR1698-Def_97015a5c-e217-4592-b07d-435c88d5f711.webp",
+     "tipo": "Acrylic Ornament"
+    },
+    {
+     "titulo": "Custom Name Christmas Santa Hat Initial Letter Gift For Family - Personalized Custom Shaped Wooden Ornament",
+     "handle": "custom-name-christmas-santa-hat-initial-letter-gift-for-family-personalized-custom-shaped-wooden-ornament-tu553vkt1421",
+     "preco": 16.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/MKDef_8b8c816e-e6d8-47b5-b159-a0273e15729f.webp",
+     "tipo": "Wooden Ornament"
+    },
+    {
+     "titulo": "Christmas Gift For Couples With Dogs - Personalized 2-Layered Wooden Ornament",
+     "handle": "christmas-gift-for-couples-with-dogs-personalized-2-layered-wooden-ornament-ht869cin5021",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/MkDEF_7fcc3fc8-9aa7-4cb2-9d87-7e3fb6cd1f95.webp",
+     "tipo": "2-Layered Wooden Ornament"
+    },
+    {
+     "titulo": "Christmas Gift For Runner Boy Girl - Personalized Cross Country Acrylic Ornament",
+     "handle": "christmas-gift-for-runner-boy-girl-personalized-cross-country-acrylic-ornament-dy144cla4246",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/DY144-CLA4246-DEF.webp",
+     "tipo": "Acrylic Ornament"
+    },
+    {
+     "titulo": "Baby's First Christmas - Personalized Custom Photo Gingerbread Acrylic Ornament",
+     "handle": "babys-first-christmas-personalized-custom-photo-gingerbread-acrylic-ornament-pa076cin5032",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/PA076-CIN5032-MkDEF.webp",
+     "tipo": "Acrylic Ornament"
+    },
+    {
+     "titulo": "First Christmas As A Family Of Four Footprints 3D Effect - Personalized Circle Ceramic Ornament",
+     "handle": "first-christmas-as-a-family-of-four-footprints-3d-effect-personalized-circle-ceramic-ornament-kk1288nah4920",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/FirstChristmasAsAFamilyOfFourFootprints3DEffect-KK1288-NAH4920-Mk-def.webp",
+     "tipo": "Ceramic Ornament"
+    },
+    {
+     "titulo": "Family Together Santa Elf Snowman Custom Name - Personalized Custom Photo Christmas LED Tree Lights",
+     "handle": "family-together-santa-elf-snowman-custom-name-personalized-custom-photo-christmas-led-tree-lights-nk188hal4292",
+     "preco": 31.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/NK188-HAL4292-MKDef.webp",
+     "tipo": "LED Tree Lights"
+    },
+    {
+     "titulo": "Coworker Gag Gift - Personalized Your Circus Your Monkeys Acrylic Ornament",
+     "handle": "coworker-gag-gift-personalized-your-circus-your-monkeys-acrylic-ornament-th447dsr1673",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/TH447-DSR1673-DEF.webp",
+     "tipo": "Acrylic Ornament"
+    },
+    {
+     "titulo": "Anniversary Gift For Couple - Personalized Moon Phase What The Moon Looked Like Night Light",
+     "handle": "anniversary-gift-for-couple-personalized-moon-phase-what-the-moon-looked-like-night-light-te133cin5030",
+     "preco": 29.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/TE133-CIN5030-MkDEF.webp",
+     "tipo": "Night Light"
+    },
+    {
+     "titulo": "Keepsake For Fans, Music Lovers - Personalized Custom Photo Concert Ticket Acrylic Ornament",
+     "handle": "keepsake-for-fans-music-lovers-personalized-custom-photo-concert-ticket-acrylic-ornament-dh647cin5024",
+     "preco": 19.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/DH647-CIN5024-DEF.webp",
+     "tipo": "Acrylic Ornament"
+    },
+    {
+     "titulo": "Funny Siblings Gift For Kids - Personalized White Edge-to-Edge Mug",
+     "handle": "funny-siblings-gift-for-kids-personalized-white-edge-to-edge-mug-tk1434cin4997",
+     "preco": 22.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/MkDEF_0d2104d9-d6c4-41f9-bb97-749eeafb1ed8.webp",
+     "tipo": "Mug"
+    },
+    {
+     "titulo": "Christmas Home Decor Gift For Mom, Grandma - Personalized Name Birth Month Flowers Tulip LED Night Light",
+     "handle": "christmas-home-decor-gift-for-mom-grandma-personalized-name-birth-month-flowers-tulip-led-night-light-pa074ana365",
+     "preco": 59.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/PA074-ANA365-DEF_9262f871-6f83-4e33-94f2-18ccedfd33e8.webp",
+     "tipo": "Tulip LED Night Light"
+    },
+    {
+     "titulo": "Gift For Grandma - Personalized Grandkids Names Cookies Plate",
+     "handle": "gift-for-grandma-personalized-grandkids-names-cookies-plate-th450dsr1626",
+     "preco": 32.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/TH450-DSR1626-DEF.webp",
+     "tipo": "Plate"
+    },
+    {
+     "titulo": "Baby Shower Gift For New Mom - Personalized Custom Photo Protected By Cartoon Pet Baby Onesie",
+     "handle": "baby-shower-gift-for-new-mom-personalized-custom-photo-protected-by-cartoon-pet-baby-onesie-mi449cla4150",
+     "preco": 24.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/MI449-CLA4150-Def.webp",
+     "tipo": "Baby Onesie"
+    },
+    {
+     "titulo": "Senior Night Gift For Football Team Player - Personalized Custom Photo Stadium Background Leather Football",
+     "handle": "senior-night-gift-for-football-team-player-personalized-custom-photo-stadium-background-leather-football-dy142cla4244",
+     "preco": 35.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/DY142-CLA4244-MK-DEF.webp",
+     "tipo": "Leather Football"
+    },
+    {
+     "titulo": "Farmhouse Romantic Gift For Couples - Personalized From Our First Kiss Wooden Plaque",
+     "handle": "farmhouse-romantic-gift-for-couples-personalized-from-our-first-kiss-wooden-plaque-tk1436cin5019",
+     "preco": 25.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/MkDEf_36ffcdc2-a8f0-401b-a049-fd9537a349ab.webp",
+     "tipo": "Wooden Plaque"
+    },
+    {
+     "titulo": "Christmas Gift For Ballet Kids - Personalized Name & Character Nutcracker Ballet Acrylic Ornament",
+     "handle": "christmas-gift-for-ballet-kids-personalized-name-character-nutcracker-ballet-acrylic-ornament-nk185vkt1531",
+     "preco": 19.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/NK185-VKT1531-MKDef_1.webp",
+     "tipo": "Acrylic Ornament"
+    },
+    {
+     "titulo": "Gift For Mom Daughter Besties - Personalized Mother Of Pearl Effect Birth Flower Tassel Scarf",
+     "handle": "gift-for-mom-daughter-besties-personalized-mother-of-pearl-effect-birth-flower-tassel-scarf-an140cla4198",
+     "preco": 27.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/Def_50018506-9ea6-433e-87b4-a4fb2e29f830.webp",
+     "tipo": "Tassel Scarf"
+    },
+    {
+     "titulo": "Christmas Gift For Ballet Kids - Personalized Name & Character Nutcracker Ballet 3-Layered Acrylic Shaker Ornament",
+     "handle": "christmas-gift-for-ballet-kids-personalized-name-character-nutcracker-ballet-3-layered-acrylic-shaker-ornament-lv473vkt1533",
+     "preco": 25.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/LV473-VKT1533-MKDEF.webp",
+     "tipo": "Acrylic Shaker Ornament"
+    },
+    {
+     "titulo": "Funny Gag Gift For Him - Personalized 3D Hairy Chest Polo Shirt",
+     "handle": "funny-gag-gift-for-him-personalized-3d-hairy-chest-polo-shirt-dy143cla4197",
+     "preco": 31.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/DY143-CLA4197-DEF.webp",
+     "tipo": "Polo Shirt"
+    },
+    {
+     "titulo": "Christmas Memorial Gift - Personalized Custom Photo I'm Always With You 2-Layered Wooden Ornament",
+     "handle": "christmas-memorial-gift-personalized-custom-photo-im-always-with-you-2-layered-wooden-ornament-an143dsr1689",
+     "preco": 19.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/AN143-DSR1689-Def.webp",
+     "tipo": "2-Layered Wooden Ornament"
+    },
+    {
+     "titulo": "Best Friend Gift For Men - Personalized Skeleton Brotherhood Whiskey Glass",
+     "handle": "best-friend-gift-for-men-personalized-skeleton-brotherhood-whiskey-glass-pa075cin4990",
+     "preco": 31.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/PA075-CIN4990-DEF.webp",
+     "tipo": "Whiskey Glass"
+    },
+    {
+     "titulo": "Gift For Crocheter Knitter Mom Grandma - Personalized Just A Girl Who Loves Yarn Pajama Pants",
+     "handle": "gift-for-crocheter-knitter-mom-grandma-personalized-just-a-girl-who-loves-yarn-pajama-pants-nv1637cla4230",
+     "preco": 33.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/NV1637-CLA4230-DEFAULT.webp",
+     "tipo": "Pajama Pants"
+    },
+    {
+     "titulo": "Christmas Gift For Family Kids - Personalized Name Christmas Tree With Plaid 2-Layered Wooden Ornament",
+     "handle": "christmas-gift-for-family-kids-personalized-name-christmas-tree-with-plaid-2-layered-wooden-ornament-te130vkt1474",
+     "preco": 19.95,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0949/1454/3899/files/TE130-VKT1474-Mkdef.webp",
+     "tipo": "2-Layered Wooden Ornament"
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2018-08-04",
+   "dias_arquivados": 180,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 66450,
+   "rank_antigo": 102519,
+   "dias": 37,
+   "variacao": 36069,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 241,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "wanderprints.official": {
+    "seguidores": "319K",
+    "posts": "1,547",
+    "raw": "319K Followers, 0 Following, 1,547 Posts - See Instagram photos and videos from Wander Prints (&#064;wanderprints.official)"
+   }
+  }
+ },
+ "macorner.co": {
+  "dominio": "macorner.co",
+  "coletado_em": "2026-10-21T00:32:21",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "gtm",
+    "judge.me",
+    "klaviyo",
+    "loox",
+    "pinterest",
+    "recharge",
+    "snap",
+    "tiktok",
+    "vitals"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/macornerhomedecor",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/macorner_decor",
+    "https://www.pinterest.com/macorner_official",
+    "https://www.tiktok.com/@macorner_official",
+    "https://www.youtube.com/channel/ucl5tgfw5ucyskfjvvdl97tw"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 3454,
+   "preco_min": 4.99,
+   "preco_mediana": 36.95,
+   "preco_max": 179.7,
+   "primeiro_produto": "2026-10-15",
+   "ultimo_produto": "2026-10-20",
+   "vendors": [
+    "Macorner ",
+    "Macorner"
+   ],
+   "tipos": [
+    "Stocking",
+    "Cardigan",
+    "Wood Sign",
+    "Ornament",
+    "Vase",
+    "Tote Bag",
+    "Jewelry Dish",
+    "Poster",
+    "Upsell Box",
+    "Socks"
+   ],
+   "produtos": [
+    {
+     "titulo": "Custom Name Family Members Vintage Striped Pattern Christmas Decor - Personalized Stocking",
+     "handle": "custom-name-family-members-vintage-striped-pattern-christmas-decor-personalized-stocking-ma2va6jd1",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-name-family-members-vintage-striped-pattern-christmas-decor-personalized-stocking-1.jpg",
+     "tipo": "Stocking"
+    },
+    {
+     "titulo": "Thankful Grandma Custom Grandkids Turkey - Thanksgiving Fall Season Apparels - Personalized Cardigan",
+     "handle": "thankful-grandma-custom-grandkids-turkey-thanksgiving-fall-season-apparels-personalized-cardigan-malzyv8ig",
+     "preco": 36.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/One_Thankful_Grandma_Custom_Grandkids_Turkey_Thanksgiving_Fall_Season_Apparels_Personalized_Cardigan_1.png",
+     "tipo": "Cardigan"
+    },
+    {
+     "titulo": "Custom Family Name Ugly Pattern Christmas Decor - Personalized Stocking",
+     "handle": "custom-family-name-ugly-pattern-christmas-decor-personalized-stocking-ma5aseyny",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Custom_Family_Name_Ugly_Pattern_Christmas_Decor_Personalized_Stocking_1.jpg",
+     "tipo": "Stocking"
+    },
+    {
+     "titulo": "Custom Initial Monogram Family Name Autumn Harvest Porch Thanksgiving Decor - Personalized Wood Sign",
+     "handle": "custom-initial-monogram-family-name-autumn-harvest-porch-thanksgiving-decor-personalized-wood-sign-mazov98tk",
+     "preco": 32.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-initial-monogram-family-name-autumn-harvest-porch-thanksgiving-decor-personalized-wood-sign-1.jpg",
+     "tipo": "Wood Sign"
+    },
+    {
+     "titulo": "Custom Initial Football Pumpkin Fall Rustic Thanksgiving Autumn Porch Decor - Personalized Wood Sign",
+     "handle": "custom-initial-football-pumpkin-fall-rustic-thanksgiving-autumn-porch-decor-personalized-wood-sign-ma9hsgygh",
+     "preco": 32.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-initial-football-pumpkin-fall-rustic-thanksgiving-autumn-porch-decor-personalized-wood-sign-1.jpg",
+     "tipo": "Wood Sign"
+    },
+    {
+     "titulo": "Knitted Pattern Custom Name Christmas Family Keepsake Gift - Personalized Ornament",
+     "handle": "knitted-pattern-custom-name-christmas-family-keepsake-gift-personalized-ornament-ma0p31qfz",
+     "preco": 22.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/knitted-pattern-custom-name-christmas-family-keepsake-gift-personalized-ornament-1.jpg",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Bookshop Reading Room Decors, Book Lover Gift For Her - Personalized Vase",
+     "handle": "custom-bookshop-reading-room-decors-book-lover-gift-for-her-personalized-vase-ma9ekijkr",
+     "preco": 39.45,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Custom_Bookshop_Reading_Room_Decors_Book_Lover_Gift_For_Her_Personalized_Vase_1.jpg",
+     "tipo": "Vase"
+    },
+    {
+     "titulo": "Custom Dog Breeds Toile De Jouy Christmas Gift For Dog Mom - Personalized Tote Bag",
+     "handle": "custom-dog-breeds-toile-de-jouy-christmas-gift-for-dog-mom-personalized-tote-bag-ma494vrog",
+     "preco": 29.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-dog-breeds-toile-de-jouy-christmas-gift-for-dog-mom-personalized-tote-bag-1.jpg",
+     "tipo": "Tote Bag"
+    },
+    {
+     "titulo": "Nail Artist Custom Name Gifts For Her - Personalized Jewelry Dish",
+     "handle": "nail-artist-custom-name-gifts-for-her-personalized-jewelry-dish-mahkcvk3g",
+     "preco": 29.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Nail-Artist-Custom-Name-Gifts-For-Her-Personalized-Jewelry-Dish_1.jpg",
+     "tipo": "Jewelry Dish"
+    },
+    {
+     "titulo": "50th Birthday Women Gift For Her Turning 50, Custom Birth Month Flower Book Vase - Personalized Vase",
+     "handle": "50th-birthday-women-gift-for-her-turning-50-custom-birth-month-flower-book-vase-personalized-vase-ma8qghmwc",
+     "preco": 39.45,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/50th_Birthday_Women_Gift_For_Her_Turning_50_Custom_Birth_Month_Flower_Book_Vase_Personalized_Vase_1.png",
+     "tipo": "Vase"
+    },
+    {
+     "titulo": "Custom Photo Oil Painting For Guitar Players Music Lovers - Personalized Poster",
+     "handle": "custom-photo-oil-painting-for-guitar-players-music-lovers-personalized-poster-macu58xaw",
+     "preco": 32.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Custom_Photo_Oil_Painting_For_Guitar_Players_Music_Lovers_Personalized_Poster_1.jpg",
+     "tipo": "Poster"
+    },
+    {
+     "titulo": "Gifts For Her, Teacher, Team Dance Jewelry Dish, Ballet Dancer Gifts - Personalized Jewelry Dish",
+     "handle": "gifts-for-her-teacher-team-dance-jewelry-dish-ballet-dancer-gifts-personalized-jewelry-dish-maupy3l0d",
+     "preco": 29.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Gifts-For-Her-Teacher-Team-Dance-Jewelry-Dish-Ballet-Dancer-Gifts-Personalized-Jewelry-Dish_1.jpg",
+     "tipo": "Jewelry Dish"
+    },
+    {
+     "titulo": "New Home First Christmas For Couple Family Christmas Ornament - Personalized Ornament",
+     "handle": "new-home-first-christmas-for-couple-family-christmas-ornament-personalized-ornament-maegwzf06",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/New_Home_First_Christmas_For_Couple_Family_Christmas_Ornament_Personalized_Ornament_1.jpg",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Best Trip Of The Year Ticket - Personalized Ornament",
+     "handle": "best-trip-of-the-year-ticket-personalized-ornament-mas5ioke3",
+     "preco": 19.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Best_Trip_Of_The_Year_Ticket_Personalized_Ornament_1.jpg",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Pet Angel Wings Forever In My Heart Christmas Ornament - Personalized Ornament",
+     "handle": "custom-pet-angel-wings-forever-in-my-heart-christmas-ornament-personalized-ornament-mag0pduc1",
+     "preco": 21.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Custom_Pet_Angel_Wings_Forever_In_My_Heart_Christmas_Ornament_Personalized_Ornament_1.jpg",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Pet Cartoon Merry Christmas Welcome - Personalized Wood Sign",
+     "handle": "custom-pet-cartoon-merry-christmas-welcome-personalized-wood-sign-maaq1bf3d",
+     "preco": 35.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-pet-cartoon-merry-christmas-welcome-personalized-wood-sign-1.jpg",
+     "tipo": "Wood Sign"
+    },
+    {
+     "titulo": "Add-On Gift Box Service",
+     "handle": "add-on-gift-box-service-106",
+     "preco": 4.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/20240322-151250_4f262efe-5309-4184-944a-fce5cb025f15.png",
+     "tipo": "Upsell Box"
+    },
+    {
+     "titulo": "Do Not Disturb I'M Watching Movies, Funny Gift For Film Lovers - Personalized Socks",
+     "handle": "do-not-disturb-im-watching-movies-funny-gift-for-film-lovers-personalized-socks-maknmzvp4",
+     "preco": 22.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/do-not-disturb-im-watching-movies-funny-gift-for-film-lovers-personalized-socks-1.jpg",
+     "tipo": "Socks"
+    },
+    {
+     "titulo": "Custom Name & Birth Flower For Her Gift For Guitar Player - Personalized Mug",
+     "handle": "custom-name-and-birth-flower-for-her-gift-for-guitar-player-personalized-mug-ma4v8fdg9",
+     "preco": 29.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/custom-name-and-birth-flower-for-her-gift-for-guitar-player-personalized-mug-1.jpg",
+     "tipo": "Mug"
+    },
+    {
+     "titulo": "Your Friendship Is A Special Gift That - Personalized Mug",
+     "handle": "your-friendship-is-a-special-gift-that-personalized-mug-mah9m3lg8",
+     "preco": 24.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Your_Friendship_Is_A_Special_Gift_That_Personalized_Mug_1.jpg",
+     "tipo": "Mug"
+    },
+    {
+     "titulo": "Custom Name Striped Pattern Christmas Holiday Character - Personalized Stocking",
+     "handle": "custom-name-striped-pattern-christmas-holiday-character-personalized-stocking-ma48o8p0g",
+     "preco": 26.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Custom_Name_Striped_Pattern_Christmas_Holiday_Character_Personalized_Stocking_1.jpg",
+     "tipo": "Stocking"
+    },
+    {
+     "titulo": "Fishing Funny 3D Gift For Grandpa Dad Husband - Personalized Socks",
+     "handle": "fishing-funny-3d-gift-for-grandpa-dad-husband-personalized-socks-maawwg6k6",
+     "preco": 22.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/fishing-funny-3d-gift-for-grandpa-dad-husband-personalized-socks-1.jpg",
+     "tipo": "Socks"
+    },
+    {
+     "titulo": "The Year We Got Engaged Ceramic Book Vase, Custom Couple Name Wedding Gifts - Personalized Vase",
+     "handle": "the-year-we-got-engaged-ceramic-book-vase-custom-couple-name-wedding-gifts-personalized-vase-macxs85rd",
+     "preco": 39.45,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/The_Year_We_Got_Engaged_Ceramic_Book_Vase_Custom_Couple_Name_Wedding_Gifts_Personalized_Vase_2.jpg",
+     "tipo": "Vase"
+    },
+    {
+     "titulo": "The Mountains Are Calling, And I Must Go Gift For Skiing Lovers, Snowboarding Lover - Personalized Hoodie",
+     "handle": "the-mountains-are-calling-and-i-must-go-gift-for-skiing-lovers-snowboarding-lover-personalized-hoodie-maqbsepfp",
+     "preco": 39.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/the-mountains-are-calling-and-i-must-go-gift-for-skiing-lovers-snowboarding-lover-personalized-hoodie-1.jpg",
+     "tipo": "Hoodie"
+    },
+    {
+     "titulo": "Turn Photo Into Cartoon Art - Custom Family Name Matching Ugly Sweater Party - Personalized Sweater",
+     "handle": "turn-photo-into-cartoon-art-custom-family-name-matching-ugly-sweater-party-personalized-sweater-malgzg4jw",
+     "preco": 27.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/turn-photo-into-cartoon-art-custom-family-name-matching-ugly-sweater-party-personalized-sweater-1.jpg",
+     "tipo": "Sweater"
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "You & Me We Got This - Personalized Window Hanging Suncatcher Ornament - Anniversary Gifts",
+     "handle": "you-me-we-got-this-personalized-window-hanging-suncatcher-ornament-cou300503dgtl",
+     "preco": 26.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/You-_-Me-We-Got-This-Personalized-Window-Hanging-Suncatcher-Ornament_1.jpg"
+    },
+    {
+     "titulo": "Just A Girl Who Loves Books - Personalized Sweatpants, Lounge Pants With Pockets, Custom Pajama Pants, Jogger Sweatpants, Gift For Her",
+     "handle": "just-a-girl-who-loves-books-personalized-sweatpants-boo041103tuht",
+     "preco": 27.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Just-A-Girl-Who-Loves-Books-Personalized-Sweatpants_01.jpg"
+    },
+    {
+     "titulo": "I Am Always With You - Personalized Memorial Photo Ornament",
+     "handle": "photo-inserted-i-am-always-with-you-personalized-custom-shaped-acrylic-ornament-mrr030804tuhg",
+     "preco": 19.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/products/Photo-Inserted_-I-Am-Always-With-You-Personalized-Custom-Shaped-Acrylic-Ornament-_1_b91baac7-643a-46ec-91d0-befa21e0df56.jpg"
+    },
+    {
+     "titulo": "Graduation Walking Beside You Every Step - Personalized Lapel Pin With Photo Charms",
+     "handle": "graduation-walking-beside-you-every-step-personalized-lapel-pin-with-photo-charms-maxihwmtw",
+     "preco": 19.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Graduation_Walking_Beside_You_Every_Step_Personalized_Lapel_Pin_With_Photo_Charms_1.jpg"
+    },
+    {
+     "titulo": "Vintage Monogram - Personalized Leather Toiletry Bag",
+     "handle": "vintage-monogram-personalized-leather-toiletry-bag-hus180203vupg",
+     "preco": 39.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Vintage-Monogram-Personalized-Leather-Toiletry-Bag_1.jpg"
+    },
+    {
+     "titulo": "Dad The Man The Myth The Legend - Personalized Shirt Father's Day",
+     "handle": "dad-the-man-the-myth-the-legend-personalized-shirt-dad050503tutl",
+     "preco": 24.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/products/DadTheManTheMythTheLegend-PersonalizedShirt_1.jpg"
+    },
+    {
+     "titulo": "Friends We Never Walk Alone - Personalized Acrylic Ornament - Gift For Friend",
+     "handle": "friends-we-never-walk-alone-personalized-acrylic-ornament-fri021103vupg",
+     "preco": 16.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Friends-We-Never-Walk-Alone-Personalized-Acrylic-Ornament_1_75763677-16ed-4522-a1fe-ff45ddb31c95.jpg"
+    },
+    {
+     "titulo": "God Says I Am Name Letter In Bible Toile De Jouy Style - Personalized Jewelry Dish",
+     "handle": "god-says-i-am-name-letter-in-bible-toile-de-jouy-style-personalized-jewelry-dish-sgt090704dotl",
+     "preco": 29.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/God-Says-I-Am-Name-Letter-In-Bible-Toile-De-Jouy-Style-Personalized-Jewelry-Dish_1.jpg"
+    },
+    {
+     "titulo": "Adorable Newborn Baby Elf - Personalized Babys Photo First Christmas Ornament",
+     "handle": "adorable-newborn-baby-elf-personalized-acrylic-photo-ornament-nbo281006ttnh",
+     "preco": 19.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/products/Adorable-Newborn-Baby-Elf-Personalized-Acrylic-Photo-Ornament_5d91d903-223a-4122-90c0-a365c0ea6908.jpg"
+    },
+    {
+     "titulo": "Fuck Valentine's Day I Love You Everyday - Personalized Bottle Lamp",
+     "handle": "fuck-valentines-day-i-love-you-everyday-personalized-bottle-lamp-cou110102vupg",
+     "preco": 39.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Fuck-Valentine_S-Day-I-Love-You-Everyday--Personalized-Bottle-Lamp_1.jpg"
+    },
+    {
+     "titulo": "King & Queen Custom Couples Photo Drive Safe I Love You We're A Perfect Pair - Personalized Wooden Photo Car Visor Clip",
+     "handle": "king-queen-custom-couples-photo-drive-safe-i-love-you-were-a-perfect-pair-personalized-wooden-photo-car-visor-clip-cou111202dghn",
+     "preco": 24.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/King-_-Queen-Custom-Couples-Photo-Drive-Safe-I-Love-You-We_Re-A-Perfect-Pair-Personalized-Wooden-Photo-Car-Visor-Clip_0_22554590-5911-4c6d-9bea-16486c1180ed.jpg"
+    },
+    {
+     "titulo": "Mom Gift - Personalized Window Hanging Suncatcher Ornament - Gift For Mom",
+     "handle": "mom-mothers-day-gift-personalized-window-hanging-suncatcher-ornament-mom110201tttl",
+     "preco": 26.95,
+     "imagem": "https://cdn.shopify.com/s/files/1/0626/0421/4428/files/Mom-Mothers-Day-Gift-Personalized-Window-Hanging-Suncatcher-Ornament-1_3.jpg"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2021-03-11",
+   "dias_arquivados": 158,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 89812,
+   "rank_antigo": 97118,
+   "dias": 37,
+   "variacao": 7306,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 35,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "macorner_decor": {
+    "seguidores": "465K",
+    "posts": "3,218",
+    "raw": "465K Followers, 0 Following, 3,218 Posts - See Instagram photos and videos from Macorner (&#064;macorner_decor)"
+   }
+  }
+ },
+ "pawfecthouse.com": {
+  "dominio": "pawfecthouse.com",
+  "coletado_em": "2026-10-21T00:32:30",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "hotjar",
+    "judge.me",
+    "klaviyo",
+    "loox",
+    "pinterest",
+    "recharge",
+    "snap",
+    "tiktok",
+    "vitals"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/thepawfecthouse",
+    "https://www.instagram.com/pawfecthouse_official",
+    "https://www.tiktok.com/@pawfecthouse_official",
+    "https://www.youtube.com/@pawfecthouse_official"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 1539,
+   "preco_min": 19.99,
+   "preco_mediana": 39.95,
+   "preco_max": 156.99,
+   "primeiro_produto": "2026-10-14",
+   "ultimo_produto": "2026-10-20",
+   "vendors": [
+    "A",
+    "N",
+    "Y",
+    "O",
+    "K"
+   ],
+   "tipos": [
+    "Apron With Pocket",
+    "Quilted Round Mat",
+    "Storage Basket",
+    "Comfort T-Shirt",
+    "Pajamas",
+    "Desk Mat",
+    "Music Fridge Magnet",
+    "Mugs",
+    "Ornament",
+    "Jewelry Dish"
+   ],
+   "produtos": [
+    {
+     "titulo": "Custom Name Kids Cooking Gifts For Kids - Personalized Apron With Pocket",
+     "handle": "custom-name-kids-cooking-gifts-for-kids-personalized-apron-with-pocket",
+     "preco": 26.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad74c9c7f584.webp",
+     "tipo": "Apron With Pocket"
+    },
+    {
+     "titulo": "Custom Pet Photo Christmas Dog Decor Gifts For Dog And Cat Lovers, Pet Lovers - Personalized Quilted Round Mat",
+     "handle": "custom-pet-photo-christmas-dog-decor-gifts-for-dog-and-cat-lovers-pet-lovers-personalized-quilted-round-mat",
+     "preco": 38.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad74ad0c9c6c.webp",
+     "tipo": "Quilted Round Mat"
+    },
+    {
+     "titulo": "Custom Name Golf Gifts for Golfers - Personalized Storage Basket",
+     "handle": "custom-name-golf-gifts-for-golfers-personalized-storage-basket",
+     "preco": 31.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad0ab7b54f5d.webp",
+     "tipo": "Storage Basket"
+    },
+    {
+     "titulo": "Custom Photo Funny Christmas Bigfoot Gifts for Men - Personalized Comfort T-Shirt",
+     "handle": "custom-photo-funny-christmas-bigfoot-gifts-for-men-personalized-comfort-t-shirt",
+     "preco": 31.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad716198b561.webp",
+     "tipo": "Comfort T-Shirt"
+    },
+    {
+     "titulo": "Custom Photo Christmas Yeti Gifts for Men - Personalized Comfort T-Shirt",
+     "handle": "custom-photo-christmas-yeti-gifts-for-men-personalized-comfort-t-shirt",
+     "preco": 31.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad713e9658b8.webp",
+     "tipo": "Comfort T-Shirt"
+    },
+    {
+     "titulo": "Custom Santa Hat Face And Name Family Christmas Gifts - Personalized Pajama Pants",
+     "handle": "custom-santa-hat-face-and-name-family-christmas-gifts-personalized-pajama-pants",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad747aaecdaa.webp",
+     "tipo": "Pajamas"
+    },
+    {
+     "titulo": "Custom Photo Gamer Setup Gifts For Gamer, Gaming Lovers, Kids - Personalized Desk Mat",
+     "handle": "custom-photo-gamer-setup-gifts-for-gamer-gaming-lovers-kids-personalized-desk-mat",
+     "preco": 33.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad74a6a3933b.webp",
+     "tipo": "Desk Mat"
+    },
+    {
+     "titulo": "Custom Photo Memorial Music Gift - Personalized Music Fridge Magnet",
+     "handle": "custom-photo-memorial-music-gift-personalized-music-fridge-magnet",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad747c633f11.webp",
+     "tipo": "Music Fridge Magnet"
+    },
+    {
+     "titulo": "Custom Photo Gaming Zone Gifts For Gamers, Gaming Lovers, Kids - Personalized Desk Mat",
+     "handle": "custom-photo-gaming-zone-gifts-for-gamers-gaming-lovers-kids-personalized-desk-mat",
+     "preco": 33.95,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad74972c091d.webp",
+     "tipo": "Desk Mat"
+    },
+    {
+     "titulo": "Custom Photo Memorial Music Gifts - Personalized Music Fridge Magnet",
+     "handle": "custom-photo-memorial-music-gifts-personalized-music-fridge-magnet",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad7439ecab9d.webp",
+     "tipo": "Music Fridge Magnet"
+    },
+    {
+     "titulo": "Custom Name Funny Monkeys Gifts For Coworkers And Work Besties - Personalized Mug",
+     "handle": "custom-name-funny-monkeys-gifts-for-coworkers-and-work-besties-personalized-mug",
+     "preco": 24.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad72e6122d10.webp",
+     "tipo": "Mugs"
+    },
+    {
+     "titulo": "Custom Pet Memorial Photo Christmas Keepsake Gifts For Dog And Cat Lovers - Personalized Acrylic Ornament",
+     "handle": "custom-pet-memorial-photo-christmas-keepsake-gifts-for-dog-and-cat-lovers-personalized-acrylic-ornament",
+     "preco": 21.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad7213b4d837.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Pet Photo Christmas Memorial Gifts For Dog And Cat Lovers - Personalized Acrylic Ornament",
+     "handle": "custom-pet-photo-christmas-memorial-gifts-for-dog-and-cat-lovers-personalized-acrylic-ornament",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad71d905f66e.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Butterfly Girl Floral Gifts For Women - Personalized Jewelry Dish",
+     "handle": "custom-name-butterfly-girl-floral-gifts-for-women-personalized-jewelry-dish",
+     "preco": 30.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad704b95c4e2.webp",
+     "tipo": "Jewelry Dish"
+    },
+    {
+     "titulo": "Custom Name Flower Gifts For Women - Personalized Jewelry Dish",
+     "handle": "custom-name-flower-gifts-for-women-personalized-jewelry-dish",
+     "preco": 30.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad6f76d82e68.webp",
+     "tipo": "Jewelry Dish"
+    },
+    {
+     "titulo": "Custom Name Garden Flower Keepsake Gifts For Women - Personalized Jewelry Dish",
+     "handle": "custom-name-garden-flower-keepsake-gifts-for-women-personalized-jewelry-dish",
+     "preco": 30.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad6f3555d1a2.webp",
+     "tipo": "Jewelry Dish"
+    },
+    {
+     "titulo": "Custom Photo BBQ Gifts For Grill Masters - Personalized Apron With Pocket",
+     "handle": "custom-photo-bbq-gifts-for-grill-masters-personalized-apron-with-pocket",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad71590c3816.webp",
+     "tipo": "Apron With Pocket"
+    },
+    {
+     "titulo": "Custom Photo Christmas Gifts For Kids - Personalized Apron With Pocket",
+     "handle": "custom-photo-christmas-gifts-for-kids-personalized-apron-with-pocket",
+     "preco": 28.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad6eef2b96fe.webp",
+     "tipo": "Apron With Pocket"
+    },
+    {
+     "titulo": "Custom Name Christmas Cookie Baking Gifts For Kids - Personalized Apron With Pocket",
+     "handle": "custom-name-christmas-cookie-baking-gifts-for-kids-personalized-apron-with-pocket",
+     "preco": 26.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad6e7db1413e.webp",
+     "tipo": "Apron With Pocket"
+    },
+    {
+     "titulo": "Custom Name Snowman Christmas Countdown for Families - Personalized Fabric Advent Calendar",
+     "handle": "custom-name-snowman-christmas-countdown-for-families-personalized-fabric-advent-calendar",
+     "preco": 39.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad74283889b3.webp",
+     "tipo": "Fabric Advent Calendar"
+    },
+    {
+     "titulo": "Custom Family Photo Plaid Christmas Decor - Personalized Runner Rug",
+     "handle": "custom-family-photo-plaid-christmas-decor-personalized-runner-rug",
+     "preco": 41.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad6c935d43c4.webp",
+     "tipo": "Runner Rug"
+    },
+    {
+     "titulo": "Custom Name and Number Sports Gifts for Families - Personalized Pajamas",
+     "handle": "custom-name-and-number-sports-gifts-for-families-personalized-pajamas",
+     "preco": 27.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad73cb37c5ce.webp",
+     "tipo": "Pajamas"
+    },
+    {
+     "titulo": "Custom Photo Funny Fisheye Pet Lover Gifts - Personalized Pet Face Pillow",
+     "handle": "custom-photo-funny-fisheye-pet-lover-gifts-personalized-pet-face-pillow",
+     "preco": 39.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad740194a1eb.webp",
+     "tipo": "Shaped Pillow"
+    },
+    {
+     "titulo": "Custom Name Funny Best Friend Gifts for Women - Personalized Pocket Hug Token",
+     "handle": "custom-name-funny-best-friend-gifts-for-women-personalized-pocket-hug-token",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad72cad63569.webp",
+     "tipo": "Pocket Hug"
+    },
+    {
+     "titulo": "Custom Pet Photo Banana Costume Gifts for Pet Lovers - Personalized Shaped Pillow",
+     "handle": "custom-pet-photo-banana-costume-gifts-for-pet-lovers-personalized-shaped-pillow",
+     "preco": 37.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6ad73d51afb0c.webp",
+     "tipo": "Shaped Pillow"
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "Custom Funny Patriotic Men Swim Trunks - Personalized Birthday Gifts For Husband, Son, Grandson, Brother, Grandpa, Dad, Yourself - Warning Wide Load",
+     "handle": "custom-funny-patriotic-men-swim-trunks-personalized-birthday-gifts-for-husband-son-grandson-brother-grandpa-dad-yourself-warning-wide-load",
+     "preco": 32.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a5768b2df595.webp"
+    },
+    {
+     "titulo": "Custom Funny Patriotic Men Swim Trunks - Personalized Summer Vacation And Travel Gifts For Men - Freedom And Chill",
+     "handle": "custom-funny-patriotic-men-swim-trunks-personalized-summer-vacation-and-travel-gifts-for-men-freedom-and-chill",
+     "preco": 32.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a438a950d205.webp"
+    },
+    {
+     "titulo": "Custom Pocket Hug - Personalized Birthday Gifts For Son - You Mean The World To Me",
+     "handle": "custom-pocket-hug-personalized-birthday-gifts-for-son-you-mean-the-world-to-me",
+     "preco": 19.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a337350998e7.webp"
+    },
+    {
+     "titulo": "Custom Photo Hat, All Over Print Classic Cap - Personalized Father's Day Birtday Gifts For Dad, Grandpa - Strong Hearts Raise Strong Families",
+     "handle": "custom-photo-hat-all-over-print-classic-cap-personalized-fathers-day-birtday-gifts-for-dad-grandpa-strong-hearts-raise-strong-families",
+     "preco": 29.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a069ea49c4a5.webp"
+    },
+    {
+     "titulo": "Custom Wood Sign - Personalized America 250th Anniversary Gifts For Mom, Dad, Brother, Sister, Kids - Family Forever United",
+     "handle": "custom-wood-sign-personalized-america-250th-anniversary-gifts-for-mom-dad-brother-sister-kids-family-forever-united",
+     "preco": 32.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/69a534734c3ca.webp"
+    },
+    {
+     "titulo": "Custom Pocket Hug - Personalized Anniversary Wedding Gifts For Husband And Wife, Him And Her - Love Token Lasts Forever",
+     "handle": "custom-pocket-hug-personalized-anniversary-wedding-gifts-for-husband-and-wife-him-and-her-love-token-lasts-forever",
+     "preco": 19.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a4ccbea6201a.webp"
+    },
+    {
+     "titulo": "Custom Engraved Leather Toiletry Bag - Personalized Birthday Gifts For Dad, Brother, Grandpa, Husband - For The Man Who’s Always On The Move",
+     "handle": "custom-engraved-leather-toiletry-bag-personalized-birthday-gifts-for-dad-brother-grandpa-husband-for-the-man-whos-always-on-the-move",
+     "preco": 35.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/69a1671eee1de.webp"
+    },
+    {
+     "titulo": "Custom Photo Balaclava Mask - Personalized Halloween Birthday Gifts For Dog Cat Lovers, Dog Dad And Mom, Cat Owners - Pet Monster On Loose",
+     "handle": "custom-photo-balaclava-mask-personalized-halloween-birthday-gifts-for-dog-cat-lovers-dog-dad-and-mom-cat-owners-pet-monster-on-loose",
+     "preco": 22.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a9e810006f57.webp"
+    },
+    {
+     "titulo": "Custom Flower Vase With Ribbon - Personalized Mother's Day Birthday Gifts For Mom, Grandma - A Garden Grown From Her Heart",
+     "handle": "custom-flower-vase-with-ribbon-personalized-mothers-day-birthday-gifts-for-mom-grandma-a-garden-grown-from-her-heart",
+     "preco": 44.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/69cf7e950d77e.webp"
+    },
+    {
+     "titulo": "Custom Photo Unisex T-shirt - Personalized Father's Day Birthday Gifts For Dog Cat Lovers, Dog Dad And Mom, Cat Owners - Furry Friends Forever",
+     "handle": "custom-photo-unisex-t-shirt-personalized-fathers-day-birthday-gifts-for-dog-cat-lovers-dog-dad-and-mom-cat-owners-furry-friends-forever",
+     "preco": 32.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a7d9fd27c6d2.webp"
+    },
+    {
+     "titulo": "Custom Plant Pot Ceramic Mug - Personalized Garden Gifts For Gardeners - Garden Magic Maker - Flower Pot Mug",
+     "handle": "custom-plant-pot-ceramic-mug-personalized-garden-gifts-for-gardeners-garden-magic-maker-flower-pot-mug",
+     "preco": 32.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/686ccc5d5f313.webp"
+    },
+    {
+     "titulo": "Custom Pocket Hug - Personalized Birthday Gifts For Grandson - My Greatest Adventure",
+     "handle": "custom-pocket-hug-personalized-birthday-gifts-for-grandson-my-greatest-adventure",
+     "preco": 19.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0936/0008/8353/files/6a6b22ae3a54e.webp"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2021-04-04",
+   "dias_arquivados": 126,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 135962,
+   "rank_antigo": 145229,
+   "dias": 37,
+   "variacao": 9267,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 40,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "pawfecthouse_official": {
+    "seguidores": "364K",
+    "posts": "1,700",
+    "raw": "364K Followers, 11 Following, 1,700 Posts - See Instagram photos and videos from Pawfect House (&#064;pawfecthouse_official)"
+   }
+  }
+ },
+ "milagift.com": {
+  "dominio": "milagift.com",
+  "coletado_em": "2026-10-21T00:32:38",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "bold",
+    "gtm",
+    "klarna",
+    "pinterest",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/milagift_official",
+    "https://www.pinterest.com/milagift_official",
+    "https://www.tiktok.com/@milagiftofficial",
+    "https://www.youtube.com/@milagift_official"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": -1,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 966,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "milagift_official": {
+    "seguidores": "938",
+    "posts": "51",
+    "raw": "938 Followers, 0 Following, 51 Posts - See Instagram photos and videos from MilaGift (&#064;milagift_official)"
+   }
+  }
+ },
+ "trendingcustom.com": {
+  "dominio": "trendingcustom.com",
+  "coletado_em": "2026-10-21T00:32:46",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "clarity",
+    "gtag",
+    "gtm",
+    "hotjar",
+    "klaviyo",
+    "loox",
+    "pinterest",
+    "recharge",
+    "snap",
+    "vitals"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/personalized-family-gifts-15622524706941",
+    "https://www.pinterest.com/trendingcustom/_created",
+    "https://www.youtube.com/channel/ucwhauarvezayqzthsaoumvw/feature"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 3926,
+   "preco_min": 4.99,
+   "preco_mediana": 39.99,
+   "preco_max": 229.99,
+   "primeiro_produto": "2026-10-09",
+   "ultimo_produto": "2026-10-20",
+   "vendors": [
+    "Trending Custom",
+    "customall"
+   ],
+   "tipos": [
+    "Ornament",
+    "Acrylic Ornament Custom Shape",
+    "Wooden Ornament Custom Shape",
+    "Fleece Blanket",
+    "Personalized Dumpling Soccer 3D Ornament",
+    "3D Printed Clicker Ornament",
+    "Welder",
+    "First Christmas As Family Of Three",
+    "Acrylic Name Night Light",
+    "Mirror Light Box"
+   ],
+   "produtos": [
+    {
+     "titulo": "2026 Year In Review Memorable Moments - Ceramic Ornament - Christmas Gift For Family, Friends, History Lovers",
+     "handle": "2026-year-in-review-memorable-moments-ceramic-ornament-christmas-gift-for-family-friends-history-lovers-10201315",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/1f5f60f8-5a71-4371-9e4e-ae2cea073444.jpg",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Just a Girl Who Loves Makeup - Personalized Acrylic Ornament - Christmas Gift for Daughter,Granddaughter,Teen Girl",
+     "handle": "just-a-girl-who-loves-makeup-psnl-acrylic-ornament-christmas-gift-for-daughtergranddaughterteen-girl-10201316",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/5S2BCfURdb__pod3202610201316_web1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Custom National Parks Adventures - Personalized Wooden Ornament - National Parks Adventure Lovers, National Park Trip Keepsake, Couple Traveling Christmas Gift",
+     "handle": "custom-national-parks-adventures-psnl-wooden-ornament-national-parks-adventure-lovers-national-park-trip-keepsake-couple-traveling-christmas-gift-10191100",
+     "preco": 18.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/n81Q3WfBFd__pod2202610191100_web-1.jpg",
+     "tipo": "Wooden Ornament Custom Shape"
+    },
+    {
+     "titulo": "Besties Forever Custom Names Christmas Girls - Personalized Acrylic Ornament - Christmas Gift For Best Friends, Besties, BFF, Soul Sisters",
+     "handle": "besties-forever-custom-names-christmas-girls-psnl-acrylic-ornament-christmas-gift-for-best-friends-besties-bff-soul-sisters-10171306",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/SFKXPUDLhT__web1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Beautiful Graduation Girl Class of 2026 2027 2028 2029 Keepsake - Personalized Acrylic Ornament - Christmas Gift, Graduation Gift For Graduates, Senior, Granddaughter, Daughter",
+     "handle": "beautiful-graduation-girl-class-of-2026-2027-2028-2029-keepsake-psnl-acrylic-ornament-christmas-gift-graduation-gift-for-graduates-senior-granddaughter-daughter-10201313",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/Gmw5H72ojJ__web1.gif",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Just a Girl Who Loves Flute - Personalized Acrylic Ornament - Christmas Gift for Daughter, Granddaughter",
+     "handle": "just-a-girl-who-loves-flute-psnl-acrylic-ornament-christmas-gift-for-daughter-granddaughter-10191307",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/ARgLuzLzI1__pod3202610191307_web-1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Woodland Animal Print Custom Baby Name - Personalized Fleece Blanket - Nursery Woodland Animal Theme For Baby",
+     "handle": "woodland-animal-print-custom-baby-name-psnl-fleece-blanket-nursery-woodland-animal-theme-for-baby-10191098",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/rWLlXdWXFJ__pod2202610191098_web-1.jpg",
+     "tipo": "Fleece Blanket"
+    },
+    {
+     "titulo": "Freshman Year Campus A New Chapter Begins - Personalized Fleece Blanket - Christmas Gift, Back to School Gift for College Students",
+     "handle": "freshman-year-campus-a-new-chapter-begins-psnl-fleece-blanket-christmas-gift-back-to-school-gift-for-college-students-10191095",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/bo0tyPP9kS__pod2202610191095_web-1.jpg",
+     "tipo": "Fleece Blanket"
+    },
+    {
+     "titulo": "Custom Soccer Cute Dumpling - Personalized 3D Printed Soccer Figurine Ornament - Christmas Gift for Daughter, Son, Grandkids",
+     "handle": "custom-soccer-cute-dumpling-personalized-3d-printed-soccer-figurine-ornament-christmas-gift-for-daughter-son-grandkids",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/BoIrYvaeTp__pod3202610191309_web-1.jpg",
+     "tipo": "Personalized Dumpling Soccer 3D Ornament"
+    },
+    {
+     "titulo": "Custom Sports Dumpling - Personalized Acrylic Ornament - Christmas Gift for Daughter, Son, Grandkids",
+     "handle": "custom-sports-dumpling-squishy-style-personalized-acrylic-ornament-christmas-gift-for-daughter-son-grandkids-916124",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/yZbLZgGaDA__pod3202609141115_web1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Freshman Year Christmas Boy Girl - Personalized Fleece Blanket - College Student Christmas Gift",
+     "handle": "freshman-year-christmas-boy-girl-psnl-fleece-blanket-college-student-christmas-gift-10191097",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/Z9TbKbxZtU__pod2202610191097_web-1.jpg",
+     "tipo": "Fleece Blanket"
+    },
+    {
+     "titulo": "Kid Favorite Things Snow Globe 2D Flat - Personalized Acrylic Onrament - Christmas Gift For Daughter Granddaughter, Son Grandson",
+     "handle": "kid-favorite-things-snow-globe-2d-flat-psnl-acrylic-onrament-christmas-gift-for-daughter-granddaughter-son-grandson-10161089",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/VOqmdUha9z__pod2202610161089_web1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Just a Girl Who Loves Taekwondo - Personalized Acrylic Ornament - Christmas Gift for Daughter,Granddaughter",
+     "handle": "just-a-girl-who-loves-taekwondo-psnl-acrylic-ornament-christmas-gift-for-daughtergranddaughter-10201313",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/FT3VH2eiZ8__pod3202610201313_web-1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Besties Sisters Forever Stars - Personalized Acrylic Ornament - Christmas Gift For Besties Sister",
+     "handle": "besties-sisters-forever-stars-psnl-acrylic-ornament-christmas-gift-for-besties-sister-10191094",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/rgWJLlFv8Z__pod2202610191094_web-2.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Musical Theater Girl Custom Name - Personalized Acrylic Ornament - Christmas Gift For Theater Lovers, Drama Club Girls, Musical Theater Students, Daughter, Granddaughter",
+     "handle": "musical-theater-girl-custom-name-psnl-acrylic-ornament-christmas-gift-for-theater-lovers-drama-club-girls-musical-theater-students-daughter-granddaughter-10191311",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/6Ud8FEWpJL__web1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Theater Drama Club Girl Custom Name & School Name - Personalized Fleece Blanket - Graduation Gift For Musical Theater Girls, High School Theater Students, Daughter, Granddaughter",
+     "handle": "theater-drama-club-girl-custom-name-school-name-psnl-fleece-blanket-graduation-gift-for-musical-theater-girls-high-school-theater-students-daughter-granddaughter-10191309",
+     "preco": 34.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/JNCULzisvC__web1.jpg",
+     "tipo": "Fleece Blanket"
+    },
+    {
+     "titulo": "Just a Girl Who Loves Figure Skating - Personalized Acrylic Ornament - Christmas Gift for Daughter, Granddaughter",
+     "handle": "just-a-girl-who-loves-figure-skating-psnl-acrylic-ornament-christmas-gift-for-daughter-granddaughter-10191306",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/a4cX3JbygK__pod3202610191306_web-1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Farm Animal Print Custom Baby Name - Personalized Fleece Blanket - Nursery Farm Animal Theme For Baby Boy",
+     "handle": "farm-animal-print-custom-baby-name-psnl-fleece-blanket-nursery-farm-animal-theme-for-baby-boy-10171092",
+     "preco": 34.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/4daLYoGI1G__pod2202610171092_web-1.jpg",
+     "tipo": "Fleece Blanket"
+    },
+    {
+     "titulo": "Color Guard Girl Custom Name & School Name - Personalized Acrylic Ornament - Christmas Gift For Color Guard Girls, Marching Band Members, Daughter, Granddaughter",
+     "handle": "color-guard-girl-custom-name-school-name-psnl-acrylic-ornament-christmas-gift-for-color-guard-girls-marching-band-members-daughter-granddaughter-10191312",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/LeqMnYgNcI__web1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Custom Baseball Cute Dumpling - Personalized 3D Printed Baseball Figurine Ornament - Christmas Gift for Daughter, Son, Grandkids",
+     "handle": "custom-baseball-cute-dumpling-psnl-3d-printed-baseball-figurine-ornament-christmas-gift-for-daughter-son-grandkids-10191308",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/t5wZObDBzl__pod3202610191308_web1.jpg",
+     "tipo": "3D Printed Clicker Ornament"
+    },
+    {
+     "titulo": "Just a Girl Who Loves Marching Band - Personalized Acrylic Ornament - Christmas Gift for Daughter, Granddaughter",
+     "handle": "just-a-girl-who-loves-marching-band-psnl-acrylic-ornament-christmas-gift-for-daughter-granddaughter-10191305",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/4OzdeIFoEc__pod3202610191305_web1.jpg",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Safari Animal Print Custom Baby Name - Personalized Fleece Blanket - Nursery Jungle Animal Theme For Baby",
+     "handle": "safari-animal-print-custom-baby-name-psnl-fleece-blanket-nursery-jungle-animal-theme-for-baby-10171091",
+     "preco": 34.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/0raDulcJhR__pod2202610171091_web-1.jpg",
+     "tipo": "Fleece Blanket"
+    },
+    {
+     "titulo": "Volleyball Boy & Girl - Personalized Fleece Blanket - Christmas Gift For Daugter Granddaughter Son Grandson",
+     "handle": "volleyball-boy-girl-psnl-fleece-blanket-christmas-gift-for-daugter-granddaughter-son-grandson-10161086",
+     "preco": 34.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/7OYpvvaCa2__pod2202610161086_web-1.jpg",
+     "tipo": "Fleece Blanket"
+    },
+    {
+     "titulo": "The Places You've Been Sign Post 2D Flat Printed - Personalized Acrylic Ornament - Traveling Destination Keepsake, Christmas Gift For Traveling Lovers",
+     "handle": "the-places-youve-been-sign-post-2d-flat-printed-psnl-acrylic-ornament-traveling-destination-keepsake-christmas-gift-for-traveling-lovers-10171090",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/2y7v7Q9dhW__1.png",
+     "tipo": "Acrylic Ornament Custom Shape"
+    },
+    {
+     "titulo": "Freshman Year Christmas Custom Name & School Name - Personalized Fleece Blanket - Christmas Gift For College Freshman, Boy, Girl, Grandkids, College Students",
+     "handle": "freshman-year-christmas-custom-name-school-name-psnl-fleece-blanket-christmas-gift-for-college-freshman-boy-girl-grandkids-college-students-10191310",
+     "preco": 34.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/P9f7BRRmZ1__web1.jpg",
+     "tipo": "Fleece Blanket"
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "Personalized Moon Phase Crystal Ball Night Light - Custom Date Gift for Mom & Her - Unique Anniversary or Birthday Keepsake",
+     "handle": "our-moon-the-night-we-got-married-psnl-crystal-ball-night-light-heartfelt-anniversary-gift-for-her-for-him-23106957",
+     "preco": 29.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/yNtwP9pKqC__1.jpg"
+    },
+    {
+     "titulo": "Perfect Gift for Cat Dads - Custom Cat Fist Bump - Personalized Shirt - Perfect Gift for Cat Dads",
+     "handle": "bestcatdadfluffycatlightcolor-100521",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/nLJvqoe0gA__web1_min.jpg"
+    },
+    {
+     "titulo": "We Caught the Best Dad, Grandpa Baseball - Personalized Acrylic Block Plaque - Gift For Dad, Gift For Husband, Gift For Grandpa",
+     "handle": "we-caught-the-best-dad-baseball-custom-figure-personalized-acrylic-block-plaque-fathers-day-gift-for-dads",
+     "preco": 32.49,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/X25OXNcE0z__1.jpg"
+    },
+    {
+     "titulo": "Grandma Grandpa's Pumpkin Patch 2D Flat - Personalized Door Hanger - Fall Season Decor For Grandparents",
+     "handle": "grandma-grandpas-pumpkin-patch-2d-flat-psnl-door-hanger-fall-season-decor-for-grandparents-60729648",
+     "preco": 34.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/HX6XPozkNI__pod220260729648_web-1.jpg"
+    },
+    {
+     "titulo": "Starry Night Custom Birth Moon Phase The Days You Became Our Dad - Personalized Poster - Gift For Dad, Gift For Husband, Gift For Grandpa",
+     "handle": "starry-night-custom-birth-moon-phase-the-days-you-became-our-dad-psnl-poster-fathers-day-gift-02252234",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/xshiKt92rw__trc1202505132861_web2.jpg"
+    },
+    {
+     "titulo": "Proud Dad Grandpa Nation Flag American 250th Anniversary - Personalized Shirt - Gift For Dad, Grandpa, Celebrating 250 Years Of Freedom",
+     "handle": "proud-dad-grandpa-nation-flag-american-250th-anniversary-psnl-shirt-gift-for-dad-grandpa-60503202",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/hLttvdU2YK__web2.jpg"
+    },
+    {
+     "titulo": "To My Son Happy Father's Day - Personalized Poster - Heartfelt Father's Day Gift For Son",
+     "handle": "to-my-son-from-mom-happy-fathers-day-psnl-poster-04132577",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/F9KFng98gX__trc1202504132577_toiuuweb1_new.jpg"
+    },
+    {
+     "titulo": "Basketball Dad Legend Daddy's Dream Team - Personalized 2-Layered Wooden Plaque - Unique Gift, Birthday Gift For Dad, Husband, Basketball Fans",
+     "handle": "basketball-dad-legend-daddys-dream-team-psnl-2layered-wooden-plaque-fathers-day-gift-for-dad-60512260",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/TidrbD2BKk__web1.jpg"
+    },
+    {
+     "titulo": "Basketball Dad Legend You Are Our MVP - Personalized 2-Layered Wooden Plaque - Unique Gift, Birthday Gift For Dad, Husband, Basketball Fans",
+     "handle": "basketball-dad-legend-you-are-our-mvp-psnl-2layered-wooden-plaque-fathers-day-gift-for-dad-60512258",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/gaOGSVU60C__web0.jpg"
+    },
+    {
+     "titulo": "The Only Thing Better Husband Dad Hands - Personalized Poster - Gift For Dad, Gift For Husband, Gift For Grandpa",
+     "handle": "the-only-thing-better-husband-dad-hands-psnl-poster-fathers-day-gift-for-husband-gift-for-dad-52104383",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/oad2i1KHmE__web1.jpg"
+    },
+    {
+     "titulo": "Hello Fall Grandma's Pumpkin Patch - Personalized 2-Layered Wooden Plaque - Cozy Fall Decor for Grandma",
+     "handle": "hello-fall-grandmas-pumpkin-patch-psnl-2layered-wooden-plaque-cozy-fall-decor-for-grandma-60710681",
+     "preco": 26.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/llfhtofJcP__pod320260710681-1.jpg"
+    },
+    {
+     "titulo": "Baseball No. 1 Dad Grandpa Man & Kids Trading Card Style - Personalized Acrylic Block Plaque",
+     "handle": "baseball-no-1-dad-man-kids-trading-card-style-psnl-acrylic-block-plaque-04282723",
+     "preco": 32.49,
+     "imagem": "https://cdn.shopify.com/s/files/1/0978/9253/2544/files/ipNhwJ7ZkB__trc1202504282723_web1.jpg"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2020-05-07",
+   "dias_arquivados": 116,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 233688,
+   "rank_antigo": 249113,
+   "dias": 37,
+   "variacao": 15425,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 211,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "petfiestas.com": {
+  "dominio": "petfiestas.com",
+  "coletado_em": "2026-10-21T00:32:54",
+  "identificacao": {
+   "erro": "home inacessivel"
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2024-04-16",
+   "dias_arquivados": 34,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 1805062,
+   "rank_antigo": 2499553,
+   "dias": 37,
+   "variacao": 694491,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 0,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": "sitemap inacessivel"
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "turnmeroyal.com": {
+  "dominio": "turnmeroyal.com",
+  "coletado_em": "2026-10-21T00:33:04",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "bold",
+    "gtm",
+    "hotjar",
+    "klaviyo",
+    "loox",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [
+    "2692111891149308"
+   ],
+   "perfis_sociais": [
+    "https://facebook.com/turnmeroyal",
+    "https://instagram.com/turnmeroyal",
+    "https://www.facebook.com/tr"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2020-11-07",
+   "dias_arquivados": 103,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 566558,
+   "rank_antigo": 505824,
+   "dias": 37,
+   "variacao": -60734,
+   "tendencia": "caindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 110,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "turnmeroyal": {
+    "seguidores": "89K",
+    "posts": "1,273",
+    "raw": "89K Followers, 29 Following, 1,273 Posts - See Instagram photos and videos from Turn Me Royal (&#064;turnmeroyal)"
+   }
+  }
+ },
+ "rememberingollie.com": {
+  "dominio": "rememberingollie.com",
+  "coletado_em": "2026-10-21T00:33:14",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "gtm"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/rememberingollieco",
+    "https://www.instagram.com/rememberingollie"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": -1,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 7,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "rememberingollie": {
+    "seguidores": "1,916",
+    "posts": "59",
+    "raw": "1,916 Followers, 0 Following, 59 Posts - See Instagram photos and videos from Remembering Ollie | Custom Pet Memorial Song (&#064;rememberingollie)"
+   }
+  }
+ },
+ "petloverscustom.com": {
+  "dominio": "petloverscustom.com",
+  "coletado_em": "2026-10-21T00:33:20",
+  "identificacao": {
+   "erro": "home inacessivel"
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2024-12-15",
+   "dias_arquivados": 18,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 0,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": "sitemap inacessivel"
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "giftsoul.co": {
+  "dominio": "giftsoul.co",
+  "coletado_em": "2026-10-21T00:33:27",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "gtag",
+    "judge.me",
+    "klaviyo",
+    "loox",
+    "pinterest",
+    "recharge",
+    "snap",
+    "tiktok",
+    "vitals"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [],
+   "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 1557,
+   "preco_min": 16.99,
+   "preco_mediana": 35.99,
+   "preco_max": 209.99,
+   "primeiro_produto": "2026-10-12",
+   "ultimo_produto": "2026-10-20",
+   "vendors": [
+    "A",
+    "Y",
+    "W",
+    "O",
+    "I"
+   ],
+   "tipos": [
+    "Ornament",
+    "Leather Travel Toiletry Bag",
+    "Headphone Stand",
+    "Seed Storage Binder",
+    "Hardcover Journal",
+    "Glass Everlasting Christmas",
+    "Plastic Cups",
+    "Storage Basket",
+    "Comfort T-Shirt",
+    "Sweatshirt"
+   ],
+   "produtos": [
+    {
+     "titulo": "Custom Name Christmas New Home Gifts for Couples - Personalized Acrylic Ornament - Our First Holiday Together",
+     "handle": "custom-name-christmas-new-home-gifts-for-couples-personalized-acrylic-ornament-our-first-holiday-together",
+     "preco": 19.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad73ade97b5a.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Purple Flower Bouquet Gifts - Personalized PU Leather Travel Toiletry Bag - Beauty In Every Bloom",
+     "handle": "custom-name-purple-flower-bouquet-gifts-personalized-pu-leather-travel-toiletry-bag-beauty-in-every-bloom",
+     "preco": 27.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad730d73be24.webp",
+     "tipo": "Leather Travel Toiletry Bag"
+    },
+    {
+     "titulo": "Custom Name Tech Gifts for Gamers - Personalized Headphone Stand - Gaming Is My World",
+     "handle": "custom-name-tech-gifts-for-gamers-personalized-headphone-stand-gaming-is-my-world",
+     "preco": 29.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad72ef66a49e.webp",
+     "tipo": "Headphone Stand"
+    },
+    {
+     "titulo": "Custom Name Gardening Seed Collection - Personalized Seed Storage Binder",
+     "handle": "custom-name-gardening-seed-collection-personalized-seed-storage-binder",
+     "preco": 39.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad71cf50fa29.webp",
+     "tipo": "Seed Storage Binder"
+    },
+    {
+     "titulo": "The Greatest Gift Christmas Family Keepsake - Wooden Ornament",
+     "handle": "the-greatest-gift-christmas-family-keepsake-wooden-ornament",
+     "preco": 24.99,
+     "publicado": "2026-10-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad717c703506.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Bread Baking Gifts for Bakers - Personalized Hardcover Journal",
+     "handle": "custom-name-bread-baking-gifts-for-bakers-personalized-hardcover-journal",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6f859649e9.webp",
+     "tipo": "Hardcover Journal"
+    },
+    {
+     "titulo": "Custom Mother to Grandma Christmas Tree Decor - Personalized Glass Everlasting Christmas - Special Journey",
+     "handle": "custom-mother-to-grandma-christmas-tree-decor-personalized-glass-everlasting-christmas-special-journey",
+     "preco": 27.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6f6049a1c7.webp",
+     "tipo": "Glass Everlasting Christmas"
+    },
+    {
+     "titulo": "Custom Name Thanksgiving Gifts for Family - Personalized Plastic Cups",
+     "handle": "custom-name-thanksgiving-gifts-for-family-personalized-plastic-cups",
+     "preco": 25.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6e577d4f0d.webp",
+     "tipo": "Plastic Cups"
+    },
+    {
+     "titulo": "Custom Name Gaming Controller Gifts for Kids - Personalized Storage Basket",
+     "handle": "custom-name-gaming-controller-gifts-for-kids-personalized-storage-basket",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6ee5a49bd5.webp",
+     "tipo": "Storage Basket"
+    },
+    {
+     "titulo": "Custom Name Book Lover Gifts for Readers - Personalized Laundry Basket",
+     "handle": "custom-name-book-lover-gifts-for-readers-personalized-laundry-basket",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6f3a8af243.webp",
+     "tipo": "Storage Basket"
+    },
+    {
+     "titulo": "Custom Name Baking Recipe Gifts for Bakers - Personalized Hardcover Journal - Baked With Love",
+     "handle": "custom-name-baking-recipe-gifts-for-bakers-personalized-hardcover-journal-baked-with-love",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6f085b0fa7.webp",
+     "tipo": "Hardcover Journal"
+    },
+    {
+     "titulo": "Custom Photo Christmas Gifts for Kids - Personalized Kids T-Shirt",
+     "handle": "custom-photo-christmas-gifts-for-kids-personalized-kids-t-shirt",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6f0aa2f436.webp",
+     "tipo": "Comfort T-Shirt"
+    },
+    {
+     "titulo": "Custom Photo Christmas Gifts for Kids - Personalized Christmas Sweater",
+     "handle": "custom-photo-christmas-gifts-for-kids-personalized-christmas-sweater",
+     "preco": 21.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6efb57952b.webp",
+     "tipo": "Sweatshirt"
+    },
+    {
+     "titulo": "Custom Name Recipes, Notes & Happy Memories Gifts for Bakers - Personalized Hardcover Journal - Whisking Up Sweet Memories",
+     "handle": "custom-name-recipes-notes-happy-memories-gifts-for-bakers-personalized-hardcover-journal-whisking-up-sweet-memories",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6ea19de122.webp",
+     "tipo": "Hardcover Journal"
+    },
+    {
+     "titulo": "Custom Family Member Name Christmas Tree Decor - Personalized Acrylic Ornament - Lucky Stars",
+     "handle": "custom-family-member-name-christmas-tree-decor-personalized-acrylic-ornament-lucky-stars",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6eade33a7f.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Family Christmas Gifts - Personalized Wooden Ornament - Cherish Time",
+     "handle": "custom-name-family-christmas-gifts-personalized-wooden-ornament-cherish-time",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6e69e62ab3.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Baking Gifts for Bakers - Personalized Hardcover Journal - Life Is Better With Cookies",
+     "handle": "custom-name-baking-gifts-for-bakers-personalized-hardcover-journal-life-is-better-with-cookies",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6e5a60fbed.webp",
+     "tipo": "Hardcover Journal"
+    },
+    {
+     "titulo": "Custom Name Christmas Family Gifts - Personalized Wooden Ornament - The Greatest Gift",
+     "handle": "custom-name-christmas-family-gifts-personalized-wooden-ornament-the-greatest-gift",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6e1d1d0f52.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Christmas Cartoon Gifts for Children - Personalized Photo LED Light Bucket Bag - Made Of Magic And Memories",
+     "handle": "custom-name-christmas-cartoon-gifts-for-children-personalized-photo-led-light-bucket-bag-made-of-magic-and-memories",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6e1fdde673.webp",
+     "tipo": "LED Light Bucket Bag"
+    },
+    {
+     "titulo": "Custom Name Gamer Fantasy Adventure Gifts for Kids - Personalized Blanket Hoodie - Level Up",
+     "handle": "custom-name-gamer-fantasy-adventure-gifts-for-kids-personalized-wearable-blanket-hoodie-level-up",
+     "preco": 57.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6dfdcecc7f.webp",
+     "tipo": "Snuggle Blanket"
+    },
+    {
+     "titulo": "Custom Gaming Gifts for Gamers - Personalized  Blanket Hoodie - High Energy",
+     "handle": "custom-gaming-gifts-for-gamers-personalized-wearable-blanket-hoodie-high-energy",
+     "preco": 57.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6de050b562.webp",
+     "tipo": "Snuggle Blanket"
+    },
+    {
+     "titulo": "Custom Name Christmas Sewing Machine Gifts for Seamstresses - Personalized Acrylic Ornament - Making Things",
+     "handle": "custom-name-christmas-sewing-machine-gifts-for-seamstresses-personalized-acrylic-ornament-making-things",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6d2681a379.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Kayak Christmas Gifts for Kayaking Enthusiasts - Personalized Acrylic Ornament - Go With The Flow",
+     "handle": "custom-name-kayak-christmas-gifts-for-kayaking-enthusiasts-personalized-acrylic-ornament-go-with-the-flow",
+     "preco": 19.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6cff06735f.webp",
+     "tipo": "Ornament"
+    },
+    {
+     "titulo": "Custom Name Baby Essentials Gifts for New Parents - Personalized Storage Basket - Small Wonders Big Smiles",
+     "handle": "custom-name-baby-essentials-gifts-for-new-parents-personalized-storage-basket-small-wonders-big-smiles",
+     "preco": 29.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad6c9c240140.webp",
+     "tipo": "Storage Basket"
+    },
+    {
+     "titulo": "Custom Name Floral Kitchen Decor Gifts For Her - Personalized Glass Cutting Board - Bloom With Grace",
+     "handle": "custom-name-floral-kitchen-decor-gifts-for-her-personalized-glass-cutting-board-bloom-with-grace",
+     "preco": 49.99,
+     "publicado": "2026-10-19",
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6ad5d5acb340e.webp",
+     "tipo": "Glass Cutting Board"
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "colecao": "best-sellers",
+   "produtos": [
+    {
+     "titulo": "Personalized Shhh I'm Reading Crew Socks – Gift for Book Lovers - Sorry I'm Booked",
+     "handle": "personalized-crew-socks-gift-for-book-lovers-sorry-im-booked",
+     "preco": 22.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a8550407b545.webp"
+    },
+    {
+     "titulo": "Personalized Pajama Pants - Christmas, Funny Gift For Men, Husband, Dad, Kids - Holiday Edition",
+     "handle": "personalized-pajama-pants-christmas-funny-gift-for-men-husband-dad-holiday-edition",
+     "preco": 27.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6aa38cafb06ea.webp"
+    },
+    {
+     "titulo": "Personalized Apron With Pocket – Gifts For Men – King Of The Grill",
+     "handle": "personalized-photo-apron-with-pocket-gifts-for-men-king-of-the-grill",
+     "preco": 27.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a82b80546802.webp"
+    },
+    {
+     "titulo": "Personalized Photo Pillow - Sympathy Gift For Pet Lovers - Four Paws, One Heart",
+     "handle": "personalized-photo-pillow-sympathy-gift-for-pet-lovers-four-paws-one-heart",
+     "preco": 29.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a75818b61862.webp"
+    },
+    {
+     "titulo": "Custom Purple Floral Name Gifts - Personalized Compact Mirror - Blooming With Beauty",
+     "handle": "custom-purple-floral-name-gifts-personalized-compact-mirror-blooming-with-beauty",
+     "preco": 25.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6abf615e7b38a.webp"
+    },
+    {
+     "titulo": "Personalized Shhh I'm Reading Crew Socks – Gift for Book Lovers - Shhh I'm Reading",
+     "handle": "personalized-crew-socks-gift-for-book-lovers-shhh-im-reading",
+     "preco": 22.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a8fa494f2209.webp"
+    },
+    {
+     "titulo": "Personalized Pocket Hug - Anniversary Gift For Couple - Still Not Sick Of You",
+     "handle": "personalized-pocket-hug-anniversary-gift-for-couple-still-not-sick-of-you",
+     "preco": 24.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a571c86dcdf1.webp"
+    },
+    {
+     "titulo": "Personalized Home Decor Metal Sign – Anniversary Gifts For Couple – Still Driving Each Other Crazy",
+     "handle": "personalized-home-decor-metal-sign-anniversary-gifts-for-couple-still-driving-each-other-crazy",
+     "preco": 29.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a27bd2b59d80.webp"
+    },
+    {
+     "titulo": "Personalized Coated Grip Gardening Gloves – Gifts For Gardeners – Gardener Of The Year",
+     "handle": "personalized-coated-grip-gardening-gloves-gifts-for-gardeners-gardener-of-the-year",
+     "preco": 23.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a6af91130c8f.webp"
+    },
+    {
+     "titulo": "Personalized 2-Layered Wooden Plaque - Gifts For Book Lovers, Bookworms, Readers - Just One More Chapter",
+     "handle": "personalized-2-layered-wooden-plaque-gifts-for-book-lovers-bookworms-readers-just-one-more-chapter",
+     "preco": 27.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a337217f22ed.webp"
+    },
+    {
+     "titulo": "Personalized Photo Keychain - Sympathy Gift For Pet Lovers - Forever In My Heart",
+     "handle": "personalized-photo-keychain-sympathy-gift-for-pet-lovers-forever-in-my-heart",
+     "preco": 19.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a9ba2150b492.webp"
+    },
+    {
+     "titulo": "Personalized First Christmas in New Home Ceramic Ornament – Housewarming Gift For New Homeowners, Couple, Newlyweds – New Home, New Adventures",
+     "handle": "personalized-ceramic-ornament-christmas-housewarming-gift-for-new-homeowners-couple-newlyweds-new-home-new-adventures",
+     "preco": 19.99,
+     "imagem": "https://cdn.shopify.com/s/files/1/0776/7293/9620/files/6a755c4a6596b.webp"
+    }
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2026-05-20",
+   "dias_arquivados": 2,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 412927,
+   "rank_antigo": 864819,
+   "dias": 37,
+   "variacao": 451892,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 9,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "happary.com": {
+  "dominio": "happary.com",
+  "coletado_em": "2026-10-21T00:33:33",
+  "identificacao": {
+   "erro": "home inacessivel"
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2018-03-16",
+   "dias_arquivados": 61,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 3170719,
+   "rank_antigo": 4254441,
+   "dias": 8,
+   "variacao": 1083722,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 0,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": "sitemap inacessivel"
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "companionarchive.com": {
+  "dominio": "companionarchive.com",
+  "coletado_em": "2026-10-21T00:33:36",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "klaviyo"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.instagram.com/companionarchive"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2026-02-19",
+   "dias_arquivados": 7,
+   "erro": null
+  },
+  "tranco": {
+   "rank_atual": 1558022,
+   "rank_antigo": 3002142,
+   "dias": 37,
+   "variacao": 1444120,
+   "tendencia": "subindo",
+   "nota": "rank menor = mais trafego"
+  },
+  "sitemap": {
+   "total_urls": 95,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {}
+ },
+ "memorialgifts4u.com": {
+  "dominio": "memorialgifts4u.com",
+  "coletado_em": "2026-10-21T00:33:40",
+  "identificacao": {
+   "plataforma": "shopify",
+   "apps": [
+    "bold",
+    "clarity",
+    "gtag",
+    "gtm",
+    "judge.me",
+    "klaviyo",
+    "pinterest",
+    "postscript",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://www.facebook.com/dogmemorialgifts",
+    "https://www.instagram.com/dogmemorialgifts",
+    "https://www.pinterest.com/memorialgifts4u",
+    "https://www.tiktok.com/@memorialgifts4u.com",
+    "https://www.youtube.com/@memorialgifts4u"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "n_produtos": 250,
+   "n_variantes": 2692,
+   "preco_min": 0.99,
+   "preco_mediana": 39.99,
+   "preco_max": 299.99,
+   "primeiro_produto": "2023-09-09",
+   "ultimo_produto": "2025-08-23",
+   "vendors": [
+    "Memorial Gifts 4u",
+    "ShineOn Fulfillment",
+    "customall",
+    "Merchize"
+   ],
+   "tipos": [
+    "",
+    "Jewelry",
+    "UpCart - Shipping Protection",
+    "Memorial Stone (Heart)",
+    "woodenkeychain"
+   ],
+   "produtos": [
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life Dog Memorial Gifts - Solar Light",
+     "handle": "matching-i-loved-you-your-whole-life-dog-memorial-gifts-solar-light",
+     "preco": 29.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/i-loved-you-your-whole-life-dog-memorial-gifts-solar-light-memorial-gifts-4u-1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life - Dog Memorial Gifts - Memorial Plaques",
+     "handle": "matching-i-loved-you-your-whole-life-dog-memorial-gifts-memorial-plaques",
+     "preco": 29.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/i-loved-you-your-whole-life-dog-memorial-gifts-memorial-plaques-memorial-gifts-4u-1-35407798272301.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life Dog Collar Frame - Memorial Picture Frame",
+     "handle": "matching-i-loved-you-your-whole-life-dog-collar-frame-memorial-picture-frame",
+     "preco": 29.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/i-loved-you-your-whole-life-dog-collar-frame-memorial-picture-frame-memorial-gifts-4u-1-35407804039469.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life, I'll Miss You The Rest Of Mine Dog Memorial Gifts - Acrylic Square Plaque",
+     "handle": "matching-i-loved-you-your-whole-life-ill-miss-you-the-rest-of-mine-dog-memorial-gifts-acrylic-square-plaque",
+     "preco": 29.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_e5e87537-2ab5-462e-b5cb-8eb7169cf319.jpg",
+     "tipo": "Jewelry"
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life - Dog Memorial Canvas",
+     "handle": "matching-i-loved-you-your-whole-life-dog-memorial-canvas",
+     "preco": 39.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/ILovedYouYourWholeLife.I_llMissYouForTheRestOfMine1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life, I'll Miss You The Rest Of Mine - Dog Memory Candle",
+     "handle": "matching-i-loved-you-your-whole-life-ill-miss-you-the-rest-of-mine-dog-memory-candle",
+     "preco": 29.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK5_2f71098f-0413-464d-885f-1da6b5d06689.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life - Memorial Personalized Jar Light",
+     "handle": "matching-i-loved-you-your-whole-life-memorial-personalized-jar-light-1",
+     "preco": 19.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/Ilovedyou-MK2_c19b8b4a-437e-42ce-828c-7b9d9e92fb9c.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life - Memorial Personalized Jar Light",
+     "handle": "matching-i-loved-you-your-whole-life-memorial-personalized-jar-light",
+     "preco": 19.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/Ilovedyou-MK1_1.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life - Personalized Memorial Bracelet",
+     "handle": "matching-i-loved-you-your-whole-life-personalized-memorial-bracelet",
+     "preco": 14.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/Ilovedyou-mk3.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] Custom Photo- Forever Projection Memorial Necklace",
+     "handle": "matching-custom-photo-forever-projection-memorial-necklace",
+     "preco": 29.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/AK8A2018.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] Pet Memorial Projection Photo Braided Rope Bracelet",
+     "handle": "matching-pet-memorial-projection-photo-braided-rope-bracelet",
+     "preco": 14.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/1_961d134c-08d2-4624-a3d7-3486572f2624.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life, I'll Miss You The Rest Of Mine- Message Card Forever Love Necklace",
+     "handle": "matching-i-loved-you-your-whole-life-ill-miss-you-the-rest-of-mine-message-card-forever-love-necklace",
+     "preco": 29.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/z1.png",
+     "tipo": ""
+    },
+    {
+     "titulo": "[MATCHING] I Loved You Your Whole Life. I'll Miss You For The Rest Of Mine - Dog Memorial Ornament",
+     "handle": "matching-i-loved-you-your-whole-life-ill-miss-you-for-the-rest-of-mine-dog-memorial-ornament",
+     "preco": 14.99,
+     "publicado": "2025-08-23",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_5.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Matching Forever Loved Ornament + FREE $40 Gift Card",
+     "handle": "matching-ornament-free-40-gift-card",
+     "preco": 14.99,
+     "publicado": "2025-08-20",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_5_aec2b447-0fa3-4467-a993-9b77bdf2ace9.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "God Looked Around His Garden - Personalized Memorial Stone",
+     "handle": "god-looked-around-his-garden-personalized-memorial-stone",
+     "preco": 39.99,
+     "publicado": "2025-07-15",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_c8ac0cbb-c948-47c7-b854-1e03827ba7b5.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "The Day I Lost You - Personalized Memorial Square Stone",
+     "handle": "the-day-i-lost-you-personalized-memorial-square-stone",
+     "preco": 49.99,
+     "publicado": "2025-07-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_b6ed5722-d87c-4a4d-836c-6a2a858c8e55.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Surrounded By Your Glory - Personalized Memorial Square Stone",
+     "handle": "surrounded-by-your-glory-personalized-memorial-square-stone",
+     "preco": 49.99,
+     "publicado": "2025-07-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_f21047ea-b49f-488c-a437-ba4c078095ec.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Missing You Always - Personalized Memorial Square Stone",
+     "handle": "missing-you-always-personalized-memorial-square-stone",
+     "preco": 49.99,
+     "publicado": "2025-07-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_bcd54980-7f1b-40b8-838b-df51def34d63.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "I Thought Of You Today - Personalized Memorial Square Stone",
+     "handle": "i-thought-of-you-today-personalized-memorial-square-stone",
+     "preco": 49.99,
+     "publicado": "2025-07-09",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_3c07c0d6-19c0-46ed-b72a-0347d11e7435.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Your Life Was A Blessing - Personalized Memorial Stone",
+     "handle": "your-life-was-a-blessing-personalized-memorial-stone",
+     "preco": 39.99,
+     "publicado": "2025-07-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_bca0d09c-81c7-4a67-b31e-7509a8291482.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "You Never Said I'm Leaving - Personalized Memorial Stone",
+     "handle": "you-never-said-im-leaving-personalized-memorial-stone",
+     "preco": 39.99,
+     "publicado": "2025-07-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_4a4f3e0d-c49c-4fb9-8979-88c751060759.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Those We Love Don't Go Away - Personalized Memorial Stone",
+     "handle": "those-we-love-dont-go-away-personalized-memorial-stone",
+     "preco": 39.99,
+     "publicado": "2025-07-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_8a24a111-8d51-46d5-914b-e10cb77b578b.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "I Thought Of You Today God - Personalized Memorial Stone",
+     "handle": "i-thought-of-you-today-god-personalized-memorial-stone",
+     "preco": 39.99,
+     "publicado": "2025-07-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_75b617d1-ef21-4eb3-b717-a34a6ed53bf5.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Because Someone We Love - Personalized Memorial Stone",
+     "handle": "because-someone-we-love-personalized-human-memorial-stone",
+     "preco": 39.99,
+     "publicado": "2025-07-08",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_8d1dd57d-d95f-43f7-8263-97cc8b570087.jpg",
+     "tipo": ""
+    },
+    {
+     "titulo": "Those We Love Don't Go Away- Personalized Human Memorial Stone",
+     "handle": "those-we-love-dont-go-away-personalized-human-memorial-stone-1",
+     "preco": 39.99,
+     "publicado": "2025-07-01",
+     "imagem": "https://cdn.shopify.com/s/files/1/0707/4581/7389/files/MK1_7d61fb15-c32f-49b6-b82e-96cb3788afed.jpg",
+     "tipo": ""
+    }
+   ],
+   "nota": "limite de 250 produtos do endpoint publico"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2023-03-13",
+   "dias_arquivados": 36,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 6,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "dogmemorialgifts": {
+    "seguidores": "1,704",
+    "posts": "461",
+    "raw": "1,704 Followers, 9 Following, 461 Posts - See Instagram photos and videos from Memorial Gifts 4u- Dog Memorial Gifts (&#064;dogmemorialgifts)"
+   }
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "milagift.com": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=milagift.com"
+ },
+ "doyobest.com": {
+  "anuncia": true,
+  "contagem": 300,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=doyobest.com"
+ },
+ "turnmeroyal.com": {
+  "anuncia": true,
+  "contagem": 64,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=turnmeroyal.com"
+ },
+ "companionarchive.com": {
+  "anuncia": true,
+  "contagem": 200,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=companionarchive.com"
+ },
+ "petloverscustom.com": {
+  "anuncia": true,
+  "contagem": 67,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=petloverscustom.com"
+ }
+}

@@ -1,0 +1,27 @@
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#FBF6EF;--bg2:#F1E8DC;--pri:#4A5A6A;--acc:#C9825B;--ink:#2B2623;--good:#6E8F6F;--line:#E3D6C6}
+body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5;font-size:16px}
+h1,h2,h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;line-height:1.1}
+a{color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+.ann{background:var(--pri);color:var(--bg);text-align:center;font-size:13px;padding:8px 12px}
+header.top{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--line);max-width:1120px;margin:0 auto}
+.logo{font-family:"Cormorant Garamond",Georgia,serif;font-size:26px;font-weight:600;letter-spacing:.01em}
+.logo i{font-style:normal;color:var(--acc)}
+nav.m a{margin-left:18px;font-size:14px;text-decoration:none}
+.btn{display:inline-block;background:var(--acc);color:#fff;border:0;border-radius:6px;padding:14px 26px;font-weight:600;font-size:16px;text-decoration:none;text-align:center}
+.btn.alt{background:transparent;color:var(--pri);border:1.5px solid var(--pri)}
+.imgph{background:linear-gradient(135deg,#fff 0%,var(--bg2) 100%);border:1.5px dashed var(--acc);border-radius:10px;display:flex;align-items:flex-end;justify-content:flex-start;padding:10px;font-size:12px;color:var(--pri);min-height:180px}
+.imgph b{background:var(--bg);padding:3px 8px;border-radius:4px;border:1px solid var(--line)}
+section{padding:48px 0}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:28px;align-items:center}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--acc);font-weight:600;margin-bottom:8px;display:block}
+.band{background:var(--bg2)}
+.steps .n{font-family:"Cormorant Garamond",serif;font-size:42px;color:var(--acc);line-height:1}
+.trust{display:flex;gap:18px;justify-content:space-between;flex-wrap:wrap;text-align:center;font-size:14px}
+.trust div{flex:1;min-width:140px}
+.price{font-size:28px;font-weight:600}.price s{font-size:18px;color:#8a7f76;font-weight:400;margin-left:6px}
+footer.f{border-top:1px solid var(--line);padding:28px 20px;font-size:13px;color:#6b625a;text-align:center}
+@media(max-width:720px){.grid2,.grid3{grid-template-columns:1fr}section{padding:32px 0}nav.m{display:none}h1{font-size:34px!important}.btn{display:block}}

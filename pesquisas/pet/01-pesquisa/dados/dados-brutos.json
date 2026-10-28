@@ -1,0 +1,61 @@
+{
+  "data": "2026-10-20",
+  "decisao_mercado": {
+    "pais": "estados unidos (us)",
+    "moeda": "USD",
+    "idioma": "en"
+  },
+  "coleta": "coleta-bruta-lojas.json",
+  "lojas": [
+    {
+      "slug": "milagift",
+      "nome": "MilaGift",
+      "dominio": "milagift.com",
+      "ativos": 393,
+      "historico": 522,
+      "sobrevivencia_pct": 75.3,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP PURO"
+    },
+    {
+      "slug": "doyobest",
+      "nome": "Doyobest",
+      "dominio": "doyobest.com",
+      "ativos": 2026,
+      "historico": 38610,
+      "sobrevivencia_pct": 5.2,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA"
+    },
+    {
+      "slug": "turnmeroyal",
+      "nome": "Turn Me Royal",
+      "dominio": "turnmeroyal.com",
+      "ativos": 170,
+      "historico": 332,
+      "sobrevivencia_pct": 51.2,
+      "veredito": "OBSERVAR",
+      "modelo": "MARCA"
+    },
+    {
+      "slug": "companionarchive",
+      "nome": "Companion Archive",
+      "dominio": "companionarchive.com",
+      "ativos": 437,
+      "historico": 1905,
+      "sobrevivencia_pct": 22.9,
+      "veredito": "OBSERVAR",
+      "modelo": "DROPSHIP DE MARCA"
+    },
+    {
+      "slug": "petloverscustom",
+      "nome": "Pet Lovers Custom",
+      "dominio": "petloverscustom.com",
+      "ativos": 124,
+      "historico": 14643,
+      "sobrevivencia_pct": 0.8,
+      "veredito": "OBSERVAR",
+      "modelo": "DROPSHIP PURO"
+    }
+  ]
+}

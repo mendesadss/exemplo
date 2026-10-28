@@ -1,0 +1,170 @@
+{
+  "data": "2026-10-22",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL, limit=1)",
+  "lojas": [
+    {
+      "loja": "Creative.Lighting",
+      "dominio": "creative.lighting",
+      "metodo": "dominio",
+      "page_ids": [
+        "100881958976489"
+      ],
+      "tentativas": [
+        "minerar.js --busca por domínio, filtro linkDomain=creative.lighting e restaurant.lighting: página 100881958976489",
+        "search_terms=creative.lighting (ALL) na pesquisa IE: mesma página",
+        "rodapé do site (não exposto)"
+      ],
+      "reportado": {
+        "ativos": 707,
+        "historico": 2587
+      },
+      "biblioteca": {
+        "ativos": 707,
+        "historico": 2587
+      }
+    },
+    {
+      "loja": "Kiyo Home",
+      "dominio": "kiyohome.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "274248202428835"
+      ],
+      "tentativas": [
+        "search_terms=kiyohome.com (ALL, sem país): voltou só a página 274248202428835",
+        "minerar.js --busca por domínio, filtro linkDomain=kiyohome.com: mesma página",
+        "rodapé do site (link do Facebook não exposto no HTML público)"
+      ],
+      "reportado": {
+        "ativos": 447,
+        "historico": 1598
+      },
+      "biblioteca": {
+        "ativos": 447,
+        "historico": 1598
+      }
+    },
+    {
+      "loja": "Stockholm-Lights",
+      "dominio": "lightsstockholm.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "101463322882949",
+        "480954971764670"
+      ],
+      "tentativas": [
+        "search_terms=lightsstockholm.com (ALL, sem país): voltaram as páginas 101463322882949 e 480954971764670",
+        "minerar.js --busca por domínio, filtro linkDomain=lightsstockholm.com: mesmas 2 páginas",
+        "rodapé do site (link do Facebook não exposto no HTML público)"
+      ],
+      "reportado": {
+        "ativos": 328,
+        "historico": 11721
+      },
+      "biblioteca": {
+        "ativos": 328,
+        "historico": 11721
+      }
+    },
+    {
+      "loja": "Popular Lighting",
+      "dominio": "popular.lighting",
+      "metodo": "dominio",
+      "page_ids": [
+        "107996448740021"
+      ],
+      "tentativas": [
+        "search_terms=popular.lighting (ALL): ruído (as palavras soltas \"popular\" e \"lighting\")",
+        "minerar.js --busca por termo, filtro linkDomain=popular.lighting: página 107996448740021 em 11 anúncios",
+        "rodapé do site (link do Facebook não exposto no HTML público)"
+      ],
+      "reportado": {
+        "ativos": 237,
+        "historico": 824
+      },
+      "biblioteca": {
+        "ativos": 237,
+        "historico": 824
+      }
+    },
+    {
+      "loja": "Lightscordless",
+      "dominio": "lightscordless.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "111378241841484"
+      ],
+      "tentativas": [
+        "minerar.js --busca por termo, filtro linkDomain=lightscordless.com: página 111378241841484",
+        "search_terms=lightscordless.com (ALL) na pesquisa IE: mesma página",
+        "rodapé do site (não exposto)"
+      ],
+      "reportado": {
+        "ativos": 17,
+        "historico": 52
+      },
+      "biblioteca": {
+        "ativos": 17,
+        "historico": 52
+      }
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-10-23",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "Creative.Lighting",
+        "dominio": "creative.lighting",
+        "metodo": "dominio",
+        "reportado_ativos": 707,
+        "biblioteca_ativos": 707,
+        "biblioteca_historico": 2587,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Kiyo Home",
+        "dominio": "kiyohome.com",
+        "metodo": "dominio",
+        "reportado_ativos": 447,
+        "biblioteca_ativos": 447,
+        "biblioteca_historico": 1598,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Stockholm-Lights",
+        "dominio": "lightsstockholm.com",
+        "metodo": "dominio",
+        "reportado_ativos": 328,
+        "biblioteca_ativos": 328,
+        "biblioteca_historico": 11721,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Popular Lighting",
+        "dominio": "popular.lighting",
+        "metodo": "dominio",
+        "reportado_ativos": 237,
+        "biblioteca_ativos": 237,
+        "biblioteca_historico": 824,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Lightscordless",
+        "dominio": "lightscordless.com",
+        "metodo": "dominio",
+        "reportado_ativos": 17,
+        "biblioteca_ativos": 17,
+        "biblioteca_historico": 52,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

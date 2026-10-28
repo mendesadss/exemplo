@@ -1,0 +1,171 @@
+{
+  "lightsstockholm.com": {
+    "visitas": "20K",
+    "rankGlobal": "1,771,134",
+    "rankPais": "57,527",
+    "rankCategoria": "352",
+    "bounce": "69.26%",
+    "pagesPerVisit": "1.29",
+    "duracao": "00:04:38",
+    "status": "OK",
+    "print": "prints/sw-lightsstockholm_com.jpg",
+    "dominio": "lightsstockholm.com"
+  },
+  "kiyohome.com": {
+    "visitas": "14.8K",
+    "rankGlobal": "1,473,137",
+    "rankPais": "582,521",
+    "rankCategoria": null,
+    "bounce": "33.56%",
+    "pagesPerVisit": "2.47",
+    "duracao": "00:01:46",
+    "paises": [
+      {
+        "pais": "United States",
+        "pct": "57.68%"
+      },
+      {
+        "pais": "Canada",
+        "pct": "22.89%"
+      },
+      {
+        "pais": "United Kingdom",
+        "pct": "13.88%"
+      },
+      {
+        "pais": "Poland",
+        "pct": "3.13%"
+      },
+      {
+        "pais": "Brazil",
+        "pct": "2.11%"
+      },
+      {
+        "pais": "Others",
+        "pct": "0.31%"
+      }
+    ],
+    "status": "OK",
+    "print": "prints/sw-kiyohome_com.jpg",
+    "dominio": "kiyohome.com",
+    "origem": "2ª tentativa, lote separado, 23/10/2026"
+  },
+  "popular.lighting": {
+    "visitas": "17.1K",
+    "rankGlobal": "1,227,398",
+    "rankPais": "491,521",
+    "rankCategoria": null,
+    "bounce": "60.84%",
+    "pagesPerVisit": "3.06",
+    "duracao": "00:02:57",
+    "paises": [
+      {
+        "pais": "United States",
+        "pct": "70.41%"
+      },
+      {
+        "pais": "Australia",
+        "pct": "13.31%"
+      },
+      {
+        "pais": "India",
+        "pct": "11.9%"
+      },
+      {
+        "pais": "Brazil",
+        "pct": "4.38%"
+      }
+    ],
+    "status": "OK",
+    "print": "prints/sw-popular_lighting.jpg",
+    "dominio": "popular.lighting"
+  },
+  "breckandfox.com": {
+    "visitas": null,
+    "rankGlobal": null,
+    "rankPais": null,
+    "rankCategoria": null,
+    "bounce": null,
+    "pagesPerVisit": null,
+    "duracao": null,
+    "status": "SEM DADOS",
+    "print": "prints/sw-breckandfox_com.jpg",
+    "dominio": "breckandfox.com"
+  },
+  "pikazo.co": {
+    "visitas": "66.8K",
+    "rankGlobal": "360,099",
+    "rankPais": "82,396",
+    "rankCategoria": null,
+    "bounce": "35.28%",
+    "pagesPerVisit": "5.79",
+    "duracao": "00:03:51",
+    "paises": [
+      {
+        "pais": "United States",
+        "pct": "100%"
+      },
+      {
+        "pais": "Age Distribution",
+        "pct": "20.28%"
+      },
+      {
+        "pais": "Female",
+        "pct": "48.34%"
+      },
+      {
+        "pais": "Male",
+        "pct": "51.66%"
+      }
+    ],
+    "pctMasculino": "51.66%",
+    "pctFeminino": "51.66%",
+    "faixaEtaria": "25 - 34",
+    "status": "OK",
+    "print": "prints/sw-pikazo_co.jpg",
+    "dominio": "pikazo.co"
+  },
+  "twinklingtree.com": {
+    "visitas": "707.6K",
+    "rankGlobal": "63,046",
+    "rankPais": "15,112",
+    "rankCategoria": "228",
+    "bounce": "57.3%",
+    "pagesPerVisit": "3.99",
+    "duracao": "00:01:44",
+    "rank3mAtras": "97,376",
+    "rankAtual": "63,046",
+    "paises": [
+      {
+        "pais": "United States",
+        "pct": "85.62%"
+      },
+      {
+        "pais": "United Kingdom",
+        "pct": "7.84%"
+      },
+      {
+        "pais": "Canada",
+        "pct": "3.7%"
+      },
+      {
+        "pais": "Spain",
+        "pct": "1.8%"
+      },
+      {
+        "pais": "Brazil",
+        "pct": "0.44%"
+      },
+      {
+        "pais": "Others",
+        "pct": "0.61%"
+      }
+    ],
+    "pctMasculino": "26.81%",
+    "pctFeminino": "26.81%",
+    "faixaEtaria": "55 - 64",
+    "status": "OK",
+    "print": "prints/sw-twinklingtree_com.jpg",
+    "dominio": "twinklingtree.com"
+  }
+}

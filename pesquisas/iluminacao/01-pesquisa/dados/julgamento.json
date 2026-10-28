@@ -1,0 +1,573 @@
+{
+  "gerado_em": "2026-10-23T01:45:05.967Z",
+  "lojas": [
+    {
+      "slug": "creative-lighting",
+      "nome": "Creative.Lighting",
+      "dominio": "creative.lighting",
+      "pageIds": [
+        "100881958976489"
+      ],
+      "metodo": "dominio",
+      "ativos": 707,
+      "historico": 2587,
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "defens": "ARBITRAGEM",
+      "porte": "gigante",
+      "momentum": "crescendo",
+      "score": {
+        "sourcing": 0,
+        "ticket": 2,
+        "criativo": 1,
+        "urgencia": 1,
+        "invest": 0,
+        "autoridade": 2
+      },
+      "campeao": {
+        "titulo": "BottleGlow™",
+        "handle": "bottleglow",
+        "preco": "DKK 231 (≈ $33)",
+        "de": "DKK 462",
+        "nota": "abajur que encaixa no gargalo da garrafa; 4 vídeos de 251 a 324 dias no ar. A loja cobra em coroa dinamarquesa e converte no checkout"
+      },
+      "medianaCatalogo": {
+        "v": 346,
+        "moeda": "DKK"
+      },
+      "ativaDesde": "domínio arquivado desde 08/2018 · catálogo atual desde 13/11/2023",
+      "apps": "Bold, Klarna, Klaviyo, Rebuy, UpCart, Vitals, Snap, GTM",
+      "pixel": "não detectado no HTML público (carregado por app/GTM)",
+      "redes": "nenhum perfil linkado no site (indício de 100% tráfego pago)",
+      "reviews": null,
+      "reviewsTxt": "nenhuma contagem pública encontrada (sem Judge.me/Loox no JSON-LD)",
+      "frete": "não obtido (política de frete não lida nesta rodada)",
+      "garantia": "não obtido (política de devolução não lida nesta rodada)",
+      "prazo": "não declarado na PDP capturada",
+      "bnpl": "Klarna instalado (parcelamento de terceiro)",
+      "gads": "não confirmado (o contador da página do Google não foi lido; ver gads-transparency.json)",
+      "cad": {
+        "amostra": 18,
+        "janela": 409,
+        "unicos": 4,
+        "dup": 4.5,
+        "porDia": "0,04 (amostra de 18 pela busca do domínio)",
+        "mix": "vídeo 9 · catálogo (DPA) 6 · estático 2 · carrossel 1"
+      },
+      "longevo": {
+        "dias": 433,
+        "id": "676817832110098",
+        "titulo": "catálogo dinâmico da esfera de jardim (Spherical Garden Light)"
+      },
+      "criativos": [
+        {
+          "dias": 433,
+          "id": "676817832110098",
+          "t": "Catálogo dinâmico: Spherical Garden Light",
+          "angulo": "esferas de luz no jardim ao anoitecer"
+        },
+        {
+          "dias": 366,
+          "id": "1300086341915882",
+          "t": "Catálogo dinâmico: Velwave Wall Sconce",
+          "angulo": "arandela decorativa sem fio"
+        },
+        {
+          "dias": 324,
+          "id": "1387367029670510",
+          "t": "BottleGlow, vídeo",
+          "angulo": "garrafa de vinho vira abajur"
+        }
+      ],
+      "anatomia": {
+        "bigIdea": "luz como objeto de conversa: cada peça tem nome próprio (BottleGlow™, Spellbound™, EasyStick™) e \"é a coisa mais bonita da sala quando acende\"",
+        "mecanismo": "luz decorativa sem fio, por estação (velas flutuantes no Halloween, garrafas no Natal), sempre em tom quente",
+        "hook": "catálogo dinâmico do próprio produto aceso, com preço riscado pela metade",
+        "presell": "nenhum advertorial (91 URLs no sitemap, 0 páginas de artigo); vai direto para a PDP",
+        "objecao": "preço alto quebrado com âncora de 50% e Klarna"
+      },
+      "copiar": "O produto-conversa (BottleGlow) e o nome próprio em cada peça. Não copiar: catálogo de 250 itens em vários idiomas e moedas, que pede operação grande.",
+      "obs": "Opera em vários países a partir da Dinamarca (preço em coroa dinamarquesa); 31,7% do tráfego vem dos EUA. Tráfego medido em 21/10/2026 na pesquisa IE (mesmo snapshot do SimilarWeb, set/2026).",
+      "sobrev": 27.3,
+      "scoreTotal": 6,
+      "ticketMed": 50.169999999999995,
+      "ticket": 57.599999999999994,
+      "visitas": 370800,
+      "ajuste": 0.7,
+      "conv": 1.8129999999999997,
+      "pedidos": 6722.603999999999,
+      "fat": 387221.99039999995,
+      "midia": 29196.538076159995,
+      "midiaCPC": 173905.19999999998,
+      "conf": "medido"
+    },
+    {
+      "slug": "kiyo-home",
+      "nome": "Kiyo Home",
+      "dominio": "kiyohome.com",
+      "pageIds": [
+        "274248202428835"
+      ],
+      "metodo": "dominio",
+      "ativos": 447,
+      "historico": 1598,
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "defens": "CONSTRUÍVEL",
+      "porte": "gigante",
+      "momentum": "crescendo",
+      "score": {
+        "sourcing": 0,
+        "ticket": 2,
+        "criativo": 2,
+        "urgencia": 2,
+        "invest": 1,
+        "autoridade": 2
+      },
+      "campeao": {
+        "titulo": "Metallic Mushroom Table Lamp",
+        "handle": "mushroom-led-lamp",
+        "preco": "$80,00",
+        "de": "",
+        "nota": "\"The Dinner Party Lamp\": cogumelo de metal sem fio em prata, dourado e preto; anúncio declara \"até 6 horas por carga\""
+      },
+      "medianaCatalogo": {
+        "v": 44,
+        "moeda": "USD"
+      },
+      "ativaDesde": "domínio arquivado desde 05/2024 · catálogo atual desde 21/08/2025",
+      "apps": "Judge.me, Klaviyo, Pinterest, ReCharge, UpCart, Vitals, Zipify, GTag",
+      "pixel": "não detectado no HTML público (carregado por app/GTM)",
+      "redes": "Instagram @kiyohome.co: 4.989 seguidores, 147 posts",
+      "reviews": 67,
+      "reviewsTxt": "67 avaliações somadas em 12 produtos amostrados (Judge.me), nota 4,9 a 5,0 (piso, não total)",
+      "frete": "não obtido (política não lida; anúncios citam \"Free shipping for a limited time\")",
+      "garantia": "não obtido (política não lida nesta rodada)",
+      "prazo": "não declarado na PDP capturada",
+      "bnpl": "não identificado no stack (sem Klarna/Afterpay)",
+      "gads": "anuncia no Google (Transparency Center)",
+      "cad": {
+        "amostra": 50,
+        "janela": 77,
+        "unicos": 40,
+        "dup": 1.25,
+        "porDia": "0,65",
+        "mix": "vídeo 29 · estático 19 · catálogo (DPA) 1 · carrossel 1"
+      },
+      "longevo": {
+        "dias": 79,
+        "id": "2496823080819688",
+        "titulo": "Warm light. Zero wires (10 variações)"
+      },
+      "criativos": [
+        {
+          "dias": 79,
+          "id": "2496823080819688",
+          "t": "Warm light. Zero wires, 10 variações",
+          "angulo": "\"Overhead lights are for finding your keys. These are for everything else.\""
+        },
+        {
+          "dias": 73,
+          "id": "1807425706941456",
+          "t": "One Lamp, Every Cozy Corner, vídeo",
+          "angulo": "as noites estão chegando: um abajur que vai a todo canto"
+        },
+        {
+          "dias": 2,
+          "id": "1541507358016987",
+          "t": "The Dinner Party Lamp, vídeo",
+          "angulo": "o abajur que todo mundo pergunta no jantar"
+        }
+      ],
+      "anatomia": {
+        "bigIdea": "luz do teto é para achar a chave; a luz quente é para o resto da noite",
+        "mecanismo": "abajures e velas sem fio, recarregáveis ou solares, em vários estilos",
+        "hook": "frase de contraste com a luz do teto, em estático editorial ou vídeo curto",
+        "presell": "nenhum advertorial (sitemap com 6 URLs)",
+        "objecao": "\"quanto dura a bateria?\" respondida no próprio anúncio (\"up to 6 hours per charge\")"
+      },
+      "copiar": "A frase de contraste com a luz do teto e a honestidade sobre a bateria no próprio anúncio. Não copiar: catálogo de 250 itens de cozinha a jardim.",
+      "obs": "Loja geral de decoração com voz de marca forte (guias de presente por pessoa: \"The Gift for Impossible Dads\", \"The Better Hostess Gift\"). Sobe anúncio novo quase todo dia.",
+      "sobrev": 28,
+      "scoreTotal": 9,
+      "ticketMed": 44,
+      "ticket": 57.599999999999994,
+      "visitas": 14800,
+      "ajuste": 1.25,
+      "conv": 3.2375,
+      "pedidos": 479.15,
+      "fat": 27599.039999999997,
+      "midia": 2080.967616,
+      "midiaCPC": 6941.200000000001,
+      "conf": "triangulado"
+    },
+    {
+      "slug": "stockholm-lights",
+      "nome": "Stockholm-Lights",
+      "dominio": "lightsstockholm.com",
+      "pageIds": [
+        "101463322882949",
+        "480954971764670"
+      ],
+      "metodo": "dominio",
+      "ativos": 328,
+      "historico": 11721,
+      "modelo": "DROPSHIP PURO",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "defens": "ARBITRAGEM",
+      "porte": "gigante",
+      "momentum": "crescendo",
+      "score": {
+        "sourcing": 2,
+        "ticket": 1,
+        "criativo": 2,
+        "urgencia": 1,
+        "invest": 0,
+        "autoridade": 1
+      },
+      "campeao": {
+        "titulo": "Stockholm | Buy 1 Get 1 Free",
+        "handle": "table-lamp-stockholm-buy1-get-1free",
+        "preco": "$149,00 (o par)",
+        "de": "$219,00",
+        "nota": "abajur de haste sem fio vendido sempre em par (compre 1, leve 2), 4 cores"
+      },
+      "medianaCatalogo": {
+        "v": 99,
+        "moeda": "USD"
+      },
+      "ativaDesde": "domínio arquivado desde 03/2024 · catálogo desde 14/02/2024",
+      "apps": "Judge.me, Klarna, Klaviyo, ReCharge, Shop Pay, Triple Whale, UpCart, Snap, TikTok, Clarity",
+      "pixel": "não detectado no HTML público (carregado por app/GTM)",
+      "redes": "nenhum perfil linkado no site (indício de 100% tráfego pago)",
+      "reviews": null,
+      "reviewsTxt": "nenhuma contagem pública no JSON-LD; anúncios alegam \"4,9/5 | 20.000+ clients\" (alegação de marketing, não verificada)",
+      "frete": "frete grátis nos EUA declarado na política; envio de vários países (\"United States, Europe, China, Australia\")",
+      "garantia": "não obtido (política de devolução não lida nesta rodada)",
+      "prazo": "7 a 14 dias úteis em média, segundo a política de frete",
+      "bnpl": "Klarna instalado (parcelamento de terceiro)",
+      "gads": "anuncia no Google (Transparency Center)",
+      "cad": {
+        "amostra": 50,
+        "janela": 463,
+        "unicos": 9,
+        "dup": 5.56,
+        "porDia": "0,11",
+        "mix": "vídeo 30 · estático 16 · catálogo (DPA) 4"
+      },
+      "longevo": {
+        "dias": 469,
+        "id": "1232745498642979",
+        "titulo": "Buy 1 Get 1 Free (vídeo de pessoa comum com o abajur)"
+      },
+      "criativos": [
+        {
+          "dias": 469,
+          "id": "1232745498642979",
+          "t": "Buy 1 Get 1 Free, vídeo",
+          "angulo": "pessoa comum segurando o abajur: \"finally back in stock\""
+        },
+        {
+          "dias": 469,
+          "id": "1217252043475594",
+          "t": "4.9/5 | 20.000+ clients, vídeo",
+          "angulo": "mesma pessoa com a caixa: \"Hurry up if you want\""
+        },
+        {
+          "dias": 469,
+          "id": "1077710384322310",
+          "t": "4.9/5 | 20.000+ clients, 7 variações",
+          "angulo": "design escandinavo + prova social alegada"
+        }
+      ],
+      "anatomia": {
+        "bigIdea": "o abajur escandinavo que todo mundo queria voltou ao estoque, e hoje vem em par",
+        "mecanismo": "abajur de haste recarregável, toque para regular, \"design sueco e dinamarquês\"",
+        "hook": "vídeo de pessoa comum com a caixa na mão: \"Hurry up if you want... finally back in stock\"",
+        "presell": "nenhum advertorial (261 URLs no sitemap, todas de produto/coleção)",
+        "objecao": "preço quebrado com compre 1, leve 2; confiança com \"20.000+ clients\" (não verificado)"
+      },
+      "copiar": "A oferta em par e o vídeo simples de pessoa comum com o produto. Não copiar: a prova social não verificada e o vídeo reaproveitado de outra marca (a caixa no vídeo está escrita em dinamarquês, igual ao da Lights Copenhagen).",
+      "obs": "O vídeo campeão é o mesmo roteiro e a mesma caixa (texto em dinamarquês) do anúncio da Lights Copenhagen achado na pesquisa IE: criativo reaproveitado entre lojas. Home pesada: 24,7 s até montar no teste de carregamento.",
+      "sobrev": 2.8,
+      "scoreTotal": 7,
+      "ticketMed": 99,
+      "ticket": 99,
+      "visitas": 20000,
+      "ajuste": 0.7,
+      "conv": 1.8129999999999997,
+      "pedidos": 362.5999999999999,
+      "fat": 35897.399999999994,
+      "midia": 2706.6639599999994,
+      "midiaCPC": 9380,
+      "conf": "medido (SimilarWeb exibiu piso arredondado)"
+    },
+    {
+      "slug": "popular-lighting",
+      "nome": "Popular Lighting",
+      "dominio": "popular.lighting",
+      "pageIds": [
+        "107996448740021"
+      ],
+      "metodo": "dominio",
+      "ativos": 237,
+      "historico": 824,
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "defens": "CONSTRUÍVEL",
+      "porte": "média",
+      "momentum": "estável",
+      "score": {
+        "sourcing": 2,
+        "ticket": 1,
+        "criativo": 2,
+        "urgencia": 1,
+        "invest": 1,
+        "autoridade": 2
+      },
+      "campeao": {
+        "titulo": "Brilliance - Table Lamp",
+        "handle": "brilliance",
+        "preco": "$159,00 (o par, em BOGO)",
+        "de": "",
+        "nota": "1.231 avaliações, nota 4,8 (Loox): o mesmo abajur de haste da Stockholm-Lights"
+      },
+      "medianaCatalogo": {
+        "v": 49,
+        "moeda": "USD"
+      },
+      "ativaDesde": "ativa desde 17/07/2022 (1º produto do catálogo) · domínio arquivado desde 04/2023",
+      "apps": "Loox, Klarna, ReCharge, GTag",
+      "pixel": "não detectado no HTML público (carregado por app/GTM)",
+      "redes": "nenhum perfil linkado no site (indício de 100% tráfego pago)",
+      "reviews": 1342,
+      "reviewsTxt": "1.342 avaliações somadas em 6 produtos (Loox): Brilliance 1.231 · Casa Lux 83 · Elegance 12, nota 4,6 a 4,8 (piso, não total; pode incluir avaliações importadas)",
+      "frete": "envio em até 24 h; EUA em 6 a 9 dias depois do envio (política de frete)",
+      "garantia": "100 dias para devolver, sem uso e na embalagem; frete de volta pago pelo cliente em caso de arrependimento",
+      "prazo": "6 a 9 dias para os EUA (política)",
+      "bnpl": "Klarna instalado (parcelamento de terceiro)",
+      "gads": "não encontrado no Google (Transparency Center)",
+      "cad": {
+        "amostra": 11,
+        "janela": 43,
+        "unicos": 6,
+        "dup": 1.83,
+        "porDia": "0,26",
+        "mix": "vídeo 9 · estático 2"
+      },
+      "longevo": {
+        "dias": 50,
+        "id": "1068065015616437",
+        "titulo": "Buy 1, Get 1 Free (vídeo)"
+      },
+      "criativos": [
+        {
+          "dias": 50,
+          "id": "1068065015616437",
+          "t": "Buy 1, Get 1 Free, vídeo",
+          "angulo": "\"the cordless lamp you can put anywhere. No cord, no outlet.\""
+        },
+        {
+          "dias": 50,
+          "id": "4563461997263004",
+          "t": "This fits in any room, vídeo",
+          "angulo": "o abajur que também é decoração"
+        },
+        {
+          "dias": 48,
+          "id": "1110405488082515",
+          "t": "Buy 1, Get 1 Free, vídeo",
+          "angulo": "mesa de jantar, cabeceira, estante"
+        }
+      ],
+      "anatomia": {
+        "bigIdea": "o abajur sem fio que você põe em qualquer lugar, e leva dois pelo preço de um",
+        "mecanismo": "sem fio e sem tomada; toque para regular e mudar a cor da luz",
+        "hook": "\"Buy 1, Get 1 Free\" no título + vídeo do abajur aceso na mesa de jantar",
+        "presell": "nenhum advertorial (sitemap com 6 URLs)",
+        "objecao": "\"e se eu não gostar?\" respondida com 100 dias para devolver; \"é caro?\" com o par grátis"
+      },
+      "copiar": "O campeão (abajur de haste), a oferta em par e a prova social acumulada desde 2022. Não copiar: envio de 6 a 9 dias saindo da Europa.",
+      "obs": "Operada pela One Up AB (Kungsbacka, Suécia), segundo a política de frete. As 1.231 avaliações sugerem pedidos acima do que 17,1 mil visitas/mês explicariam: parte pode ser importada ou acumulada desde 2023.",
+      "sobrev": 28.8,
+      "scoreTotal": 9,
+      "ticketMed": 49,
+      "ticket": 57.599999999999994,
+      "visitas": 17100,
+      "ajuste": 0.7,
+      "conv": 1.8129999999999997,
+      "pedidos": 310.02299999999997,
+      "fat": 17857.324799999995,
+      "midia": 1346.4422899199997,
+      "midiaCPC": 8019.900000000001,
+      "conf": "triangulado"
+    },
+    {
+      "slug": "lightscordless",
+      "nome": "Lightscordless",
+      "dominio": "lightscordless.com",
+      "pageIds": [
+        "111378241841484"
+      ],
+      "metodo": "dominio",
+      "ativos": 17,
+      "historico": 52,
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "OBSERVAR",
+      "nivel": "INICIANTE",
+      "defens": "CONSTRUÍVEL",
+      "porte": "enxuta",
+      "momentum": "retraindo",
+      "score": {
+        "sourcing": 2,
+        "ticket": 2,
+        "criativo": 2,
+        "urgencia": 1,
+        "invest": 2,
+        "autoridade": 2
+      },
+      "campeao": {
+        "titulo": "LED Retro Fabric Cordless Table Lamp",
+        "handle": "led-retro-fabric-cordless-table-lamp",
+        "preco": "$59,99",
+        "de": "$90,00",
+        "nota": "8 estilos de cúpula; anúncios atuais: \"The Cordless Lamp With a 48-Hour Battery\". O antigo campeão Luminara™ tem 231 avaliações nota 5,0"
+      },
+      "medianaCatalogo": {
+        "v": 69.95,
+        "moeda": "USD"
+      },
+      "ativaDesde": "ativa desde 06/01/2023 (1º produto do catálogo) · domínio arquivado desde 03/2023",
+      "apps": "Loox, Klaviyo, GemPages, ReCharge, TikTok, Snap",
+      "pixel": "não detectado no HTML público (carregado por app/GTM)",
+      "redes": "Instagram @lightscordless: 8.319 seguidores, 114 posts",
+      "reviews": 331,
+      "reviewsTxt": "331 avaliações em 7 produtos (Loox): Luminara 231 · Kendal 57 · arandelas 24 · Mini Luminar 14, nota 4,9 a 5,0 (piso)",
+      "frete": "não obtido (política de frete não lida nesta rodada)",
+      "garantia": "30 dias para devolver, sem uso e na embalagem; taxa de reposição de até 20% em alguns itens",
+      "prazo": "não declarado na PDP capturada",
+      "bnpl": "não identificado no stack (sem Klarna/Afterpay)",
+      "gads": "anuncia no Google (57 anúncios no Transparency Center)",
+      "cad": {
+        "amostra": 3,
+        "janela": 0.1,
+        "unicos": 2,
+        "dup": 1.5,
+        "porDia": "rajada: os 3 anúncios da amostra subiram no mesmo dia (há 24 dias), não extrapolável",
+        "mix": "vídeo 1 · estático 2"
+      },
+      "longevo": {
+        "dias": 24,
+        "id": "1333973781970009",
+        "titulo": "The Cordless Lamp With a 48-Hour Battery (vídeo)"
+      },
+      "criativos": [
+        {
+          "dias": 24,
+          "id": "1333973781970009",
+          "t": "The Cordless Lamp With a 48-Hour Battery, vídeo",
+          "angulo": "\"One tap. Instant cosy.\""
+        },
+        {
+          "dias": 24,
+          "id": "1013553451700698",
+          "t": "The Cordless Lamp With a 48-Hour Battery, estático",
+          "angulo": "autonomia da bateria como prova"
+        },
+        {
+          "dias": 24,
+          "id": "1123618403872283",
+          "t": "8 Styles. One Cordless Lamp., estático",
+          "angulo": "troque a cúpula quando quiser"
+        }
+      ],
+      "anatomia": {
+        "bigIdea": "luz bonita em qualquer lugar da casa, sem tomada e sem eletricista",
+        "mecanismo": "bateria recarregável de longa duração (alega 48 h) e cúpulas trocáveis",
+        "hook": "headline de benefício direto (\"48 hours of warm light. Zero cords.\")",
+        "presell": "nenhum advertorial (sitemap com 31 URLs)",
+        "objecao": "\"quanto dura a bateria?\" respondida com número no título; não diz em qual brilho"
+      },
+      "copiar": "O ângulo de inquilino (\"Renter-Friendly Install\"), as arandelas sem fio e a resposta direta à objeção da bateria. Não copiar: o momento da operação, que está encolhendo (Tranco caindo, 17 anúncios ativos).",
+      "obs": "É a loja mais parecida com a proposta (89% do tráfego vem dos EUA), mas a operação está retraindo: por isso OBSERVAR (copiar produto e ângulo, não a operação). Tráfego medido em 21/10/2026 na pesquisa IE.",
+      "sobrev": 32.7,
+      "scoreTotal": 11,
+      "ticketMed": 69.95,
+      "ticket": 69.95,
+      "visitas": 27400,
+      "ajuste": 0.7,
+      "conv": 1.8129999999999997,
+      "pedidos": 496.7619999999999,
+      "fat": 34748.501899999996,
+      "midia": 2620.03704326,
+      "midiaCPC": 12850.6,
+      "conf": "triangulado"
+    }
+  ],
+  "economia": {
+    "ECO": [
+      {
+        "nome": "Abajur avulso (core)",
+        "preco": 59.95,
+        "cogs": 14,
+        "frete": 6,
+        "taxa": 0,
+        "gw": 2.0385500000000003,
+        "contrib": 37.91145
+      },
+      {
+        "nome": "Duo, 2 abajures (oferta principal)",
+        "preco": 99.95,
+        "cogs": 28,
+        "frete": 8,
+        "taxa": 0,
+        "gw": 3.19855,
+        "contrib": 60.751450000000006
+      },
+      {
+        "nome": "Caixa de presente (order bump)",
+        "preco": 5.95,
+        "cogs": 1.5,
+        "frete": 0,
+        "taxa": 0,
+        "gw": 0.47255,
+        "contrib": 3.97745
+      },
+      {
+        "nome": "Velas LED x3 (upsell no carrinho)",
+        "preco": 24.95,
+        "cogs": 6,
+        "frete": 2,
+        "taxa": 0,
+        "gw": 1.02355,
+        "contrib": 15.926449999999999
+      }
+    ],
+    "MIX": {
+      "avulso": 0.5,
+      "duo": 0.5,
+      "bump": 0.25,
+      "upsell": 0.1
+    },
+    "AOV": 83.9325,
+    "CONTRIB": 51.9184575,
+    "CPA_EQ": 51.9184575
+  },
+  "bench": {
+    "convIRP": 2.59,
+    "convShogun": 1.62,
+    "ticketSetorGBP": 57.74,
+    "ticketSetorUSD": 76.8,
+    "cpaPctIRP": 7.54,
+    "cpmUSD": 10.42,
+    "cpcUSD": 0.67,
+    "cpaBaixo": 25.9,
+    "cpaCentral": 33.5,
+    "cpaAlto": 41.4,
+    "mes": "set/2026 (IRP Commerce) + jan-jun/2026 (Shogun) + 2026 (Meta e-commerce)"
+  }
+}

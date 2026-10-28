@@ -1,0 +1,3471 @@
+{
+  "lightsstockholm.com": {
+    "dominio": "lightsstockholm.com",
+    "coletado_em": "2026-10-23T01:16:57",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "clarity",
+        "gtag",
+        "gtm",
+        "judge.me",
+        "klarna",
+        "klaviyo",
+        "recharge",
+        "shoppay",
+        "snap",
+        "tiktok",
+        "triplewhale",
+        "upcart"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [],
+      "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+    },
+    "catalogo": {
+      "n_produtos": 79,
+      "n_variantes": 174,
+      "preco_min": 9.99,
+      "preco_mediana": 99,
+      "preco_max": 599,
+      "primeiro_produto": "2024-02-14",
+      "ultimo_produto": "2026-10-13",
+      "vendors": [
+        "Lights Stockholm"
+      ],
+      "tipos": [
+        "Lampshades",
+        "Stockholm Classic",
+        "Halloween",
+        "Horizon Collection",
+        "Outdoor Harmony",
+        "home decor",
+        "Halloween Collection",
+        "Minimalist Radiance",
+        "Atmosphere",
+        ""
+      ],
+      "produtos": [
+        {
+          "titulo": "Classic Noir Lamp Shade",
+          "handle": "classic-noir-rechargeable-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-10-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/be4e5b93ed2513f6f1ef97ca7bcd4566.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Spruce Velvet Lamp Shade",
+          "handle": "spruce-velvet-rechargeable-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-10-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/7072ca2aeb29350c63636ae3809f8319.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Classic Noir Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-classic-noir-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-10-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/94ce4484b1c18d74b822489c67a541dc.png",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Spruce Velvet Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-spruce-velvet-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-10-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/763b5c273af0bafb2bf5558802a3b434.png",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "Rose Garden Pleated Lamp Shade",
+          "handle": "rose-garden-pleated-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-09-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage19_.2026_._15_25_06.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Botanical Mist Pleated Lamp Shade",
+          "handle": "botanical-mist-pleated-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-09-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_19_._2026_._16_53_06.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Crimson Velvet Pleated Lamp Shade",
+          "handle": "crimson-velvet-pleated-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-09-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage19_.2026_._15_14_01.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Magnolia Blue Pleated Lamp Shade",
+          "handle": "magnolia-blue-pleated-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-09-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage19_.2026_._15_05_45.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Mayfair Pleated Lamp Shade",
+          "handle": "gold-mayfair-pleated-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-09-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage19_.2026_._12_37_29.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Midnight Noir Pleated Lamp Shade",
+          "handle": "midnight-noir-pleated-lamp-shade",
+          "preco": 79,
+          "publicado": "2026-09-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_19_._2026_._16_16_41.png",
+          "tipo": "Lampshades"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Midnight Noir Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-midnight-noir-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-09-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/f40ea430ff4113874f827c66fd9113d4.png",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "x4 LED Ceramic Mini Jack O' Lanterns",
+          "handle": "x4-led-ceramic-mini-jack-o-lanterns-copy",
+          "preco": 199,
+          "publicado": "2026-09-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_12_._2026_._16_48_17.png",
+          "tipo": "Halloween"
+        },
+        {
+          "titulo": "x4 LED Ceramic Jack O' Lanterns",
+          "handle": "x4-led-ceramic-jack-o-lanterns-1",
+          "preco": 379,
+          "publicado": "2026-09-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPT_Image_12_._2026_._16_30_48.png",
+          "tipo": "Halloween"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Mayfair Shade Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-mayfair-shade-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-09-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/dd7b7431c04907444062d6de1dfd5e3c.png",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Magnolia Blue Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-magnolia-blue-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-09-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/Gemini_Generated_Image_siz8odsiz8odsiz8.jpg",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Crimson Velvet Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-crimson-velvet-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-09-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/daffb6e36c2f7867e092cff3fae5fdf9.png",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Botanical Mist Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-botanical-mist-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-09-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/72f207e79c786f10e84e2ffc0ed86c5f.png",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "Stockholm Classic Gold - Rose Garden Rechargeable Table Lamp",
+          "handle": "stockholm-classic-gold-rose-garden-rechargeable-table-lamp",
+          "preco": 299,
+          "publicado": "2026-09-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/d0dce12a76c57fbc00bdefdba4df096a.png",
+          "tipo": "Stockholm Classic"
+        },
+        {
+          "titulo": "x4 LED Ceramic Jack O' Lanterns",
+          "handle": "x4-led-ceramic-jack-o-lanterns",
+          "preco": 379,
+          "publicado": "2026-09-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage9_.2026_._23_14_04.png",
+          "tipo": "Halloween"
+        },
+        {
+          "titulo": "x4 LED Ceramic Mini Jack O' Lanterns",
+          "handle": "x4-led-ceramic-mini-jack-o-lanterns",
+          "preco": 199,
+          "publicado": "2026-09-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage9_.2026_._22_22_16.png",
+          "tipo": "Halloween"
+        },
+        {
+          "titulo": "Geneva Glow Table Lamp",
+          "handle": "geneva-glow",
+          "preco": 99,
+          "publicado": "2026-09-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage9_.2026_._12_12_32.png",
+          "tipo": "Horizon Collection"
+        },
+        {
+          "titulo": "x12 Solar Dandelion Green Pack",
+          "handle": "x12-dandelion-green-pack",
+          "preco": 299,
+          "publicado": "2026-09-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/758628838118085.png",
+          "tipo": "Outdoor Harmony"
+        },
+        {
+          "titulo": "4x Velvet Orange Pumpkin Wreaths",
+          "handle": "4x-velvet-orange-pumpkin-wreaths",
+          "preco": 399,
+          "publicado": "2026-09-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/43088739238171-HGriGNWGCSnNYyBh.jpg",
+          "tipo": "home decor"
+        },
+        {
+          "titulo": "Florence Glow Table Lamp",
+          "handle": "florence-glow",
+          "preco": 99,
+          "publicado": "2026-09-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage9_.2026_._11_27_39.png",
+          "tipo": "Horizon Collection"
+        },
+        {
+          "titulo": "Milan Crystal Table Lamp",
+          "handle": "milan-crystal",
+          "preco": 99,
+          "publicado": "2026-09-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0675/0437/4024/files/ChatGPTImage8_.2026_._23_47_08.png",
+          "tipo": "Horizon Collection"
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2024-03-20",
+      "dias_arquivados": 20,
+      "erro": null
+    },
+    "tranco": {
+      "rank_atual": 1301437,
+      "rank_antigo": 2318340,
+      "dias": 39,
+      "variacao": 1016903,
+      "tendencia": "subindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 261,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {}
+  },
+  "creative.lighting": {
+    "dominio": "creative.lighting",
+    "coletado_em": "2026-10-23T01:17:06",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "gtag",
+        "gtm",
+        "klarna",
+        "klaviyo",
+        "rebuy",
+        "snap",
+        "upcart",
+        "vitals"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [],
+      "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+    },
+    "catalogo": {
+      "n_produtos": 250,
+      "n_variantes": 1276,
+      "preco_min": 87,
+      "preco_mediana": 346,
+      "preco_max": 20778,
+      "primeiro_produto": "2023-11-13",
+      "ultimo_produto": "2026-10-16",
+      "vendors": [
+        "Creative.Lighting"
+      ],
+      "tipos": [
+        ""
+      ],
+      "produtos": [
+        {
+          "titulo": "EverShimmer™ Decorative Garland",
+          "handle": "evershimmer-decorative-garland",
+          "preco": 173,
+          "publicado": "2026-10-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/EverShimmer_Decorative_Garland-261010_1.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "EverShimmer™ Candle Ring",
+          "handle": "evershimmer-candle-ring",
+          "preco": 173,
+          "publicado": "2026-10-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/EverShimmerDecorativeRing_1.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "GhostHearth™ Campfire Gathering",
+          "handle": "ghosthearth-campfire-gathering",
+          "preco": 173,
+          "publicado": "2026-09-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/GhostCampfireGathering_6.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Wondervale™ Christmas Village",
+          "handle": "wondervale-christmas-village",
+          "preco": 289,
+          "publicado": "2026-09-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/0f5dc85d74ce14df62933bc66de7c4d1_4d97218f-af7e-4b3b-9758-2c7129f7e7bf.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "AmberGlow™ Table Lamp",
+          "handle": "amberglow-table-lamp",
+          "preco": 520,
+          "publicado": "2026-09-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/6_9486801d-95e2-4bac-b952-4784b324661c.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "EverShimmer™ Decorative Branches",
+          "handle": "evershimmer-decorative-branches",
+          "preco": 404,
+          "publicado": "2026-09-15",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/2026-9-14-_1.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "DragonBlaze™ Night Light",
+          "handle": "dragonblaze-night-light",
+          "preco": 173,
+          "publicado": "2026-09-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/2026-8-24.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "HallowWing™ 3D Bat Swarm",
+          "handle": "hallowwing-3d-bat-swarm",
+          "preco": 104,
+          "publicado": "2026-08-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/1.3.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "WovenGlow™ Lantern",
+          "handle": "wovenglow-lantern",
+          "preco": 144,
+          "publicado": "2026-08-25",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/2_c6c4b94f-5be5-4a21-86f8-66080579f4f7.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Orchielle™ Lamp",
+          "handle": "orchielle-lamp",
+          "preco": 346,
+          "publicado": "2026-08-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/0a5021cd-4c69-4f87-b14d-172b80bdee9a.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Everlasting Flame™ Oil Candles",
+          "handle": "everlasting-flame-oil-candles",
+          "preco": 202,
+          "publicado": "2026-08-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/3_d8c5b353-777c-43ed-a866-a2dde21a09cd.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "StoryCharm™ Bookshelf Light",
+          "handle": "storycharm-bookshelf-light",
+          "preco": 202,
+          "publicado": "2026-08-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/3_e81e4265-1c7b-42a0-bb93-e0af271aea9f.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Aurora™ Northern Lights Lamp",
+          "handle": "aurora-northern-lights-lamp",
+          "preco": 346,
+          "publicado": "2026-08-05",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/5_d51d3b0f-d47f-487d-bf57-2906770807f6.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Everlasting Flame™ Pellet Torch",
+          "handle": "everlasting-flame-pellet-torch",
+          "preco": 1443,
+          "publicado": "2026-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/2026-7-15.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Witchwood™ Table Lamp",
+          "handle": "witchwood-table-lamp",
+          "preco": 231,
+          "publicado": "2026-07-24",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/8.1.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "MoltenOrb™ Floor Lamp",
+          "handle": "moltenorb-floor-lamp",
+          "preco": 2886,
+          "publicado": "2026-07-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/4326b8fe-120c-425e-86ae-636895b468f2.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "MineralGlow™ Lamp",
+          "handle": "mineralglow-lamp",
+          "preco": 693,
+          "publicado": "2026-07-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/3_43907875-f7e1-4ac0-8d24-cec52eb25cc9.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "StellarOrb™ Floating Solar Light",
+          "handle": "stellarorb-floating-solar-light",
+          "preco": 260,
+          "publicado": "2026-06-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/Untitled_800_x_800_px_1000_x_1000_px.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "MarbleGlow™ Lamp",
+          "handle": "marbleglow-lamp",
+          "preco": 577,
+          "publicado": "2026-06-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/ff9abe77-fb4a-48c4-bb49-420a72f392ad.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Solar House Number Light",
+          "handle": "solar-house-number-light",
+          "preco": 289,
+          "publicado": "2026-06-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/12_e7915650-f4b4-474f-8bb7-4800594864cf.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "HeritageGlow™ Lantern Planter",
+          "handle": "heritageglow-lantern-planter",
+          "preco": 577,
+          "publicado": "2026-06-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/1000.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "BambooFlame™ Solar Torch",
+          "handle": "bambooflame-solar-torch",
+          "preco": 462,
+          "publicado": "2026-06-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/Untitleddesign_9.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "SunsetAura™ Wall Light",
+          "handle": "sunsetaura-wall-light",
+          "preco": 866,
+          "publicado": "2026-06-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/sunrise-webp_5.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "BelleDress™ Tissue Box",
+          "handle": "belledress-tissue-box",
+          "preco": 404,
+          "publicado": "2026-06-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/MuseGlow_Tissue_Box_16_623a2c23-075d-4201-b9d6-ed05c89b80e7.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Aureline™ Skylight",
+          "handle": "aureline-skylight",
+          "preco": 2309,
+          "publicado": "2026-06-01",
+          "imagem": "https://cdn.shopify.com/s/files/1/0526/5929/0273/files/cover1000x1000.webp",
+          "tipo": ""
+        }
+      ],
+      "nota": "limite de 250 produtos do endpoint publico"
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2018-08-09",
+      "dias_arquivados": 83,
+      "erro": null
+    },
+    "tranco": {
+      "rank_atual": 423851,
+      "rank_antigo": 430098,
+      "dias": 39,
+      "variacao": 6247,
+      "tendencia": "subindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 91,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {}
+  },
+  "popular.lighting": {
+    "dominio": "popular.lighting",
+    "coletado_em": "2026-10-23T01:17:16",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "gtag",
+        "klarna",
+        "loox",
+        "recharge"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [],
+      "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+    },
+    "catalogo": {
+      "n_produtos": 27,
+      "n_variantes": 76,
+      "preco_min": 5,
+      "preco_mediana": 49,
+      "preco_max": 200,
+      "primeiro_produto": "2022-07-17",
+      "ultimo_produto": "2026-05-15",
+      "vendors": [
+        "Popular Lighting",
+        "Popular.Lighting"
+      ],
+      "tipos": [
+        "Lighting",
+        ""
+      ],
+      "produtos": [
+        {
+          "titulo": "Elegance LED Lantern",
+          "handle": "elegance",
+          "preco": 159,
+          "publicado": "2026-05-15",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/4fb280f5abbe73d085f6232fba5fb7ba_750x_720x_dd590ae4-d1d0-4193-9977-8b15bc9f57a8.webp",
+          "tipo": "Lighting"
+        },
+        {
+          "titulo": "Popular Lighting - Gift Card",
+          "handle": "popular-lighting-gift-card",
+          "preco": 50,
+          "publicado": "2026-05-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/PopularLightingGiftCard_2.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Crystal Ball Light",
+          "handle": "crystal-ball-light",
+          "preco": 49,
+          "publicado": "2025-11-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/CrystalBallLightmilkyway.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Classic Art Light",
+          "handle": "classic-art-light",
+          "preco": 59,
+          "publicado": "2025-11-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/WallArtLight.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Nova™ Wall Light",
+          "handle": "nova™-wall-light-1",
+          "preco": 49,
+          "publicado": "2025-10-05",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/nova_wood2.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Sensa™ Motion Bar",
+          "handle": "sensa™-motion-bar",
+          "preco": 25,
+          "publicado": "2025-10-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/USB-CRECHARGEABLE_1.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Sensa™ Torch - Your Modern LED-Torch",
+          "handle": "sensa™-torch-your-modern-led-torch",
+          "preco": 29,
+          "publicado": "2025-10-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Sensa™ Extra Metal Mounts (3-Pack)",
+          "handle": "sensa™-extra-magnetic-mounts-3-pack",
+          "preco": 5,
+          "publicado": "2025-10-01",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/20251001_093746.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Sleeping Pikachu Night Light",
+          "handle": "sleeping-pikachu-night-light",
+          "preco": 29,
+          "publicado": "2025-08-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Sleeping-Pikachu-Night-Light-Popular-Lighting-1684847158.webp",
+          "tipo": "Lighting"
+        },
+        {
+          "titulo": "Cute Animal Night Lights",
+          "handle": "cute-animal-night-lights",
+          "preco": 29,
+          "publicado": "2025-08-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/animallights.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Lazy Duck Light",
+          "handle": "lazy-duck-light",
+          "preco": 34,
+          "publicado": "2025-08-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/ducklight.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Pixel Torch Light",
+          "handle": "pixel-torch-light",
+          "preco": 39,
+          "publicado": "2025-08-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/pixeltorchpopularlighting9.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Galaxy Astronaut Projector",
+          "handle": "galaxy-astronaut-projector",
+          "preco": 49,
+          "publicado": "2025-08-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/galaxyastronautprojector5.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Retro Block Light",
+          "handle": "retro-block-light",
+          "preco": 39,
+          "publicado": "2025-08-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/retroblocklight3.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Pixel Torch Light Keychain",
+          "handle": "pixel-torch-light-keychain",
+          "preco": 9,
+          "publicado": "2025-08-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/pixeltorchkeychain8.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Flameless LED Candle (Pack of Three)",
+          "handle": "flameless-led-candle-pack-of-three",
+          "preco": 39,
+          "publicado": "2024-11-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/flamelesscandle1.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Solar Stair Lights - 2 Pack",
+          "handle": "solar-stair-lights-2-pack",
+          "preco": 35,
+          "publicado": "2024-03-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/SolarStairLights.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Luna Glow",
+          "handle": "luna-glow",
+          "preco": 159,
+          "publicado": "2024-03-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Lunaglowwhite.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Sunset Beam Projector Lamp",
+          "handle": "sunset-beam-projector-lamp",
+          "preco": 19,
+          "publicado": "2023-12-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Xxie668fdcbeca50c56e4a5032eada360554.jpg",
+          "tipo": "Lighting"
+        },
+        {
+          "titulo": "Retro Macaron",
+          "handle": "egg-tart-luminaire",
+          "preco": 159,
+          "publicado": "2023-12-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/JQKoGlass-Stained-Desk-Lamp-Children-s-Lamp-Bedroom-Bedside-Study-Atmosphere-Lamp-Home-Decoration-Egg-Tart.jpg",
+          "tipo": "Lighting"
+        },
+        {
+          "titulo": "Bonnet - Minimalist Table Lamp",
+          "handle": "shroom-lume-table-lamp",
+          "preco": 159,
+          "publicado": "2023-12-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/elegance123_1.png",
+          "tipo": "Lighting"
+        },
+        {
+          "titulo": "Solar Step Lights",
+          "handle": "solar-step-lights",
+          "preco": 49,
+          "publicado": "2023-11-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Solarsteplights_1_1.webp",
+          "tipo": "Lighting"
+        },
+        {
+          "titulo": "LED Lantern",
+          "handle": "led-lantern",
+          "preco": 69,
+          "publicado": "2023-11-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/dinner.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Sparkling Touch Lamp",
+          "handle": "luxeaura-sparkling-touch-lamp",
+          "preco": 69,
+          "publicado": "2023-08-29",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/Sparkling_Touch_Lamp4.webp",
+          "tipo": "Lighting"
+        },
+        {
+          "titulo": "Casa Lux - Dimmable table lamp",
+          "handle": "casa-lux",
+          "preco": 159,
+          "publicado": "2023-08-29",
+          "imagem": "https://cdn.shopify.com/s/files/1/0623/0088/1082/files/eff_185793e3-1a69-4b1a-ac3d-2b87af17d1c6.webp",
+          "tipo": "Lighting"
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2023-04-05",
+      "dias_arquivados": 20,
+      "erro": null
+    },
+    "tranco": {
+      "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+    },
+    "sitemap": {
+      "total_urls": 6,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {}
+  },
+  "kiyohome.com": {
+    "dominio": "kiyohome.com",
+    "coletado_em": "2026-10-23T01:17:25",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "gtag",
+        "judge.me",
+        "klaviyo",
+        "pinterest",
+        "recharge",
+        "upcart",
+        "vitals",
+        "zipify"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/kiyohome.co"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 250,
+      "n_variantes": 966,
+      "preco_min": 14,
+      "preco_mediana": 44,
+      "preco_max": 2800,
+      "primeiro_produto": "2025-08-21",
+      "ultimo_produto": "2026-10-22",
+      "vendors": [
+        "Kiyo Home"
+      ],
+      "tipos": [
+        "Outdoor Furniture",
+        "Home Decor",
+        "Candles",
+        "Barware",
+        "Decorative Lighting",
+        "Seasonal Decor",
+        "Baby & Toddler",
+        "Glassware",
+        "Bedding",
+        "Outdoor Lighting"
+      ],
+      "produtos": [
+        {
+          "titulo": "Round 32\" Propane Fire Pit with Hidden Propane Tank Table",
+          "handle": "round-32-propane-fire-pit-with-hidden-propane-tank-table",
+          "preco": 1150,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/round-32-propane-fire-pit-hidden-tank-table-black-lifestyle-evening-glass-doors-web.jpg",
+          "tipo": "Outdoor Furniture"
+        },
+        {
+          "titulo": "Hand-Painted Black And White Tray",
+          "handle": "hand-painted-black-and-white-tray",
+          "preco": 118,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/hand-painted-black-and-white-tray-lifestyle-kitchen-island-macarons-web.jpg",
+          "tipo": "Home Decor"
+        },
+        {
+          "titulo": "Holiday Village LED Flameless Candles, Set of 3",
+          "handle": "holiday-village-led-flameless-candles-set-of-3",
+          "preco": 68,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/holiday-village-led-flameless-candles-set-of-3-detail-winter-village-print-web.jpg",
+          "tipo": "Candles"
+        },
+        {
+          "titulo": "Golf Putter Bottle Opener",
+          "handle": "golf-putter-bottle-opener",
+          "preco": 18,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/golf-putter-bottle-opener-bronze-lifestyle-gift-flat-lay-web.jpg",
+          "tipo": "Barware"
+        },
+        {
+          "titulo": "Metal Bow Candlestick Holders",
+          "handle": "metal-bow-candlestick-holders",
+          "preco": 45,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/metal-bow-candlestick-holders-set-of-2-lifestyle-christmas-dining-table-evergreen-sprigs-web.jpg",
+          "tipo": "Candles"
+        },
+        {
+          "titulo": "Dark Flameless LED Candles, Set of 3",
+          "handle": "3-piece-dark-flamess-led-candles",
+          "preco": 65,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/dark-flameless-led-candles-set-of-3-amber-lifestyle-coffee-table-brass-tray-remote-web.jpg",
+          "tipo": "Candles"
+        },
+        {
+          "titulo": "Holiday Tree LED Flameless Candles, Set of 3",
+          "handle": "holiday-tree-led-flameless-candles-set-of-3",
+          "preco": 85,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/holiday-tree-led-flameless-candles-set-of-3-lifestyle-coffee-table-brass-tray-remote-web.jpg",
+          "tipo": "Candles"
+        },
+        {
+          "titulo": "Marble Night Light",
+          "handle": "marble-night-light",
+          "preco": 70,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/marble-night-light-black-lifestyle-bar-cart-cocktails-web.jpg",
+          "tipo": "Decorative Lighting"
+        },
+        {
+          "titulo": "Ribbed Crystal Wine Decanter",
+          "handle": "ribbed-crystal-wine-decanter",
+          "preco": 140,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/ribbed-crystal-wine-decanter-lifestyle-holiday-table-web.jpg",
+          "tipo": "Barware"
+        },
+        {
+          "titulo": "Santa Bows, Set of 3",
+          "handle": "santa-bows-set-of-3",
+          "preco": 80,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/santa-bows-set-of-3-lifestyle-staircase-banister-garland-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Dark Glass Oil Candles, Set of 3",
+          "handle": "dark-glass-oil-candles-set-of-3",
+          "preco": 45,
+          "publicado": "2026-10-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/dark-glass-oil-candles-set-of-3-both-colors-lifestyle-oak-sideboard-web.jpg",
+          "tipo": "Candles"
+        },
+        {
+          "titulo": "Rainbow Education Plush Nursery Play Mat",
+          "handle": "rainbow-education-plush-nursery-play-mat",
+          "preco": 53,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/rainbow-education-plush-nursery-play-mat-lifestyle-overhead-bunny-wooden-blocks-web.jpg",
+          "tipo": "Baby & Toddler"
+        },
+        {
+          "titulo": "Stainless Steel Christmas Utensil 4-Piece Sets",
+          "handle": "stainless-steel-christmas-utensil-sets",
+          "preco": 24,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/S9665f40eed7549bb897e24531dcbe742O.webp",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Reindeer Bottle Stopper",
+          "handle": "reindeer-stopper",
+          "preco": 15,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/Sd5955271a6a0468a908629373731d92c2.webp",
+          "tipo": "Barware"
+        },
+        {
+          "titulo": "Gold Christmas Candle Holder",
+          "handle": "gold-christmas-candle-holder",
+          "preco": 26,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/gold-christmas-candle-holder-lifestyle-tree-wrapping-station-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Christmas Flower Decorations",
+          "handle": "christmas-flower-decorations",
+          "preco": 28,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/christmas-flower-decorations-all-colors-lifestyle-coffee-table-throw-blanket-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Iron Christmas Candlestick Holders",
+          "handle": "iron-christmas-candlestick-holders",
+          "preco": 26,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/S248d2b02082a49f1a0333202bec52b43y.webp",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Star Decor/Tree Topper",
+          "handle": "star-tree-topper",
+          "preco": 34,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/Sa934a1da111449c8b2f10d725fb481c88.webp",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Christmas Tree Ornaments",
+          "handle": "christmas-tree-ornaments",
+          "preco": 22,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/christmas-tree-ornaments-all-ornaments-lifestyle-flat-lay-wood-table-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Christmas Truck with Twinkling Lights",
+          "handle": "christmas-truck-with-twinkling-lights",
+          "preco": 69,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/christmas-truck-with-twinkling-lights-lifestyle-bookshelf-books-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Knit Christmas Stockings",
+          "handle": "knit-christmas-stockings",
+          "preco": 19,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/knit-christmas-stockings-lifestyle-all-three-mantel-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Holiday Napkin Rings (Set of 6)",
+          "handle": "holiday-napkin-rings-set-of-6",
+          "preco": 25,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/holiday-napkin-rings-set-of-6-silver-lifestyle-mug-linen-napkin-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Christmas Gnomes",
+          "handle": "christmas-gnomes",
+          "preco": 25,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/christmas-gnomes-both-lifestyle-fireplace-mantel-mini-trees-web.jpg",
+          "tipo": "Seasonal Decor"
+        },
+        {
+          "titulo": "Holiday Tree Glasses",
+          "handle": "christmas-tree-glass",
+          "preco": 35,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/holiday-tree-glasses-lifestyle-cocoa-coffee-duo-web.jpg",
+          "tipo": "Glassware"
+        },
+        {
+          "titulo": "Dachshund Duvet Set",
+          "handle": "dachshund-duvet-set",
+          "preco": 67,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/dachshund-duvet-set-lifestyle-bed-angled-closeup-pillows-web.jpg",
+          "tipo": "Bedding"
+        }
+      ],
+      "nota": "limite de 250 produtos do endpoint publico"
+    },
+    "best_sellers": {
+      "colecao": "best-sellers",
+      "produtos": [
+        {
+          "titulo": "Two-Tone Wood Bird Sculptures",
+          "handle": "wooden-birds",
+          "preco": 62,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/two-tone-wood-bird-sculptures-lifestyle-console-art.png"
+        },
+        {
+          "titulo": "Brass Lizard",
+          "handle": "brass-lizard",
+          "preco": 44,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/brass-lizard-figurine-plaster-pedestal-dried-botanicals.png"
+        },
+        {
+          "titulo": "Vintage Green Square Glass Oil Lamp",
+          "handle": "vintage-green-square-glass-oil-lamp",
+          "preco": 27,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/vintage-green-glass-oil-lamp-square-pair-rustic-shelf-decor.jpg"
+        },
+        {
+          "titulo": "Clear Ivory Flameless Pillar Candles, Set of 9",
+          "handle": "flameless-candles-set-of-9",
+          "preco": 85,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/led-flameless-candle-realistic-flicker_jpg.png"
+        },
+        {
+          "titulo": "Brass Fox",
+          "handle": "brass-fox",
+          "preco": 19,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/brass-fox.png"
+        },
+        {
+          "titulo": "Travertine Pillar Candleholders",
+          "handle": "travertine-candle-holders",
+          "preco": 128,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/travertine-pillar-candleholders-lifestyle-mantel-pair-lit-candles-web.jpg"
+        },
+        {
+          "titulo": "Elephant Sculptures, Set of 3",
+          "handle": "3-piece-elephant-family",
+          "preco": 82,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/elephant-sculptures-bookshelf_png.png"
+        },
+        {
+          "titulo": "Vintage Glass Bitters Bottles",
+          "handle": "vintage-glass-bitters-bottles",
+          "preco": 29,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/vintage-glass-bitters-bottles-home-bar-display-kiyo-home_jpg.png"
+        },
+        {
+          "titulo": "Copper Octopus Sculpture",
+          "handle": "copper-octopus-statue",
+          "preco": 89,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/copper-octopus-figurine-antique-sculptural-bar-shelf-decor.png"
+        },
+        {
+          "titulo": "Calacatta Marble Bowl",
+          "handle": "calacatta-marble-bowl",
+          "preco": 199,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/calacatta-marble-bowl-lifestyle-entryway-console-keys-sunglasses-web.jpg"
+        },
+        {
+          "titulo": "Alba Wooden Plant Propagation Vase",
+          "handle": "wooden-hydroponic-vase",
+          "preco": 28,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/alba-wooden-plant-propagation-vase-windowsill-duo-natural.png"
+        },
+        {
+          "titulo": "Gold Coral Sculptures",
+          "handle": "gold-coral-sculptures",
+          "preco": 85,
+          "imagem": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/gold-coral-sculpture-living-room-styling_1.png"
+        }
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2024-05-09",
+      "dias_arquivados": 24,
+      "erro": null
+    },
+    "tranco": {
+      "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+    },
+    "sitemap": {
+      "total_urls": 6,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "kiyohome.co": {
+        "seguidores": "4,989",
+        "posts": "147",
+        "raw": "4,989 Followers, 63 Following, 147 Posts - See Instagram photos and videos from Kiyo Home (&#064;kiyohome.co)"
+      }
+    }
+  },
+  "breckandfox.com": {
+    "dominio": "breckandfox.com",
+    "coletado_em": "2026-10-23T01:17:34",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "gtag",
+        "gtm",
+        "judge.me",
+        "klaviyo",
+        "pinterest",
+        "recharge",
+        "snap",
+        "upcart",
+        "zipify"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://facebook.com/breckandfox",
+        "https://instagram.com/breckandfox"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 250,
+      "n_variantes": 667,
+      "preco_min": 12.5,
+      "preco_mediana": 80,
+      "preco_max": 1087.5,
+      "primeiro_produto": "2024-03-17",
+      "ultimo_produto": "2025-07-28",
+      "vendors": [
+        "BRECK + FOX"
+      ],
+      "tipos": [
+        "",
+        "Serving Trays",
+        "Glassware",
+        "Dinnerware",
+        "Lighting",
+        "book",
+        "Dinnerware Sets",
+        "Decorative Trays",
+        "Mirrors",
+        "lighting"
+      ],
+      "produtos": [
+        {
+          "titulo": "Stainless Steel 8-Piece Glassware Set",
+          "handle": "stainless-steel-8-piece-glassware-set",
+          "preco": 137.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S630856b70b634685831ab004be2e51ddZ.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Solar Waterproof LED Rope Lights",
+          "handle": "solar-waterproof-led-rope-lights",
+          "preco": 35,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/1_0e92ccb7-5194-4902-aab2-d5ae5b37b171.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Solar Outdoor Pathway 4-Piece Lights",
+          "handle": "solar-outdoor-pathway-4piece-lights",
+          "preco": 38.75,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S2e2407ebd5c54611ad2723612f26cbf6l.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Solar LED Wall Light",
+          "handle": "solar-led-wall-light",
+          "preco": 35,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Se6ebdb7dce824b73919d6e3010b32afbo.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Solar Dome Light",
+          "handle": "solar-dome-light",
+          "preco": 150,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Hcc4dc6b9972946e2a9c259a7aa1eedb3r.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Sculptural Faux Travertine Lamp",
+          "handle": "sculptural-faux-travertine-lamp",
+          "preco": 275,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Sf64499f871bd4a8da16404f007b5c997E.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Rustic Measuring 8-Piece Spoon Set",
+          "handle": "rustic-measuring-8-piece-spoon-set",
+          "preco": 40,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S27b77bed11824e878b0280273ee43c20S.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Rustic Coconut Shell Bowl and Spoon Set",
+          "handle": "rustic-coconut-shell-bowl-and-spoon-set",
+          "preco": 32.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Sec93a516ed6b45d290e52db16cedb121W.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Rustic Ceramic Oatmeal Bowl",
+          "handle": "rustic-ceramic-oatmeal-bowl",
+          "preco": 38.75,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Sd7c0e0afa6b24e8a8d75a9bd6cbac6a7O.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Ribbed 25-Piece Dinnerware Set",
+          "handle": "ribbed-25-piece-dinnerware-set",
+          "preco": 587.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S1182855fd5a14038a30a4e00da36ef90z.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Portable Outdoor Solar Lantern",
+          "handle": "portable-outdoor-solar-lantern",
+          "preco": 237.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Sc0877d7f344841d9adf7c455504f9614l.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Modern Boho Umbrella Stand",
+          "handle": "modern-boho-umbrella-stand",
+          "preco": 225,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S56c19c0d128048b9a5bc45805389566ev.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Modern Artisan Soup 4-Piece Bowl Set",
+          "handle": "modern-artisan-soup-4-piece-bowl-set",
+          "preco": 40,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Ha09631342a39443b9e312e05e4d531c82.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Minimalist White Ceramic Plate",
+          "handle": "minimalist-white-ceramic-plate",
+          "preco": 38.75,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S431e4338cefc4afea5da11d9e203a8fdJ.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Minimalist Sushi Plates",
+          "handle": "minimalist-sushi-plates",
+          "preco": 33.75,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S20d4b868161a429cb383425ce5f6bba3w.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Minimalist 9-Piece Stoneware Set",
+          "handle": "minimalist-9-piece-stoneware-set",
+          "preco": 250,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S154b65282dda49719899dda9244c9bacZ.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Laguna Kiln Blue Pitcher",
+          "handle": "laguna-kiln-blue-ceramic-pitcher",
+          "preco": 55,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S53414da2b2764dfbbdbca205d0fc44b0h.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Laguna Kiln Bowls",
+          "handle": "laguna-kiln-bowls",
+          "preco": 27.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/1_ddca76aa-8636-4dfa-8244-d94e7aa2330c.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Floral Faux Travertine Bowl",
+          "handle": "floral-faux-travertine-bowl",
+          "preco": 300,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Scd22a86802694086b9ab0365e7cfa20by.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Elegant 2-Piece Cocktail Coupe Set",
+          "handle": "elegant-2-piece-cocktail-coupe-set",
+          "preco": 37.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S7af8e39089944d36a5a1cf6c33efaaacM.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Ceramic Coffee Mug with Saucer",
+          "handle": "ceramic-coffee-mug-with-saucer",
+          "preco": 32.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Secbae93b7ef74f95acc72c5ecf7dad28T.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Artisan Faux Travertine Centerpiece",
+          "handle": "artisan-faux-travertine-centerpiece",
+          "preco": 212.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S26d606022c5645a297898eedb574a052l.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Artisan Ceramic Sushi Plates",
+          "handle": "artisan-ceramic-sushi-plates",
+          "preco": 31.25,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/S5ece406dddc5453bb03891c4258f6961C.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Artisan Ceramic Soup Bowl",
+          "handle": "artisan-ceramic-soup-bowl",
+          "preco": 37.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/HTB1MST1Kb1YBuNjSszeq6yblFXaM.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Arched Solar Outdoor Table Light",
+          "handle": "arched-solar-outdoor-table-light",
+          "preco": 862.5,
+          "publicado": "2025-07-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0463/4001/4229/files/Sd8b41272674847039547fda98f3b4a4aH.webp",
+          "tipo": ""
+        }
+      ],
+      "nota": "limite de 250 produtos do endpoint publico"
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2021-11-28",
+      "dias_arquivados": 73,
+      "erro": null
+    },
+    "tranco": {
+      "rank_atual": 2148500,
+      "rank_antigo": 3045307,
+      "dias": 39,
+      "variacao": 896807,
+      "tendencia": "subindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 6,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "breckandfox": {
+        "seguidores": "22K",
+        "posts": "857",
+        "raw": "22K Followers, 45 Following, 857 Posts - See Instagram photos and videos from BRECK + FOX  |  Sustainable Home Decor (&#064;breckandfox)"
+      }
+    }
+  },
+  "lightscordless.com": {
+    "dominio": "lightscordless.com",
+    "coletado_em": "2026-10-23T01:17:46",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "gempages",
+        "gtag",
+        "gtm",
+        "klaviyo",
+        "loox",
+        "recharge",
+        "snap",
+        "tiktok"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://www.facebook.com/people/lightscordless/100089001653657",
+        "https://www.instagram.com/lightscordless"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 119,
+      "n_variantes": 445,
+      "preco_min": 13.95,
+      "preco_mediana": 69.95,
+      "preco_max": 1490,
+      "primeiro_produto": "2023-01-06",
+      "ultimo_produto": "2026-06-25",
+      "vendors": [
+        "Lightscordless",
+        "Iluminating"
+      ],
+      "tipos": [
+        "",
+        "flower candle warmer",
+        "Cordless Table Lamp",
+        "Solar Light",
+        "Architect Clamp Office Lamp",
+        "Projector Light",
+        "Lamps",
+        "Cordless Rechargeable Table Lamp",
+        "Charger Type-C Data Cable",
+        "USB Adapters"
+      ],
+      "produtos": [
+        {
+          "titulo": "Solar Powered Fan Hat",
+          "handle": "solar-powered-fan-hat",
+          "preco": 58.95,
+          "publicado": "2026-06-25",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/1_189c3900-3a11-49cb-9ef8-65e7017cea53.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Lightscordless – Solar-Powered Outdoor Lantern Lights",
+          "handle": "lightscordless-solar-powered-outdoor-lantern-lights",
+          "preco": 58.99,
+          "publicado": "2026-06-25",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/5_d30f0f5f-1d91-4db0-b378-ba1801f32e28.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "36\" Artificial Easter Bunny Topiary (Set of 2)",
+          "handle": "36-artificial-easter-bunny-topiary-set-of-2",
+          "preco": 129,
+          "publicado": "2026-06-25",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/1.avif",
+          "tipo": ""
+        },
+        {
+          "titulo": "Lightscordless™ – Solar-Powered Outdoor Lantern Lights",
+          "handle": "solar-powered-outdoor-lantern-lights",
+          "preco": 58.99,
+          "publicado": "2026-01-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/5_d30f0f5f-1d91-4db0-b378-ba1801f32e28.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Wireless Wall Sconces (2-Pack) + Free 2 Bulbs",
+          "handle": "wireless-wall-sconces-2-pack-free-2-bulbs",
+          "preco": 89.95,
+          "publicado": "2026-01-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Wireless_Wall_Sconces_Black.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Floré™",
+          "handle": "cordless-table-lamps-for-living-room",
+          "preco": 59,
+          "publicado": "2026-01-25",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/green-glass-cordless-table-lamp-living..jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Brillixa™ Wireless Rechargeable Wall Sconces (Set of 2)",
+          "handle": "battery-operated-wall-sconces",
+          "preco": 119,
+          "publicado": "2026-01-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/1_27bc383c-8079-499a-83b0-045707bd7965.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Lightscordless™ – Solar-Powered Outdoor Lantern Lights",
+          "handle": "lightscordless™-solar-powered-outdoor-lantern-lights-1",
+          "preco": 58.95,
+          "publicado": "2026-01-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/SOLARE454.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "BrightPath™ Solar Pathway Garden Light – Waterproof Outdoor LED Stake Light",
+          "handle": "lightscordless™-solar-pathway-garden-light-waterproof-outdoor-led-stake-light",
+          "preco": 58.95,
+          "publicado": "2026-01-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/GardenSolarlight1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "LightsCordless™ RGB Rechargeable Picture Light",
+          "handle": "lightscordless™-rgb-rechargeable-picture-light",
+          "preco": 39.95,
+          "publicado": "2025-12-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/33_0a046748-73a1-4213-b107-570c81ae8e68.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "LightsCordless™ — Wireless Rechargeable Picture Lighting",
+          "handle": "lightscordless™-wireless-rechargeable-picture-lighting",
+          "preco": 58.95,
+          "publicado": "2025-12-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/1_056c1e74-becc-4bb6-8bd8-bf2bdfd8bd1e.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "LightsCordless™ Rechargeable Picture Light - Illuminate Your Art Wirelessly",
+          "handle": "lightscordless™-rechargeable-picture-light-illuminate-your-art-wirelessly",
+          "preco": 48,
+          "publicado": "2025-12-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/12.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Flower Candle Warmer",
+          "handle": "flower-candle-warmer",
+          "preco": 78.95,
+          "publicado": "2025-12-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/395774a5-45df-423d-8540-910737c0b267.jpg",
+          "tipo": "flower candle warmer"
+        },
+        {
+          "titulo": "Smart Creative Lava Lamp Night Light",
+          "handle": "smart-creative-lava-lamp-night-light",
+          "preco": 75,
+          "publicado": "2025-12-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/0b25c720-0874-403a-b3fa-9e4dd363144d.jpg",
+          "tipo": "Cordless Table Lamp"
+        },
+        {
+          "titulo": "Solar garden light",
+          "handle": "solar-garden-light-1",
+          "preco": 43.99,
+          "publicado": "2025-12-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/6f2b6a97-bd94-40cb-8824-a4c56d6b430d.jpg",
+          "tipo": "Solar Light"
+        },
+        {
+          "titulo": "4G Solar Dual Lens Outdoor Camera",
+          "handle": "solar-outdoor-camera",
+          "preco": 135,
+          "publicado": "2025-12-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/0961b039-b29f-46cb-8618-af7685006c91.jpg",
+          "tipo": "Solar Light"
+        },
+        {
+          "titulo": "Opus Architect Light",
+          "handle": "opus-architect-light",
+          "preco": 69,
+          "publicado": "2025-12-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Untitleddesign_0fadb712-402d-4b7f-a622-2a11fe5f9888.jpg",
+          "tipo": "Architect Clamp Office Lamp"
+        },
+        {
+          "titulo": "Lightscordless™ - LED projection lamp",
+          "handle": "led-projection-lamp",
+          "preco": 45.99,
+          "publicado": "2025-11-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/dd7e8cc9-24b7-4e77-8622-d594e862ec7c.jpg",
+          "tipo": "Projector Light"
+        },
+        {
+          "titulo": "Solar Garden Rgb Light",
+          "handle": "solar-garden-light",
+          "preco": 48.99,
+          "publicado": "2025-11-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/454555df-3ab9-41a7-a4c2-80d2dc205931.jpg",
+          "tipo": "Solar Light"
+        },
+        {
+          "titulo": "Outdoor lighting street lamps",
+          "handle": "outdoor-lighting-street-lamps",
+          "preco": 49.99,
+          "publicado": "2025-11-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/244f261c-cc8d-4796-bc0f-97aa489ff2ad.jpg",
+          "tipo": "Solar Light"
+        },
+        {
+          "titulo": "FlexiBeam™ Adjustable Dual-head LED Desk Lamp",
+          "handle": "adjustable-dual-head-led-desk-lamp-with-gooseneck",
+          "preco": 97,
+          "publicado": "2025-11-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/afee0d7c-c31e-4532-86b4-084408c98354.jpg",
+          "tipo": "Architect Clamp Office Lamp"
+        },
+        {
+          "titulo": "Long Arm Clip Double Head Folding Desk Lamp",
+          "handle": "long-arm-clip-double-head-folding-desk-lamp",
+          "preco": 65.99,
+          "publicado": "2025-11-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/2ccfbca7-f386-401a-884c-6ae906315d9c.jpg",
+          "tipo": "Architect Clamp Office Lamp"
+        },
+        {
+          "titulo": "Cordless Wall Sconces Set Of 2",
+          "handle": "wireless-wall-light-sconces",
+          "preco": 78.95,
+          "publicado": "2025-10-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/WirelessWallSconcesCordless1.webp",
+          "tipo": "Lamps"
+        },
+        {
+          "titulo": "Bubble Girl Lightscordless™ Handcrafted Resin Table Lamp – Modern Decor Accent",
+          "handle": "bubble-girl-lightscordless™-handcrafted-resin-table-lamp-modern-decor-accent",
+          "preco": 95.95,
+          "publicado": "2025-10-28",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/Bulb_Girl_Lamp.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Rechargeable Wireless Wall Light(2 Packs)",
+          "handle": "rechargeable-wireless-wall-light2-packs-1",
+          "preco": 119,
+          "publicado": "2025-10-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/9c5c6963f78427ee78e3840ce46223a2_bc66a96d-6017-4aec-9369-8775b3de27dc.webp",
+          "tipo": ""
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "colecao": "best-sellers",
+      "produtos": [
+        {
+          "titulo": "Luminara™",
+          "handle": "portable-table-lamp",
+          "preco": 58.95,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/luminaralightscordless-242539.jpg"
+        },
+        {
+          "titulo": "Kendal™",
+          "handle": "cordless-table-lamp",
+          "preco": 58.95,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/kendallightscordless-896703.jpg"
+        },
+        {
+          "titulo": "Mini Luminar",
+          "handle": "mini-luminar",
+          "preco": 58.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/WhiteMini4.webp"
+        },
+        {
+          "titulo": "LumoEase™ Wireless Wall Sconces (SET OF 2 + 2 BULBS FREE)",
+          "handle": "black-battery-operated-wall-sconces",
+          "preco": 99.95,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/1_4dd448cf-9a0c-4f1b-af86-569b05809dd7.jpg"
+        },
+        {
+          "titulo": "Long Arm Clip Double Head Folding Desk Lamp",
+          "handle": "long-arm-clip-double-head-folding-desk-lamp",
+          "preco": 65.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/2ccfbca7-f386-401a-884c-6ae906315d9c.jpg"
+        },
+        {
+          "titulo": "Harmony™ Lamp | BUY 1 GET 1 FREE",
+          "handle": "harmony™-lamp-buy-1-get-1-free",
+          "preco": 75.95,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/LedCordlessWhite_95d982af-284b-45a7-9ba2-201347e5bbfe.png"
+        },
+        {
+          "titulo": "GlowFlex™",
+          "handle": "illuminate-anywhere-your-portable-light-companion",
+          "preco": 89.95,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/products/USB-cordless-desk-lamp-LED-rechargeable-bedroom-desk-lamp-suitable-for-restaurant-hotel-bar-decoration-night.jpg"
+        },
+        {
+          "titulo": "ChargeEase™ Nightstand with Charging Station",
+          "handle": "chargeease-charging-lamp",
+          "preco": 79.95,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/image_786_1740491829562-19382463-56867052-9862214_0.jpg"
+        },
+        {
+          "titulo": "Solar garden light",
+          "handle": "solar-garden-light-1",
+          "preco": 43.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/6f2b6a97-bd94-40cb-8824-a4c56d6b430d.jpg"
+        },
+        {
+          "titulo": "Outdoor lighting street lamps",
+          "handle": "outdoor-lighting-street-lamps",
+          "preco": 49.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/244f261c-cc8d-4796-bc0f-97aa489ff2ad.jpg"
+        },
+        {
+          "titulo": "Smart Creative Lava Lamp Night Light",
+          "handle": "smart-creative-lava-lamp-night-light",
+          "preco": 75,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/0b25c720-0874-403a-b3fa-9e4dd363144d.jpg"
+        },
+        {
+          "titulo": "4G Solar Dual Lens Outdoor Camera",
+          "handle": "solar-outdoor-camera",
+          "preco": 135,
+          "imagem": "https://cdn.shopify.com/s/files/1/0699/1678/6978/files/0961b039-b29f-46cb-8618-af7685006c91.jpg"
+        }
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2023-03-09",
+      "dias_arquivados": 43,
+      "erro": null
+    },
+    "tranco": {
+      "rank_atual": 4645401,
+      "rank_antigo": 4516760,
+      "dias": 9,
+      "variacao": -128641,
+      "tendencia": "caindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 31,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "lightscordless": {
+        "seguidores": "8,319",
+        "posts": "114",
+        "raw": "8,319 Followers, 5 Following, 114 Posts - See Instagram photos and videos from &#064;lightscordless"
+      }
+    }
+  },
+  "shopmoderny.com": {
+    "dominio": "shopmoderny.com",
+    "coletado_em": "2026-10-23T01:17:53",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "clarity",
+        "gempages",
+        "gtag",
+        "gtm",
+        "klaviyo",
+        "loox",
+        "pinterest",
+        "rebuy",
+        "recharge",
+        "shop-pay",
+        "shoppay",
+        "snap",
+        "tiktok",
+        "triplewhale",
+        "vitals"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [],
+      "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+    },
+    "catalogo": {
+      "n_produtos": 250,
+      "n_variantes": 684,
+      "preco_min": 1.99,
+      "preco_mediana": 29.99,
+      "preco_max": 294.99,
+      "primeiro_produto": "2025-03-07",
+      "ultimo_produto": "2026-09-17",
+      "vendors": [
+        "Moderny"
+      ],
+      "tipos": [
+        "",
+        "Deal of the Day"
+      ],
+      "produtos": [
+        {
+          "titulo": "Fairy Cottage Desk Light",
+          "handle": "fairy-cottage-desk-light",
+          "preco": 29.99,
+          "publicado": "2026-09-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_3124e6e5-2392-4d91-9f8a-940ce499bb65.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Led Flower Fairy Lights",
+          "handle": "led-flower-fairy-lights",
+          "preco": 29.99,
+          "publicado": "2026-09-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_d853e1d2-6fd3-415e-b1da-6946e425ea04.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Seaglass Christmas Tree",
+          "handle": "seaglass-christmas-tree",
+          "preco": 19.99,
+          "publicado": "2026-09-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/6_a83acf07-0777-4e28-bc28-aee0495ad268.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Ceramic Mushroom Night Light",
+          "handle": "ceramic-mushroom-night-light",
+          "preco": 29.99,
+          "publicado": "2026-09-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/16_b6d73aa4-023d-4971-a707-1d065411dd27.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Reading Ghost Decoration",
+          "handle": "reading-ghost-decoration",
+          "preco": 14.99,
+          "publicado": "2026-09-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/7_6d0953c3-6314-4a12-acb6-1ebf904deea3.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Playful Cat Light Decoration",
+          "handle": "playful-cat-light-decoration",
+          "preco": 19.99,
+          "publicado": "2026-09-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/15_4b9095d0-78c5-43cc-9061-8fb5c90803ae.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Bloody Skull Lamp",
+          "handle": "bloody-skull-lamp",
+          "preco": 74.99,
+          "publicado": "2026-09-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/9_1df2cc8a-7077-48fe-be47-a73c5d2f2727.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Octopus Charcuterie Platter",
+          "handle": "octopus-charcuterie-platter",
+          "preco": 34.99,
+          "publicado": "2026-09-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/10_5f91ff49-063e-4f8f-a8eb-65a28a3657e2.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Ocean Serenity Candle",
+          "handle": "ocean-serenity-candle",
+          "preco": 29.99,
+          "publicado": "2026-09-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/01-hero-candidate.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Mermaid Lamp",
+          "handle": "mermaid-lamp",
+          "preco": 44.99,
+          "publicado": "2026-09-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/5_4fc06408-9544-44d9-a719-812f85b19fca.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "BoneBoogie™ | Dancing Skeleton Aquarium Ornament",
+          "handle": "boneboogie-dancing-skeleton-aquarium-ornament",
+          "preco": 14.99,
+          "publicado": "2026-09-07",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_4bac3c1f-0344-4eef-bfaf-4512edbfaba8.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Ocean Quilted Bedding Set",
+          "handle": "ocean-quilted-bedding-set",
+          "preco": 84.99,
+          "publicado": "2026-09-07",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/10_425de208-2e0a-431b-89ed-863437e689df.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Spooksy™ | Swinging Ghost",
+          "handle": "spooksy-swinging-ghost",
+          "preco": 39.99,
+          "publicado": "2026-08-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/22_4fdf3acc-2f1c-46be-abe5-09140ff198b4.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Pink Lotus Flower Pots",
+          "handle": "pink-lotus-flower-pots",
+          "preco": 19.99,
+          "publicado": "2026-08-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/6_0951fe32-2a08-4c52-8342-71f573f4fbee.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Rustic Birds Ornament",
+          "handle": "rustic-hand-painted-bird-ornament",
+          "preco": 29.99,
+          "publicado": "2026-08-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_d07d6d79-ece9-4c04-8f4a-1f3cb72751ce.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "PopJoy™ | Mini Popcorn Machine",
+          "handle": "popjoy-mini-popcorn-machine",
+          "preco": 69.99,
+          "publicado": "2026-08-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_019fc72e-6f6b-48a4-ad81-4ecd254da9cc.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "FireFlick™ | Matchstick Lighter",
+          "handle": "fireflick-matchstick-lighter",
+          "preco": 24.99,
+          "publicado": "2026-08-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_1cf77ffb-67d5-4263-8d6a-d954410c73b9.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Glowing Fruit Turtles",
+          "handle": "glowing-fruit-turtles",
+          "preco": 14.99,
+          "publicado": "2026-08-18",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/16_5bad6a79-92ee-49b1-919f-68d640f4e6d0.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Gothic Library Lamp",
+          "handle": "gothic-library-lamp",
+          "preco": 39.99,
+          "publicado": "2026-08-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/5_443fb1b6-be8e-4e07-8c2f-e9b17f56abc9.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Mouse Door Decor",
+          "handle": "mouse-door-decor",
+          "preco": 14.99,
+          "publicado": "2026-08-15",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_4c5ba720-1547-470f-ad7c-a81d4ea0b321.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "BuzzGlow™ | Mosquito Zapper Lantern",
+          "handle": "buzzglow-mosquito-zapper-lantern",
+          "preco": 34.99,
+          "publicado": "2026-08-07",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_e157d933-7e26-45cb-a080-27bec90cdb98.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Zen Frog",
+          "handle": "zen-frog",
+          "preco": 19.99,
+          "publicado": "2026-08-05",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/MODZenFrog_4631_2.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "FreshLock™ | Magnetic Chip Sealer",
+          "handle": "freshlock-magnetic-chip-sealer",
+          "preco": 24.99,
+          "publicado": "2026-07-24",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_8575b4d3-8c6b-4bf1-b70b-00dc4064568a.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "InstantStick™ | Wood Peelable Sticker",
+          "handle": "instantstick-wood-peelable-sticker",
+          "preco": 64.99,
+          "publicado": "2026-07-18",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/17_e6356834-29cc-4d0b-8d92-2f1eab568ae3.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Bottle Cap Gun",
+          "handle": "bottle-cap-gun",
+          "preco": 19.99,
+          "publicado": "2026-07-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/2_f2214f51-7b86-4371-928d-e93c54184a31.jpg",
+          "tipo": ""
+        }
+      ],
+      "nota": "limite de 250 produtos do endpoint publico"
+    },
+    "best_sellers": {
+      "colecao": "best-sellers",
+      "produtos": [
+        {
+          "titulo": "Multi-Functional Pants Rack",
+          "handle": "multi-functional-pants-rack",
+          "preco": 39.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/01-approved-hero.png"
+        },
+        {
+          "titulo": "Reversible Scandinavian Bird Throw Blanket",
+          "handle": "scandinavian-bird-throw-blanket",
+          "preco": 129.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/products/1_1_cb589240-8a2b-492a-9e18-c48c482ba31e.jpg"
+        },
+        {
+          "titulo": "Drawer Clothes Organizers",
+          "handle": "drawer-clothes-organizer",
+          "preco": 9.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/MODWardrobeClothesOrganizer_1703_e6431699-6c85-4925-8dba-4189304852b2.jpg"
+        },
+        {
+          "titulo": "Cotton Throw Pillow",
+          "handle": "pillow",
+          "preco": 14.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/products/C20AA87D-0AAD-4D09-B61F-1316B7BBF29B.jpg"
+        },
+        {
+          "titulo": "Stackable Storage Bins",
+          "handle": "stackable-storage-bins",
+          "preco": 69.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/01-hero-three-benefits.png"
+        },
+        {
+          "titulo": "Wooden Bamboo Jar",
+          "handle": "wooden-bamboo-jar",
+          "preco": 9.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/MODTransparentGlassMixedGrainSnackStorage_2448_711c65e4-337b-475f-9529-71b2d005880c.png"
+        },
+        {
+          "titulo": "Rustic Cushion Covers",
+          "handle": "rustic-cushion-covers",
+          "preco": 18,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/products/il_1588xN.2657175330_jki0.jpg"
+        },
+        {
+          "titulo": "Bookworm Sculpture",
+          "handle": "bookworm-sculpture",
+          "preco": 39.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/4_52cb9460-2461-4504-8e60-ed159f7109ba.jpg"
+        },
+        {
+          "titulo": "Creative Graffiti Elephant Figurine",
+          "handle": "creative-graffiti-elephant-figurine",
+          "preco": 44.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/products/5.jpg"
+        },
+        {
+          "titulo": "Grateful Fall Cushion Covers",
+          "handle": "grateful-fall-cushion-covers",
+          "preco": 18,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/products/D05B7977-7AA0-4D02-976A-AEF249877613.jpg"
+        },
+        {
+          "titulo": "Lazy Duck Night Light",
+          "handle": "lazy-duck-night-light",
+          "preco": 49.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/4_f09f8682-317f-424f-91d5-93a6de413d48.jpg"
+        },
+        {
+          "titulo": "Hinged Flower Vase",
+          "handle": "hinged-flower-vase",
+          "preco": 24.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0410/2160/4007/files/5_2f6f799e-5525-4258-8021-48d2b620778b.jpg"
+        }
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2022-10-04",
+      "dias_arquivados": 90,
+      "erro": null
+    },
+    "tranco": {
+      "rank_atual": 2391563,
+      "rank_antigo": 4341004,
+      "dias": 39,
+      "variacao": 1949441,
+      "tendencia": "subindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 5,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {}
+  },
+  "pikazo.co": {
+    "dominio": "pikazo.co",
+    "coletado_em": "2026-10-23T01:18:00",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "clarity",
+        "gtag",
+        "gtm",
+        "hotjar",
+        "judge.me",
+        "klaviyo",
+        "pinterest",
+        "snap",
+        "stamped",
+        "tiktok",
+        "triplewhale",
+        "upcart"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://www.instagram.com/pikazo.co",
+        "https://www.pinterest.com/pikazoco",
+        "https://www.tiktok.com/@theofficialpikazo",
+        "https://www.youtube.com/@pikazo-co"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 107,
+      "n_variantes": 420,
+      "preco_min": 34.99,
+      "preco_mediana": 130,
+      "preco_max": 750,
+      "primeiro_produto": "2025-07-14",
+      "ultimo_produto": "2026-09-14",
+      "vendors": [
+        "IN STOCK 🟢",
+        "ARTIST: AMSNO",
+        "ARTIST: RMOTY",
+        "ARTIST: DOKTORKLEIN",
+        "ARTIST: XPONENTIALDESIGN"
+      ],
+      "tipos": [
+        ""
+      ],
+      "produtos": [
+        {
+          "titulo": "REGULAR FRAME - 18 x 24 INCHES",
+          "handle": "regular-frame-18-x-24-inches",
+          "preco": 34.99,
+          "publicado": "2026-09-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18x24_1296x_3aa8bf6d-a4a8-484b-943e-928115a0602d.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "REGULAR FRAME - 18 x 18 INCHES",
+          "handle": "regular-frame-18-x-24-inches-1",
+          "preco": 34.99,
+          "publicado": "2026-09-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/freepik_18-x-18-inch-sleek-thin-black-frame-no-matt-presented-on-a-seamless-white-backdrop-overhead-lighting-highkey-product-photo_0001.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "COLD TRUTH",
+          "handle": "cold-truth",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME_-_COLD_TRUTH.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "FULL BURN",
+          "handle": "full-burn",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME_-_FILL_BURN.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "OCCUPIED",
+          "handle": "occupied",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME_-_OCCUPIED.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "DOLMEN",
+          "handle": "dolmen",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME-_DOLMEN.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "KAMI-NEKO",
+          "handle": "hemera-copy",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME_-_KAMI-NEKO.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "HEMERA",
+          "handle": "hemera",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME_-_HEMERA.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "AZURE",
+          "handle": "azure",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME_-_AZURE.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "RIVIERA",
+          "handle": "riviera",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_24_MOCKUP_-_BLACK_FRAME_-_RIVIERA.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "APEX",
+          "handle": "apex",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_18_MOCKUP_-_BLACK_FRAME_-_APEX.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "GEODE",
+          "handle": "geode",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_18_MOCKUP_-_BLACK_FRAME_-_GEODE.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "TESSERACT",
+          "handle": "tesseract",
+          "preco": 105,
+          "publicado": "2026-08-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/18_x_18_MOCKUP_-_BLACK_FRAME_-_TESSERACT.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "SPORIC",
+          "handle": "sporic",
+          "preco": 105,
+          "publicado": "2026-07-31",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/SPORIC_8941053968581.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "PYRALIS",
+          "handle": "pyralis",
+          "preco": 105,
+          "publicado": "2026-07-31",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/PYRALIS_8941066813637.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "SOLARIS",
+          "handle": "solaris",
+          "preco": 105,
+          "publicado": "2026-07-31",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/SOLARIS_8941065732293.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "AMETHYST",
+          "handle": "amethyst",
+          "preco": 105,
+          "publicado": "2026-07-31",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/AMETHYST_8941065306309.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "CHLORIS",
+          "handle": "chloris",
+          "preco": 105,
+          "publicado": "2026-07-31",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/CHLORIS_8941064749253.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "STELLARIS",
+          "handle": "stellaris",
+          "preco": 105,
+          "publicado": "2026-07-31",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/STELLARIS_8941064454341.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "TWISTED TORUS",
+          "handle": "twisted-torus",
+          "preco": 105,
+          "publicado": "2026-07-31",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/TWISTED_TORUS_8941061931205.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "EMISSION",
+          "handle": "emission",
+          "preco": 105,
+          "publicado": "2026-07-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/EMISSION_8941057802437.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "STRIKE FLASH",
+          "handle": "strike-flash",
+          "preco": 105,
+          "publicado": "2026-07-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/STRIKE_FLASH_8941063766213.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "ABSTRAKT",
+          "handle": "abstrakt",
+          "preco": 105,
+          "publicado": "2026-07-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/ABSTRAKT_8941062619333.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "LED LIGHTBOX FRAME",
+          "handle": "led-lightbox-frame",
+          "preco": 189.99,
+          "publicado": "2026-07-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/ezgif.com-animated-gif-maker_2.gif",
+          "tipo": ""
+        },
+        {
+          "titulo": "GIFT CARD",
+          "handle": "gift-card",
+          "preco": 100,
+          "publicado": "2026-06-29",
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/magnific_cozy-premium-product-phot_EqoIaSVuuO.png",
+          "tipo": ""
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "colecao": "best-sellers",
+      "produtos": [
+        {
+          "titulo": "MESSI",
+          "handle": "messi",
+          "preco": 90,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/Messi-gif.gif"
+        },
+        {
+          "titulo": "STEPHEN CURRY - 1st Edition",
+          "handle": "stephen-curry",
+          "preco": 110,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/1Steph_Curry.gif"
+        },
+        {
+          "titulo": "CRISTIANO RONALDO - SPOTLIGHT SIUUU",
+          "handle": "ronaldo-1",
+          "preco": 90,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/ezgif.com-resize_6_1.gif"
+        },
+        {
+          "titulo": "BMW M3 EVOLUTION",
+          "handle": "bmw",
+          "preco": 100,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/BMW-gif.gif"
+        },
+        {
+          "titulo": "ANTHONY EDWARDS - 1st Edition",
+          "handle": "anthony-edwards",
+          "preco": 100,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/4AnthonyEdwards.gif"
+        },
+        {
+          "titulo": "LUKA DONCIC - 1st Edition",
+          "handle": "luka-doncic",
+          "preco": 100,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/2Luka_Doncic.gif"
+        },
+        {
+          "titulo": "SHAI GILGEOUS-ALEXANDER - 1st Edition",
+          "handle": "shai-gilgeous-alexander",
+          "preco": 100,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/8SGA.gif"
+        },
+        {
+          "titulo": "JAYSON TATUM - 1st Edition",
+          "handle": "jayson-tatum",
+          "preco": 100,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/7JaysonTatum.gif"
+        },
+        {
+          "titulo": "CRISTIANO RONALDO - CELEBRATION",
+          "handle": "ronaldo-v2",
+          "preco": 90,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/Ronaldo_Jumping-gif.gif"
+        },
+        {
+          "titulo": "CONOR MCGREGOR",
+          "handle": "mcgregor",
+          "preco": 90,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/CONNOR-gif.gif"
+        },
+        {
+          "titulo": "KYLIAN MBAPPÉ",
+          "handle": "kylian-mbappe",
+          "preco": 90,
+          "imagem": "https://cdn.shopify.com/s/files/1/0639/7729/1973/files/MBAPPE_FINAL-4.gif"
+        }
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2024-03-08",
+      "dias_arquivados": 25,
+      "erro": null
+    },
+    "tranco": {
+      "rank_atual": 582396,
+      "rank_antigo": 578905,
+      "dias": 39,
+      "variacao": -3491,
+      "tendencia": "caindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 5,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "pikazo.co": {
+        "seguidores": "61K",
+        "posts": "104",
+        "raw": "61K Followers, 1,193 Following, 104 Posts - See Instagram photos and videos from PIKAZO (&#064;pikazo.co)"
+      }
+    }
+  },
+  "twinklingtree.com": {
+    "dominio": "twinklingtree.com",
+    "coletado_em": "2026-10-23T01:18:09",
+    "identificacao": {
+      "plataforma": "?",
+      "apps": [
+        "clarity",
+        "gtm",
+        "klaviyo",
+        "pinterest",
+        "snap",
+        "stamped"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://www.facebook.com/twinklingtree",
+        "https://www.instagram.com/twinklingtree"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "erro": "products.json inacessivel ou vazio"
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2018-05-29",
+      "dias_arquivados": 113,
+      "erro": null
+    },
+    "tranco": {
+      "rank_atual": 163972,
+      "rank_antigo": 293137,
+      "dias": 39,
+      "variacao": 129165,
+      "tendencia": "subindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 0,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": "sitemap inacessivel"
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "twinklingtree": {
+        "seguidores": "134K",
+        "posts": "33",
+        "raw": "134K Followers, 56 Following, 33 Posts - See Instagram photos and videos from TwinklingTree&#x2122; (&#064;twinklingtree)"
+      }
+    }
+  },
+  "buffalodepot.co": {
+    "dominio": "buffalodepot.co",
+    "coletado_em": "2026-10-23T01:18:28",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "gtag",
+        "klaviyo",
+        "pinterest",
+        "recharge",
+        "stamped",
+        "tiktok",
+        "zipify"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://instagram.com/buffalodepot",
+        "https://tiktok.com/buffalodepot",
+        "https://www.pinterest.com/buffalodepot"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 132,
+      "n_variantes": 179,
+      "preco_min": 5.99,
+      "preco_mediana": 195,
+      "preco_max": 2300,
+      "primeiro_produto": "2024-08-16",
+      "ultimo_produto": "2026-10-21",
+      "vendors": [
+        "Buffalo Depot",
+        "Trahide",
+        "Leather Honey",
+        "Kalmar Home"
+      ],
+      "tipos": [
+        "Buffalo / Bison Hide",
+        "sheepskin",
+        "Buffalo / Bison Rug",
+        "",
+        "brush",
+        "cowhide pillow",
+        "Leather Care",
+        "Leather Conditioner",
+        "Leather Cleaner",
+        "Cowhide Christmas Tree Skirt"
+      ],
+      "produtos": [
+        {
+          "titulo": "American Bison Hair On Hide – Deluxe Rug Or Bed Cover (Extra Large)",
+          "handle": "buffalo-bison-rug-hide-deluxe-xl",
+          "preco": 2300,
+          "publicado": "2026-10-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/5_e3d86121-2aa7-40df-9216-c877b0f1e588.png",
+          "tipo": "Buffalo / Bison Hide"
+        },
+        {
+          "titulo": "Rusty Brown Icelandic Sheepskin",
+          "handle": "rusty-brown-icelandic-sheepskin-copy",
+          "preco": 295,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/FullSizeRender_29e0ae5b-e215-4dea-a212-cb3a5c5e059e.jpg",
+          "tipo": "sheepskin"
+        },
+        {
+          "titulo": "Golden Brown Icelandic Sheepskin",
+          "handle": "golden-brown-icelandic-sheepskin",
+          "preco": 245,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-9412.png",
+          "tipo": "sheepskin"
+        },
+        {
+          "titulo": "Brown Sheepskin Throw Pillow | Genuine Icelandic Sheepskin | 16\" x 16\"",
+          "handle": "brown-sheepskin-throw-pillow-genuine-icelandic-sheepskin-16-x-16",
+          "preco": 97,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/2B5191AB-91EC-4F2E-BAB5-4D7CEAF491BC.png",
+          "tipo": "Buffalo / Bison Hide"
+        },
+        {
+          "titulo": "Round Bison Christmas Tree Skirt with Cowhide Star & Trim - Black & White, 3.5'",
+          "handle": "round-bison-christmas-tree-skirt-with-cowhide-star-trim-black-speckled-3-5",
+          "preco": 180,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/CircularCowhideStarburstTreeSkirt.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Round Bison Christmas Tree Skirt with Cowhide Star & Trim - Tricolor, 3.5'",
+          "handle": "round-bison-christmas-tree-skirt-with-cowhide-star-trim-tricolor-3-5",
+          "preco": 180,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/Circular_Cowhide_Starburst_Rug.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Round Bison Christmas Tree Skirt with Cowhide Star & Trim - Brown and White, 3.5'",
+          "handle": "round-bison-christmas-tree-skirt-with-cowhide-star-trim-brown-and-white-3-5",
+          "preco": 180,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/Star-Pattern_Cowhide_Fur_Tree_Skirt.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Brown Sheepskin Throw Pillow | Genuine Icelandic Sheepskin Shorn Hair | 16\" x 16\"",
+          "handle": "sheepskin-pillow-brown-16x16",
+          "preco": 97,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/Brown-sheepskin_pillow_cushion.png",
+          "tipo": "Buffalo / Bison Hide"
+        },
+        {
+          "titulo": "Taupe Icelandic Sheepskin",
+          "handle": "taupe-icelandic-sheepskin",
+          "preco": 235,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-9391.png",
+          "tipo": "sheepskin"
+        },
+        {
+          "titulo": "Red Icelandic Sheepskin",
+          "handle": "red-icelandic-sheepskin",
+          "preco": 235,
+          "publicado": "2026-10-19",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-9372.jpg",
+          "tipo": "sheepskin"
+        },
+        {
+          "titulo": "Rectangle Bison Hide Patchwork Rug – Natural Finish - 2'x3'",
+          "handle": "rectangle-bison-hide-patchwork-rug-natural-finish-2x3",
+          "preco": 375,
+          "publicado": "2026-10-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/427B1668-BB62-4949-AF4F-A150BECFF9D5.jpg",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Rectangle Bison Hide Patchwork Rug – Natural Finish (4' x 3')",
+          "handle": "rectangle-western-rug-bison-edge-2x3",
+          "preco": 560,
+          "publicado": "2026-10-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/HidesandLeathersBuffalo-4x3-patchwork_rug.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Brazilian Cowhide Leather Stool with Eucalyptus Wood Legs - 15\"x16\"",
+          "handle": "brazilian-cowhide-leather-stool-with-eucalyptus-wood-legs-15x16",
+          "preco": 185,
+          "publicado": "2026-10-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/9794A955-D33D-4F5A-9191-18E1CA9D7CBB.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Brazilian Cowhide Leather Stool with Eucalyptus Wood Legs",
+          "handle": "brazilian-cowhide-leather-stool-with-eucalyptus-wood-legs",
+          "preco": 185,
+          "publicado": "2026-10-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/EE6D2141-FF5B-4CCA-B817-C247AF3C549D.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Round Bison Christmas Tree Skirt with Cowhide Star & Trim - Black & White",
+          "handle": "round-bison-christmas-tree-skirt-with-cowhide-star-trim-black-white-5",
+          "preco": 180,
+          "publicado": "2026-10-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/CircularCowhideStarburstTreeSkirt.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Round Bison Christmas Tree Skirt with Cowhide Star & Trim - Tricolor",
+          "handle": "round-bison-christmas-tree-skirt-with-cowhide-star-trim-tricolor-3-5-copy",
+          "preco": 180,
+          "publicado": "2026-10-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/Circular_Cowhide_Starburst_Rug.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Round Bison Christmas Tree Skirt with Cowhide Star & Trim - Tricolor",
+          "handle": "round-bison-christmas-tree-skirt-with-cowhide-star-trim-tricolor-5",
+          "preco": 180,
+          "publicado": "2026-10-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/Star-Pattern_Cowhide_Fur_Tree_Skirt.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Gray Icelandic Sheepskin",
+          "handle": "gray-icelandic-sheepskin",
+          "preco": 235,
+          "publicado": "2026-10-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/CozyCognacChairwithGraySheepskin_2ca32fab-e6fc-456b-9ad9-b882106d0a3c.png",
+          "tipo": "sheepskin"
+        },
+        {
+          "titulo": "Brown Plush Icelandic Sheepskin",
+          "handle": "brown-plush-icelandic-sheepskin",
+          "preco": 235,
+          "publicado": "2026-10-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/E83BE6A9-B8F3-4DD3-B82E-DF097275D2AB.png",
+          "tipo": "sheepskin"
+        },
+        {
+          "titulo": "Rectangle Bison Patchwork Runner with Cowhide Trim - Brown and White, 1'x6'",
+          "handle": "rectangle-bison-patchwork-runner-with-cowhide-trim-brown-and-white-1x6-copy-1",
+          "preco": 240,
+          "publicado": "2026-09-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-8716.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Rectangle Bison Patchwork Runner with Cowhide Trim - Black and White, 1'x6'",
+          "handle": "rectangle-bison-patchwork-runner-with-cowhide-trim-tricolor-1x6-copy",
+          "preco": 240,
+          "publicado": "2026-09-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-8714.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Rectangle Bison Patchwork Runner with Cowhide Trim - Tricolor, 1'x6'",
+          "handle": "rectangle-bison-patchwork-runner-with-cowhide-trim-brown-and-white-1x6-copy",
+          "preco": 240,
+          "publicado": "2026-09-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-8711.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Rectangle Cowhide Patchwork Runner with Bison Trim - Brindle, 1'x6'",
+          "handle": "rectangle-cowhide-patchwork-area-rug-with-bison-trim-brown-and-white-1x6-copy",
+          "preco": 225,
+          "publicado": "2026-09-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-8708.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Rectangle Cowhide Patchwork Runner with Bison Trim - Brown and White, 1'x6'",
+          "handle": "rectangle-cowhide-patchwork-area-rug-with-bison-trim-brown-and-white-1x6",
+          "preco": 225,
+          "publicado": "2026-09-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/IMG-8707.png",
+          "tipo": "Buffalo / Bison Rug"
+        },
+        {
+          "titulo": "Rectangle Cowhide Patchwork Runner with Bison Trim - Black and White, 1'x6'",
+          "handle": "rectangle-cowhide-patchwork-area-rug-with-bison-trim-black-and-white-1x6",
+          "preco": 225,
+          "publicado": "2026-09-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/A6E870A7-47F5-48F9-BE95-A7824132443C.png",
+          "tipo": "Buffalo / Bison Rug"
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "colecao": "best-sellers",
+      "produtos": [
+        {
+          "titulo": "American Bison Hair On Hide – Deluxe Rug Or Bed Cover (Large)",
+          "handle": "buffalo-bison-rug-hide-deluxe-large",
+          "preco": 1895,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/Buffalo-Depot-Large-Bison-Hide-Robe.jpg"
+        },
+        {
+          "titulo": "American Bison Hair On Hide – Deluxe Rug Or Bed Cover (Extra Large)",
+          "handle": "buffalo-bison-rug-hide-deluxe-xl",
+          "preco": 2300,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/5_e3d86121-2aa7-40df-9216-c877b0f1e588.png"
+        },
+        {
+          "titulo": "Nordic Reindeer Hides XL",
+          "handle": "reindeer-hides-indoor",
+          "preco": 440,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/4-buffalo-depot-reindeer-norwegian.png"
+        },
+        {
+          "titulo": "Nordic Reindeer Hide | Outdoor Weather-Resistant",
+          "handle": "reindeer-hides-outdoor-quality",
+          "preco": 465,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/hf_20260115_175444_838e841f-2243-409c-841b-619ddf948f3d.png"
+        },
+        {
+          "titulo": "Round Plush Bison Rugs",
+          "handle": "buffalo-bison-round-rugs",
+          "preco": 1040,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/bison-round-rug-hide-buffalo-depot_bd543ab8-0323-473f-b655-1379661a1d53.png"
+        },
+        {
+          "titulo": "Buffalo / Bison Rug & Hide - Standard / First Grade  - Large",
+          "handle": "buffalo-rug-hide-first-grade-large-without-tail",
+          "preco": 1385,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/buffalo-rug-natural_774dc1e3-06a8-4f89-9969-fdee72e0f30a.png"
+        },
+        {
+          "titulo": "Axis Deer Hair on Hide | Standard Grade Spotted Fawn Pattern",
+          "handle": "genuine-axis-deer-hide-second-grade-good",
+          "preco": 495,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/axis-deer-hide.png"
+        },
+        {
+          "titulo": "Plush Argentinian Sheepskin",
+          "handle": "argentinian-sheepskin-rug-2x2-5",
+          "preco": 95,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/CF128EA4-B29B-4F1D-9627-0ECA8F92C810.jpg"
+        },
+        {
+          "titulo": "Buffalo / Bison Hide Figurine",
+          "handle": "buffalo-figurine",
+          "preco": 65,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/59467E0D-2EBB-4EAC-AB0C-40F90718E49F.png"
+        },
+        {
+          "titulo": "Authentic American Bison Skull- Rustic Wall Decor",
+          "handle": "rustic-genuine-bison-skull",
+          "preco": 610,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/Bison-Buffalo-skull-buffalodepot.png"
+        },
+        {
+          "titulo": "Genuine Square Cowhide Pillow Tricolor",
+          "handle": "cowhide-pillow-cover-tricolor",
+          "preco": 155,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/geniuine-cowhide-pillow-sqaure.png"
+        },
+        {
+          "titulo": "Premium Angora Goat Hides - Natural",
+          "handle": "premium-angora-goat-hides-natural",
+          "preco": 295,
+          "imagem": "https://cdn.shopify.com/s/files/1/0705/2394/5182/files/angora-hair-on-hide-goat-natural-buffalo-depot.png"
+        }
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2024-07-24",
+      "dias_arquivados": 15,
+      "erro": null
+    },
+    "tranco": {
+      "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+    },
+    "sitemap": {
+      "total_urls": 6,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "buffalodepot": {
+        "seguidores": "43",
+        "posts": "16",
+        "raw": "43 Followers, 28 Following, 16 Posts - See Instagram photos and videos from Buffalo Depot&#x2122; (&#064;buffalodepot)"
+      }
+    }
+  },
+  "blumiful.com": {
+    "dominio": "blumiful.com",
+    "coletado_em": "2026-10-23T01:18:41",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "vitals"
+      ],
+      "pixel_meta": [
+        "1582459110080761"
+      ],
+      "perfis_sociais": [
+        "https://www.facebook.com/tr"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 2,
+      "n_variantes": 5,
+      "preco_min": 8,
+      "preco_mediana": 56,
+      "preco_max": 56,
+      "primeiro_produto": "2026-08-13",
+      "ultimo_produto": "2026-08-17",
+      "vendors": [
+        "Blumiful",
+        "Camp Lamp"
+      ],
+      "tipos": [
+        "",
+        "UpCart - Shipping Protection"
+      ],
+      "produtos": [
+        {
+          "titulo": "Glowing Tulip Light Bouquet",
+          "handle": "glowingtulip",
+          "preco": 56,
+          "publicado": "2026-08-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/1062/6757/4612/files/fasdfasdfdsf.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Shipping Protection",
+          "handle": "shipping-protection",
+          "preco": 8,
+          "publicado": "2026-08-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/1062/6757/4612/files/fsdfsdfdsfsd.webp",
+          "tipo": "UpCart - Shipping Protection"
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": null,
+      "dias_arquivados": -1,
+      "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+    },
+    "tranco": {
+      "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+    },
+    "sitemap": {
+      "total_urls": 5,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {}
+  },
+  "lumiosastore.com": {
+    "dominio": "lumiosastore.com",
+    "coletado_em": "2026-10-23T01:18:53",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "clarity",
+        "gtag",
+        "judge.me",
+        "klarna",
+        "pinterest",
+        "recharge"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/lumiosadesign",
+        "https://www.youtube.com/@lumiosadesign"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 131,
+      "n_variantes": 577,
+      "preco_min": 0.98,
+      "preco_mediana": 125,
+      "preco_max": 571.5,
+      "primeiro_produto": "2025-06-09",
+      "ultimo_produto": "2026-10-21",
+      "vendors": [
+        "LUMIOSA DESIGN",
+        "LUMIOSA",
+        "Seel"
+      ],
+      "tipos": [
+        "Table Lamp",
+        "home decor",
+        "Rechargeable Table Lamp",
+        "Lava Lamps",
+        "",
+        "Lava Lamp",
+        "Lighting Accessories",
+        "SEEL-WFP",
+        "Cleaning Accessory",
+        "Outdoor Lighting"
+      ],
+      "produtos": [
+        {
+          "titulo": "Sculptural Orange Acrylic Table Lamp | Lumiosa Design",
+          "handle": "sculptural-orange-acrylic-table-lamp",
+          "preco": 279,
+          "publicado": "2026-10-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_6839.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Realistic Resin Fireplace Logs – Decorative Ember Lights",
+          "handle": "realistic-resin-fireplace-logs-plug-in-set",
+          "preco": 145,
+          "publicado": "2026-10-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_0951.jpg",
+          "tipo": "home decor"
+        },
+        {
+          "titulo": "Sculptural Cordless Dining Table Lamp – Solar & USB-C Charging",
+          "handle": "cordless-dining-table-lamp",
+          "preco": 85,
+          "publicado": "2026-10-18",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/generated-image_a5ccc674-dc74-4ed8-b094-ced65ffa9735.png",
+          "tipo": "Rechargeable Table Lamp"
+        },
+        {
+          "titulo": "Christmas Tree Lava Lamp – Festive Ambient Table Light",
+          "handle": "christmas-tree-lava-lamp",
+          "preco": 129,
+          "publicado": "2026-10-18",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/generated-image_1b40a8bd-dda4-4010-ae57-54eeebc8fef4.png",
+          "tipo": "Lava Lamps"
+        },
+        {
+          "titulo": "Lumiosa™ Cordless Acrylic Table Lamp, 2700K Warm Light",
+          "handle": "cordless-rechargeable-acrylic-table-lamp",
+          "preco": 75,
+          "publicado": "2026-10-15",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/high-res-white-background-product-shot.png",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Umbrella Metal Table Lamp",
+          "handle": "umbrella-metal-table-lamp",
+          "preco": 75,
+          "publicado": "2026-10-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/generated-image_8.png",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Lumiosa™ Lava Lamp Replacement Base | Metal Stand for Classic Lava Lamps",
+          "handle": "products-lumiosa-lava-lamp-replacement-base",
+          "preco": 56,
+          "publicado": "2026-07-29",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/replacement-base.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Lumiosa™ Solis Rechargeable Table Lamp – Touch Dimmable Cordless LED",
+          "handle": "solis-rechargeable-candle-table-lamp",
+          "preco": 159,
+          "publicado": "2026-06-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_3348.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "14\" RGB Color Changing Lava Lamp with Remote Control | Lumiosa",
+          "handle": "rgb-color-changing-lava-lamp-remote-control",
+          "preco": 151.5,
+          "publicado": "2026-06-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/rgb-color-changing-lava-lamp-remote-control.jpg",
+          "tipo": "Lava Lamp"
+        },
+        {
+          "titulo": "Lumiosa™ Bauhaus Halo Table Lamp | Designer Ambient Lighting for Modern Interiors",
+          "handle": "bauhaus-halo-table-lamp",
+          "preco": 169,
+          "publicado": "2026-06-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_3043.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Cordless Rechargeable Table Lamp with Fabric Shade | Lumiosa",
+          "handle": "cordless-rechargeable-fabric-table-lamp",
+          "preco": 159,
+          "publicado": "2026-06-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/white-background-product-image.png",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Smart Sleep Night Light with Timer & Breathing Mode | Lumiosa",
+          "handle": "smart-sleep-night-light",
+          "preco": 75,
+          "publicado": "2026-06-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_6137-2.png",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Lumiosa™ French Cream Mushroom Table Lamp | Retro Decorative Ambient Light",
+          "handle": "french-cream-mushroom-table-lamp",
+          "preco": 129,
+          "publicado": "2026-06-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_0072.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Scandinavian Glass Table Lamp | Ambient Designer Light | Lumiosa",
+          "handle": "scandinavian-glass-table-lamp",
+          "preco": 229,
+          "publicado": "2026-06-05",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_25312.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Bauhaus Halo Glass Table Lamp | Cordless Designer Light | Lumiosa",
+          "handle": "bauhaus-halo-glass-table-lamp",
+          "preco": 129,
+          "publicado": "2026-06-05",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_2521_2.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "E14 / E17 R39 Lava Lamp Replacement Bulb – 30W Incandescent",
+          "handle": "e14-r39-lava-lamp-replacement-bulb",
+          "preco": 12.99,
+          "publicado": "2026-06-05",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_2472.jpg",
+          "tipo": "Lighting Accessories"
+        },
+        {
+          "titulo": "Mid-Century Industrial Adjustable Desk Lamp | Lumiosa",
+          "handle": "mid-century-industrial-articulated-table-lamp",
+          "preco": 269,
+          "publicado": "2026-05-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_3844.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Silk Shade Table Lamp | Modern Vintage Ambient Bedside Light | Lumiosa",
+          "handle": "silk-shade-table-lamp",
+          "preco": 229,
+          "publicado": "2026-05-22",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_1784.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Acrylic Baroque Table Lamp, 19\" Decorative Ambient Lighting",
+          "handle": "acrylic-baroque-style-table-lamp-19-inch",
+          "preco": 188,
+          "publicado": "2026-05-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/1-1-white-background.png",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Genuine Marble Rechargeable Table Lamp | Quiet Luxury Cordless Ambient Light",
+          "handle": "luxury-marble-rechargeable-table-lamp",
+          "preco": 219,
+          "publicado": "2026-05-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_1713_040424f8-3160-4f7b-990a-3109573527d4.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Wabi-Sabi Wooden Table Lamp – 40cm Bedside Ambient Light | Japandi Rustic Lamp | Lumiosa",
+          "handle": "wabi-sabi-wooden-table-lamp-40cm",
+          "preco": 229,
+          "publicado": "2026-05-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_16932.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Wabi-Sabi Table Lamp",
+          "handle": "wabi-sabi-ceramic-table-lamp",
+          "preco": 289.5,
+          "publicado": "2026-05-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_16562.jpg",
+          "tipo": "Table Lamp"
+        },
+        {
+          "titulo": "Worry-Free Purchase",
+          "handle": "worry-free-purchase",
+          "preco": 0.98,
+          "publicado": "2026-05-18",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/Worry-Free-Purchase.png",
+          "tipo": "SEEL-WFP"
+        },
+        {
+          "titulo": "Jellyfish Aquarium Lamp – Floating LED Jellyfish Night Light, 7 Colors",
+          "handle": "lumiosa-sensory-jellyfish-square-tank",
+          "preco": 129.5,
+          "publicado": "2026-04-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_0088.jpg",
+          "tipo": "home decor"
+        },
+        {
+          "titulo": "Lumiosa Star Messenger Lamp – Cordless Resin Night Light, 3 Color Touch Lamp",
+          "handle": "lumiosa-star-messenger-aesthetic-silicone-night-light",
+          "preco": 129,
+          "publicado": "2026-04-17",
+          "imagem": "https://cdn.shopify.com/s/files/1/0710/5039/5845/files/IMG_9707.jpg",
+          "tipo": "Table Lamp"
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": "2025-07-12",
+      "dias_arquivados": 3,
+      "erro": null
+    },
+    "tranco": {
+      "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+    },
+    "sitemap": {
+      "total_urls": 11,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "lumiosadesign": {
+        "seguidores": "153",
+        "posts": "608",
+        "raw": "153 Followers, 64 Following, 608 Posts - See Instagram photos and videos from Lumiosa Design (&#064;lumiosadesign)"
+      }
+    }
+  },
+  "lojas": [
+    {
+      "slug": "creative-lighting",
+      "dominio": "creative.lighting",
+      "ativos": 707,
+      "historico": 2587,
+      "sobrevivencia_pct": 27.3,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "MÉDIO",
+      "produto_campeao": {
+        "titulo": "BottleGlow™",
+        "handle": "bottleglow",
+        "preco": "DKK 231 (≈ $33)"
+      },
+      "faturamento_estimado_usd": 387222,
+      "confianca": "medido",
+      "snapshot_em": "2026-10-22"
+    },
+    {
+      "slug": "kiyo-home",
+      "dominio": "kiyohome.com",
+      "ativos": 447,
+      "historico": 1598,
+      "sobrevivencia_pct": 28,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "MÉDIO",
+      "produto_campeao": {
+        "titulo": "Metallic Mushroom Table Lamp",
+        "handle": "mushroom-led-lamp",
+        "preco": "$80,00"
+      },
+      "faturamento_estimado_usd": 27599,
+      "confianca": "triangulado",
+      "snapshot_em": "2026-10-22"
+    },
+    {
+      "slug": "stockholm-lights",
+      "dominio": "lightsstockholm.com",
+      "ativos": 328,
+      "historico": 11721,
+      "sobrevivencia_pct": 2.8,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP PURO",
+      "nivel": "MÉDIO",
+      "produto_campeao": {
+        "titulo": "Stockholm | Buy 1 Get 1 Free",
+        "handle": "table-lamp-stockholm-buy1-get-1free",
+        "preco": "$149,00 (o par)"
+      },
+      "faturamento_estimado_usd": 35897,
+      "confianca": "medido (SimilarWeb exibiu piso arredondado)",
+      "snapshot_em": "2026-10-22"
+    },
+    {
+      "slug": "popular-lighting",
+      "dominio": "popular.lighting",
+      "ativos": 237,
+      "historico": 824,
+      "sobrevivencia_pct": 28.8,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "MÉDIO",
+      "produto_campeao": {
+        "titulo": "Brilliance - Table Lamp",
+        "handle": "brilliance",
+        "preco": "$159,00 (o par, em BOGO)"
+      },
+      "faturamento_estimado_usd": 17857,
+      "confianca": "triangulado",
+      "snapshot_em": "2026-10-22"
+    },
+    {
+      "slug": "lightscordless",
+      "dominio": "lightscordless.com",
+      "ativos": 17,
+      "historico": 52,
+      "sobrevivencia_pct": 32.7,
+      "veredito": "OBSERVAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "INICIANTE",
+      "produto_campeao": {
+        "titulo": "LED Retro Fabric Cordless Table Lamp",
+        "handle": "led-retro-fabric-cordless-table-lamp",
+        "preco": "$59,99"
+      },
+      "faturamento_estimado_usd": 34749,
+      "confianca": "triangulado",
+      "snapshot_em": "2026-10-22"
+    }
+  ],
+  "decisao_mercado": {
+    "pais": "Estados Unidos (US)",
+    "moeda": "USD",
+    "idioma": "en"
+  },
+  "contexto_marcas": [
+    {
+      "nome": "Pottery Barn, West Elm, Jonathan Adler",
+      "dominio": "potterybarn.com · westelm.com · jonathanadler.com",
+      "leitura": "MARCA de varejo com loja física e estoque próprio. Aparecem nos termos amplos (\"home decor\", \"table lamp\"), mas não são molde para quem começa.",
+      "amostra": 19
+    },
+    {
+      "nome": "Pooky / Loftie",
+      "dominio": "us.pooky.com · loftie.com",
+      "leitura": "MARCA: Pooky é marca inglesa de iluminação (\"Cordless Thimble Table Lamp\"); Loftie vende um despertador-abajur proprietário. Validam o ângulo sem fio, não são replicáveis.",
+      "amostra": 21
+    },
+    {
+      "nome": "Moderny (Home Decor Emporium)",
+      "dominio": "shopmoderny.com",
+      "leitura": "Loja geral de casa com o anúncio mais longevo da galeria (648 dias, cabideiro de calças). Fora do recorte de iluminação.",
+      "amostra": 2
+    },
+    {
+      "nome": "Wander Prints / Macorner",
+      "dominio": "wanderprints.com · macorner.co",
+      "leitura": "Presente personalizado sob demanda (enfeite, manta). Anúncios de 380 a 646 dias, mas exige personalizador e fornecedor de impressão: nível avançado.",
+      "amostra": 16
+    },
+    {
+      "nome": "Pikazo",
+      "dominio": "pikazo.co",
+      "leitura": "Quadro cinético (\"Your walls can move without a single wire\"), mediana de $130, Triple Whale, 61 mil seguidores. Oportunidade de arte de parede, mas de ticket alto e criativo caro.",
+      "amostra": 10
+    },
+    {
+      "nome": "Breck + Fox",
+      "dominio": "breckandfox.com",
+      "leitura": "Curadoria de decoração cara (mediana $80, até $862), 22 mil seguidores, abajur cogumelo de madeira em anúncio de 71 dias. SimilarWeb sem dados.",
+      "amostra": 4
+    }
+  ]
+}

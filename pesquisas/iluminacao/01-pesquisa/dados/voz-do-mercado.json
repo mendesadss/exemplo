@@ -1,0 +1,59 @@
+{
+  "coletado_em": "2026-10-22",
+  "metodo": "WebSearch (Reddit nao retornou threads indexadas nas 4 buscas; usadas reviews de varejo agregadas, foruns de oferta Slickdeals, revistas de casa americanas e dados do Census via analises secundarias)",
+  "achados": [
+    {
+      "tema": "Bateria anunciada x bateria real",
+      "citacao": "I wish they could be brighter, and only a few hours usage before they noticeably get even less bright",
+      "fonte": "https://slickdeals.net/f/19428366-prime-ac-13-39-2-pk-kakanuo-5000mah-cordless-rechargeable-table-lamps-black-at-amazon",
+      "uso": "objecao principal: 'a bateria dura mesmo?' Resposta honesta: autonomia declarada no brilho medio, nao no minimo"
+    },
+    {
+      "tema": "Autonomia so vale no brilho minimo",
+      "citacao": "battery runtime 8-40 hours depending on the brightness used",
+      "fonte": "https://www.newegg.com/kakanuo-9rt85-table-lmap/p/0M1-0133-007M9",
+      "uso": "copy de PDP: tabela de horas por nivel de brilho (diferencial que nenhum concorrente mostra)"
+    },
+    {
+      "tema": "Luz fraca demais para ler",
+      "citacao": "not bright enough for reading or as a primary work light",
+      "fonte": "https://www.newegg.com/kakanuo-9rt85-table-lmap/p/0M1-0133-007M9",
+      "uso": "posicionar como luz de ambiente (aconchego), nunca como luz de leitura: evita devolucao"
+    },
+    {
+      "tema": "Ambiente aconchegante sem a luz do teto",
+      "citacao": "Think eye-level table lamps, low floor lamps, and maybe a soft accent light on a bookshelf. It creates pockets of light and shadow, which instantly makes a room feel intimate and relaxing",
+      "fonte": "https://www.realhomes.com/design/rental-friendly-lighting-ideas",
+      "uso": "angulo central: 'desligue a luz do teto' e monte cantos de luz quente"
+    },
+    {
+      "tema": "Inquilino: luz sem fio e sem obra",
+      "citacao": "about one-third of households in the United States rent their housing",
+      "fonte": "https://www.everycrsreport.com/files/2026-06-29_IF12887_21a0b2b23b1fdcfd4c3abdde8803ab569969f910.pdf",
+      "uso": "avatar secundario: inquilino (cerca de 46 milhoes de lares) que nao pode puxar fio nem furar parede"
+    },
+    {
+      "tema": "Arandela sem fio, de colar",
+      "citacao": "peel-and-stick wall sconces that need no wiring",
+      "fonte": "https://bobbyberk.com/lighting-upgrades-36-ways-to-brighten-up-a-rental/",
+      "uso": "produto de apoio: arandela recarregavel (upsell/colecao 2)"
+    },
+    {
+      "tema": "Abajur sem fio como presente de fim de ano",
+      "citacao": "describes giving it as a holiday gift to family members, including teens (battery up to 32 hours per charge)",
+      "fonte": "https://www.bobvila.com/reviews/rechargeable-lamp-gift-idea-2025.md",
+      "uso": "angulo sazonal: presente de Natal ate US$ 50, novembro e dezembro"
+    },
+    {
+      "tema": "Viral de loja fisica: abajur sem fio de casco de tartaruga",
+      "citacao": "one TikTok post had over 26,000 likes",
+      "fonte": "https://www.apartmenttherapy.com/homegoods-cordless-tortoise-shell-lamp-37517654",
+      "uso": "momentum: o formato 'abajur sem fio com cara de decoracao cara' viraliza no varejo americano"
+    }
+  ],
+  "lacunas": [
+    "Reddit (r/malelivingspace, r/AmateurRoomPorn, r/lighting): nenhuma thread retornada pelo WebSearch; linguagem literal de forum nao citada",
+    "Amazon reviews 1-3 estrelas: nao extraidas diretamente da Amazon (citadas via Slickdeals/Newegg/agregadores)",
+    "YouTube: comentarios nao coletados nesta rodada"
+  ]
+}

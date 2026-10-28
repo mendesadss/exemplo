@@ -1,0 +1,76 @@
+{
+  "product_handle": "cordless-mushroom-lamp",
+  "competitor": "Kiyo Home",
+  "competitor_product_title": "Metallic Mushroom Table Lamp",
+  "competitor_page": "https://kiyohome.com/products/mushroom-led-lamp",
+  "competitor_json": "https://kiyohome.com/products/mushroom-led-lamp.js",
+  "real_carousel_count": 18,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_BedsideStyling.png?v=1772753770",
+      "alt": "Metallic mushroom table lamp in silver on bedside table in softly lit bedroom",
+      "bytes": 873853
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_SilverFinishDetail.png?v=1772753770",
+      "alt": "Metallic mushroom table lamp in silver on side table with books",
+      "bytes": 754000
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_ModernLivingRoomStyling.jpg?v=1771267667",
+      "alt": "Metallic mushroom table lamp in gold on side table in warm interior",
+      "bytes": 89916
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-04.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/MetallicMushroomTableLamp_GoldFinishDetail.jpg?v=1771267687",
+      "alt": "Close-up of metallic mushroom table lamp in gold",
+      "bytes": 77319
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 11,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/black-metallic-mushroom-lamp-desk-lighting.png?v=1778600399",
+      "alt": "Metallic mushroom table lamp in black on desk beside laptop",
+      "bytes": 872036
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 13,
+      "file": "carrossel-concorrente/referencia-06.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/silver-metallic-mushroom-lamp-bedroom-styling.png?v=1778600425",
+      "alt": "Metallic mushroom table lamp in silver on bedside table with soft bedding",
+      "bytes": 943894
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 16,
+      "file": "carrossel-concorrente/referencia-07.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/silver-metallic-mushroom-lamp.png?v=1778600459",
+      "alt": "Silver metallic mushroom table lamp on white background",
+      "bytes": 672704
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 18,
+      "file": "carrossel-concorrente/referencia-08.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0693/5088/3578/files/black-metallic-mushroom-lamp_1.png?v=1778600468",
+      "alt": "Black metallic mushroom table lamp on white background",
+      "bytes": 641651
+    }
+  ]
+}

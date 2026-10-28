@@ -1,0 +1,211 @@
+{
+ "lightsstockholm.com": {
+  "dominio": "lightsstockholm.com",
+  "produtos": [],
+  "declarado_home": null,
+  "apps_review": [
+   "judge.me"
+  ]
+ },
+ "kiyohome.com": {
+  "dominio": "kiyohome.com",
+  "produtos": [
+   {
+    "handle": "wooden-birds",
+    "reviewCount": 3,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "brass-lizard",
+    "reviewCount": 13,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "vintage-green-square-glass-oil-lamp",
+    "reviewCount": 3,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "flameless-candles-set-of-9",
+    "reviewCount": 10,
+    "ratingValue": "4.90",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "brass-fox",
+    "reviewCount": 1,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "travertine-candle-holders",
+    "reviewCount": 4,
+    "ratingValue": "4.50",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "3-piece-elephant-family",
+    "reviewCount": 3,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "vintage-glass-bitters-bottles",
+    "reviewCount": 23,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "copper-octopus-statue",
+    "reviewCount": 4,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "calacatta-marble-bowl",
+    "reviewCount": 1,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "wooden-hydroponic-vase",
+    "reviewCount": 1,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "gold-coral-sculptures",
+    "reviewCount": 1,
+    "ratingValue": "5.00",
+    "fonte": "schema.org"
+   }
+  ],
+  "declarado_home": null,
+  "apps_review": [
+   "judge.me"
+  ],
+  "pedidos_estimados": {
+   "base_reviews": 67,
+   "fonte_base": "soma de 12 produtos amostrados (piso, nao total)",
+   "a_3pct": 2233,
+   "a_1pct": 6700
+  }
+ },
+ "popular.lighting": {
+  "dominio": "popular.lighting",
+  "produtos": [
+   {
+    "handle": "brilliance",
+    "reviewCount": 1231,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "casa-lux",
+    "reviewCount": 83,
+    "ratingValue": "4.6",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "cute-animal-night-lights",
+    "reviewCount": 10,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "elegance",
+    "reviewCount": 12,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "led-lantern",
+    "reviewCount": 1,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "luna-glow",
+    "reviewCount": 5,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   }
+  ],
+  "declarado_home": null,
+  "apps_review": [
+   "loox"
+  ],
+  "pedidos_estimados": {
+   "base_reviews": 1342,
+   "fonte_base": "soma de 6 produtos amostrados (piso, nao total)",
+   "a_3pct": 44733,
+   "a_1pct": 134200
+  }
+ },
+ "creative.lighting": {
+  "dominio": "creative.lighting",
+  "produtos": [],
+  "declarado_home": null,
+  "apps_review": []
+ },
+ "lightscordless.com": {
+  "dominio": "lightscordless.com",
+  "produtos": [
+   {
+    "handle": "portable-table-lamp",
+    "reviewCount": 231,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "cordless-table-lamp",
+    "reviewCount": 57,
+    "ratingValue": "4.9",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "mini-luminar",
+    "reviewCount": 14,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "black-battery-operated-wall-sconces",
+    "reviewCount": 24,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "long-arm-clip-double-head-folding-desk-lamp",
+    "reviewCount": 1,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "harmony™-lamp-buy-1-get-1-free",
+    "reviewCount": 2,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "illuminate-anywhere-your-portable-light-companion",
+    "reviewCount": 2,
+    "ratingValue": "5.0",
+    "fonte": "schema.org"
+   }
+  ],
+  "declarado_home": null,
+  "apps_review": [
+   "loox"
+  ],
+  "pedidos_estimados": {
+   "base_reviews": 331,
+   "fonte_base": "soma de 7 produtos amostrados (piso, nao total)",
+   "a_3pct": 11033,
+   "a_1pct": 33100
+  }
+ }
+}

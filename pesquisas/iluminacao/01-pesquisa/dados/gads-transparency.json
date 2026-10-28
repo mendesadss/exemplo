@@ -1,0 +1,34 @@
+{
+ "lightsstockholm.com": {
+  "anuncia": true,
+  "contagem": 19,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=lightsstockholm.com"
+ },
+ "kiyohome.com": {
+  "anuncia": true,
+  "contagem": 5,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=kiyohome.com"
+ },
+ "popular.lighting": {
+  "anuncia": false,
+  "contagem": 0,
+  "status": "sem anúncio encontrado no Google Ads (0 resultado, confirmado pelo contador da própria página)",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=popular.lighting"
+ },
+ "creative.lighting": {
+  "anuncia": null,
+  "status": "NAO PARSEOU o contador — ler o .txt bruto manualmente antes de declarar",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=creative.lighting"
+ },
+ "lightscordless.com": {
+  "anuncia": true,
+  "contagem": 57,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=lightscordless.com"
+ }
+}

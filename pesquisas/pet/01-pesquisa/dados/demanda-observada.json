@@ -1,0 +1,134 @@
+{
+  "data": "2026-10-20",
+  "pais": "US",
+  "termos": [
+    {
+      "termo": "pet photo gifts",
+      "anuncios_ativos": 2207,
+      "intencao": "comprar",
+      "sazonalidade": "qualquer época; pico no fim do ano",
+      "serve_para": "ângulo geral de presente com foto"
+    },
+    {
+      "termo": "pet portrait on canvas",
+      "anuncios_ativos": 877,
+      "intencao": "comprar",
+      "sazonalidade": "fim de ano e aniversário",
+      "serve_para": "manta e poster com retrato"
+    },
+    {
+      "termo": "custom pet blanket",
+      "anuncios_ativos": 657,
+      "intencao": "comprar",
+      "sazonalidade": "inverno e fim de ano",
+      "serve_para": "a manta (produto principal). Contagem com ruído de apps de série"
+    },
+    {
+      "termo": "custom pet portraits",
+      "anuncios_ativos": 516,
+      "intencao": "comprar",
+      "sazonalidade": "qualquer época",
+      "serve_para": "retrato personalizado"
+    },
+    {
+      "termo": "personalized pet blanket",
+      "anuncios_ativos": 499,
+      "intencao": "comprar",
+      "sazonalidade": "inverno e fim de ano",
+      "serve_para": "a manta (produto principal)"
+    },
+    {
+      "termo": "cat memorial gifts",
+      "anuncios_ativos": 362,
+      "intencao": "ocasião (luto)",
+      "sazonalidade": "qualquer época",
+      "serve_para": "ornamento e planter. Contagem com ruído"
+    },
+    {
+      "termo": "pet memorial gifts",
+      "anuncios_ativos": 339,
+      "intencao": "ocasião (luto)",
+      "sazonalidade": "qualquer época, pico no Natal",
+      "serve_para": "ornamento, planter, chaveiro"
+    },
+    {
+      "termo": "dog memorial gifts",
+      "anuncios_ativos": 185,
+      "intencao": "ocasião (luto)",
+      "sazonalidade": "qualquer época",
+      "serve_para": "ornamento, planter, chaveiro"
+    },
+    {
+      "termo": "memorial gifts for dog owners",
+      "anuncios_ativos": 135,
+      "intencao": "ocasião (luto)",
+      "sazonalidade": "qualquer época",
+      "serve_para": "conjunto memorial"
+    },
+    {
+      "termo": "pet memorial christmas ornament",
+      "anuncios_ativos": 71,
+      "intencao": "comprar",
+      "sazonalidade": "outubro a dezembro",
+      "serve_para": "o ornamento (order bump)"
+    },
+    {
+      "termo": "pet loss gifts",
+      "anuncios_ativos": 62,
+      "intencao": "problema (luto)",
+      "sazonalidade": "qualquer época",
+      "serve_para": "comunicação do memorial. Contagem com ruído"
+    },
+    {
+      "termo": "pet loss gift ideas",
+      "anuncios_ativos": 3,
+      "intencao": "pesquisar",
+      "sazonalidade": "qualquer época",
+      "serve_para": "conteúdo e anúncio de descoberta"
+    }
+  ],
+  "matriz_paises": [
+    {
+      "pais": "Estados Unidos",
+      "codigo": "US",
+      "amplo": 4914,
+      "angulo_memorial": 1682,
+      "razao": 0.34
+    },
+    {
+      "pais": "Reino Unido",
+      "codigo": "GB",
+      "amplo": 2161,
+      "angulo_memorial": 913,
+      "razao": 0.42
+    },
+    {
+      "pais": "Canadá",
+      "codigo": "CA",
+      "amplo": 2179,
+      "angulo_memorial": 875,
+      "razao": 0.4
+    },
+    {
+      "pais": "Austrália",
+      "codigo": "AU",
+      "amplo": 1817,
+      "angulo_memorial": 819,
+      "razao": 0.45
+    },
+    {
+      "pais": "Irlanda",
+      "codigo": "IE",
+      "amplo": 808,
+      "angulo_memorial": 261,
+      "razao": 0.32
+    },
+    {
+      "pais": "Nova Zelândia",
+      "codigo": "NZ",
+      "amplo": 474,
+      "angulo_memorial": 398,
+      "razao": 0.84
+    }
+  ]
+}

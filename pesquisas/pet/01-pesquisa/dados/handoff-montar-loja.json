@@ -1,0 +1,16 @@
+{
+  "pronto_para": "/montar-loja",
+  "build": "dados/build.json",
+  "bloqueios": [
+    "amostra e fotos reais do produto (REFERÊNCIA PENDENTE)",
+    "custo real de fornecedor",
+    "escolha do aplicativo de personalização"
+  ],
+  "produtos": [
+    "watercolor-pet-portrait-throw-blanket",
+    "pet-memorial-acrylic-ornament",
+    "pet-memorial-ceramic-planter",
+    "pet-fur-keepsake-keychain",
+    "remembrance-gift-set"
+  ]
+}

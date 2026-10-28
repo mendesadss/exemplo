@@ -503,3 +503,7 @@ ol.steps li b{color:var(--txt);display:block;margin-bottom:2px}
 /* Paleta clara da referencia, sem alterar a geometria dos componentes. */
 .ad .media .fmt[style*="rgba(12,12,10,.85)"]{background:rgba(255,255,255,.95)!important;color:var(--txt);border-color:var(--line2)}
 :root{color-scheme:light}
+
+/* Exibe a mídia inteira, com reprodução dos vídeos originais. */
+.ad .media img,.ad .media video{width:100%;height:100%;object-fit:contain;display:block}
+.ad .media .fmt{pointer-events:none}
